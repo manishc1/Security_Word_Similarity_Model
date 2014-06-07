@@ -63,7 +63,7 @@ public class Transform {
 			System.out.println(i + " is done.");
 		}
 		*/
-
+		
 		//Transform utility = new Transform("/home/lushan1/nlp/model/webbase2012sfd/webbase2012AllW2");
 		//utility.SaveTranformedModel("/home/lushan1/nlp/model/SVD/webbase2012AllW2");
 
@@ -73,8 +73,8 @@ public class Transform {
 		//Transform utility = new Transform("/home/lushan1/nlp/model/combine/gutn_ukwac_part_AllW2");
 		//utility.SaveTranformedModel("/home/lushan1/nlp/model/SVD/gutn_ukwac_part_AllW2");
 
-		Transform utility = new Transform("/home/lushan1/nlp/model/Gutenberg2010sfd/Gutenberg2010AllW3");
-		utility.SaveTranformedModel("/home/lushan1/nlp/model/SVD/Gutenberg2010AllW3");
+		//Transform utility = new Transform("/home/lushan1/nlp/model/Gutenberg2010sfd/Gutenberg2010AllW3");
+		//utility.SaveTranformedModel("/home/lushan1/nlp/model/SVD/Gutenberg2010AllW3");
 
 		//Transform utility = new Transform("/home/lushan1/nlp/model/Wikipedia2006sfd/Wikipedia2006AllW5");
 		//utility.SaveTranformedModel("/home/lushan1/nlp/model/SVD/Wikipedia2006AllW5");
@@ -82,6 +82,9 @@ public class Transform {
 		//Transform utility = new Transform("/home/lushan1/nlp/model/combine/Gutenberg2010_Wikipedia2006_AllW5");
 		//utility.SaveTranformedModel("/home/lushan1/nlp/model/SVD/Guten2010_Wiki2006_AllW5");
 
+		Transform utility = new Transform("/home/manish/lushan/nlp/model/CVE");
+		utility.SaveTranformedModel("/home/manish/lushan/nlp/model/CVE");
+		
 		System.out.println("Congratulation! Task Finished.");
 
 		//System.out.println("Max value is " + utility.model1.getMaxValue());
