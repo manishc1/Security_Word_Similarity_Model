@@ -1,0 +1,7 @@
+homepage
+name
+givenName
+familyName
+nick
+thumbnail
+page

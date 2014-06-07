@@ -1,0 +1,123 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>GoRelations: an Intuitive Query System for DBpedia</title>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-29255849-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+
+<body>
+<a href="manual.html">Manual</a>&nbsp;&nbsp;<a href="experiments.html">Experiments</a>&nbsp;&nbsp;<a href="qa.html">Q&A</a>&nbsp;&nbsp;<a href="http://ebiq.org/j/95">About</a>
+<p>&nbsp;</p>
+
+<table border="0" width="100%" align="center">
+ 
+	<tr>
+		<td align="center">
+                        <a href="main.html"><img border="0" src="gor_logo.jpg" width="500"/></a>
+		<p>&nbsp;</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="100%">
+		
+		<center>
+		<form action="GOR2" method="post" border="1">
+
+			<table border="0" width="500" align="center">
+				<tr align="center">
+					<td align="left"  width="100%">
+					<b>Input the relations in your query, one per line, or try one of the examples below</b>
+					<br/>
+					</td>
+				</tr>
+				<tr align="center">
+					<td align="left">
+					<textarea style="overflow:auto;" name="relations" cols="80" rows="4">
+$query
+</textarea>
+					</td>
+				</tr>
+				<tr>
+					<td align="left">
+       					Examples:
+                                        <a href="example1.html">1</a>&nbsp;
+                                        <a href="example2.html">2</a>&nbsp;
+                                        <a href="example3.html">3</a>&nbsp;
+                                        <a href="example4.html">4</a>&nbsp;
+                                        <a href="example5.html">5</a>&nbsp;
+                                        <a href="example6.html">6</a>&nbsp;
+                                        <a href="example7.html">7</a>&nbsp;
+                                        <a href="example8.html">8</a>&nbsp;
+                                        <a href="example9.html">9</a>&nbsp;
+                                        <a href="example10.html">10</a>&nbsp;
+                                        <a href="example11.html">11</a>&nbsp;
+                                        <a href="example12.html">12</a>&nbsp;
+                                        <a href="example13.html">13</a>&nbsp;
+                                        <a href="example14.html">14</a>&nbsp;
+                                        <a href="example15.html">15</a>&nbsp;
+                                        <a href="example16.html">16</a>&nbsp;
+                                        <a href="example17.html">17</a>&nbsp;
+                                        <a href="example18.html">18</a>&nbsp;
+                                        <a href="example19.html">19</a>&nbsp;
+                                        <a href="example20.html">20</a>&nbsp;
+                                        <a href="example21.html">21</a>&nbsp;
+                                        <a href="example22.html">22</a>&nbsp;
+                                        <a href="example23.html">23</a>&nbsp;
+					</td>
+				</tr>
+			</table>
+
+		<br/>
+		<input type="hidden"  value="mainpage" name="formType">
+                <input type="submit" style="font-size:medium;" name="query" value="Query" title="Generate a SPARQL query with type constraints"/> &nbsp;&nbsp;
+                <input type="submit" style="font-size:medium;" name="query" value="Relaxed Query" title="Generate a SPARQL query without type constraints"/> &nbsp;&nbsp;
+		<input type="submit" style="font-size:medium;" name="query" value="See Translations" />
+		</form>
+
+		<br/>
+		<br/>
+		<table border="0">
+			<tr valign="top">
+				<td>
+					<font size="2">Message:&nbsp;</font>
+				</td>
+				<td align="top">
+					<textarea style="border: 0;overflow:auto;" readonly="readonly" cols="70" rows="10">
+$message
+</textarea>
+				</td>
+			<tr>
+		</table>
+		<br/>
+		<br/>
+		<br/>
+		</center>
+
+		<center>
+			Powered by <a href="http://wiki.dbpedia.org/Ontology">DBpedia</a> and <a href="http://virtuoso.openlinksw.com">Virtuoso</a>
+		</center>
+		<center>
+			2011 <a href="http://ebiquity.umbc.edu">Ebiquity Lab</a>, <a href="http://www.umbc.edu">UMBC</a>.
+                        <br><br>
+                        <small><a href="mailto:gorelations@googlegroups.com">Contact us</a> - gorelations [AT] googlegroups.com</small>
+
+		</center>
+
+		</td>
+
+	</tr>
+
+</table>
+
+</body>
+</html>

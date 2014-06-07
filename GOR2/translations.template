@@ -1,0 +1,541 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>GoRelations -- Translations</title>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-29255849-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+
+<body>
+
+<center>
+<h1>Three Top Interpretations of the User Query</h1>
+</center>
+
+<p>&nbsp;</p>
+
+<table border="0" align="left">
+	<tr>
+		<td colspan="2">
+		<h2>Top One Interpretation</h2>
+		</td>
+	</tr> 
+	<tr>
+		<!-- Before Step Three -->
+		<td align="center">
+
+		<table border="0" width="300" align="left">
+
+			<tr>
+				<td colspan="2" align="center">
+				<table border="0" align="center">
+					<tr>
+						<td align="center">
+						<b>Before Step Three</b>
+						</td>
+					</tr>
+					<tr>
+						<td>
+		                		<textarea style="overflow:auto;" readonly="readonly" cols="80" rows="9">
+$interpretation
+</textarea>
+						</td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+	
+			<tr>	
+				<td align="center">
+
+					<table border="0" width="300" align="left">
+						<tr align="center">
+                       		                         <td align="left"  width="100%">
+                               		                 <b>The Regular SPARQL Query</b>
+                                       		         <br/>
+                                               		 </td>
+						</tr>
+						<tr align="center">
+							<td align="left">
+							<form action="GoRelations" method="post" STYLE="margin:0; text-align:center;">
+								<textarea name="sparql" cols="40" rows="12" wrap="off">
+$sparql
+</textarea>
+								<br/>
+								<input type="hidden"  value="SparqlQuery" name="formType">
+								<input type="submit" style="font-size:medium;" name="Query" value="Query"/> 
+							</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+
+				<td align="center">
+
+					<table border="0" width="300" align="left">
+						<tr align="center">
+                       		                         <td align="left"  width="100%">
+                               		                 <b>The Concise SPARQL Query</b>
+                                       		         <br/>
+                                               		 </td>
+						</tr>
+						<tr align="center">
+							<td align="left">
+							<form action="GoRelations" method="post" STYLE="margin:0; text-align:center;">
+								<textarea name="sparql" cols="40" rows="12" wrap="off">
+$sparql
+</textarea>
+								<br/>
+								<input type="hidden"  value="SparqlQuery" name="formType">
+								<input type="submit" style="font-size:medium;" name="Query" value="Query"/> 
+							</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+
+			</tr>
+		</table>
+                </td>
+
+		<td>
+			&nbsp;&nbsp;
+		</td>
+
+		<!-- After Step Three -->
+		<td align="center">
+
+		<table border="0" width="300" align="left">
+
+			<tr>
+				<td colspan="2" align="center">
+				<table border="0" align="center">
+					<tr>
+						<td align="center">
+						<b>After Step Three</b>
+						</td>
+					</tr>
+					<tr>
+						<td>
+		                		<textarea style="overflow:auto;" readonly="readonly" cols="80" rows="9">
+$interpretation
+</textarea>
+						</td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+	
+			<tr>	
+				<td align="center">
+
+					<table border="0" width="300" align="left">
+						<tr align="center">
+                       		                         <td align="left"  width="100%">
+                               		                 <b>The Regular SPARQL Query</b>
+                                       		         <br/>
+                                               		 </td>
+						</tr>
+						<tr align="center">
+							<td align="left">
+							<form action="GoRelations" method="post" STYLE="margin:0; text-align:center;">
+								<textarea name="sparql" cols="40" rows="12" wrap="off">
+$sparql
+</textarea>
+								<br/>
+								<input type="hidden"  value="SparqlQuery" name="formType">
+								<input type="submit" style="font-size:medium;" name="Query" value="Query"/> 
+							</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+
+				<td align="center">
+
+					<table border="0" width="300" align="left">
+						<tr align="center">
+                       		                         <td align="left"  width="100%">
+                               		                 <b>The Concise SPARQL Query</b>
+                                       		         <br/>
+                                               		 </td>
+						</tr>
+						<tr align="center">
+							<td align="left">
+							<form action="GoRelations" method="post" STYLE="margin:0; text-align:center;">
+								<textarea name="sparql" cols="40" rows="12" wrap="off">
+$sparql
+</textarea>
+								<br/>
+								<input type="hidden"  value="SparqlQuery" name="formType">
+								<input type="submit" style="font-size:medium;" name="Query" value="Query"/> 
+							</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+
+			</tr>
+		</table>
+                </td>
+        </tr>
+
+	<tr>
+		<td colspan="2">
+			<h3>&nbsp;</h3>
+		</td>
+
+	</tr>
+
+	<tr>
+		<td colspan="2">
+			<h2>Top Two Interpretation</h2>
+		</td>
+	</tr> 
+	<tr>
+		<!-- Before Step Three -->
+		<td align="center">
+
+		<table border="0" width="300" align="left">
+
+			<tr>
+				<td colspan="2" align="center">
+				<table border="0" align="center">
+					<tr>
+						<td align="center">
+						<b>Before Step Three</b>
+						</td>
+					</tr>
+					<tr>
+						<td>
+		                		<textarea style="overflow:auto;" readonly="readonly" cols="80" rows="9">
+$interpretation
+</textarea>
+						</td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+	
+			<tr>	
+				<td align="center">
+
+					<table border="0" width="300" align="left">
+						<tr align="center">
+                       		                         <td align="left"  width="100%">
+                               		                 <b>The Regular SPARQL Query</b>
+                                       		         <br/>
+                                               		 </td>
+						</tr>
+						<tr align="center">
+							<td align="left">
+							<form action="GoRelations" method="post" STYLE="margin:0; text-align:center;">
+								<textarea name="sparql" cols="40" rows="12" wrap="off">
+$sparql
+</textarea>
+								<br/>
+								<input type="hidden"  value="SparqlQuery" name="formType">
+								<input type="submit" style="font-size:medium;" name="Query" value="Query"/> 
+							</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+
+				<td align="center">
+
+					<table border="0" width="300" align="left">
+						<tr align="center">
+                       		                         <td align="left"  width="100%">
+                               		                 <b>The Concise SPARQL Query</b>
+                                       		         <br/>
+                                               		 </td>
+						</tr>
+						<tr align="center">
+							<td align="left">
+							<form action="GoRelations" method="post" STYLE="margin:0; text-align:center;">
+								<textarea name="sparql" cols="40" rows="12" wrap="off">
+$sparql
+</textarea>
+								<br/>
+								<input type="hidden"  value="SparqlQuery" name="formType">
+								<input type="submit" style="font-size:medium;" name="Query" value="Query"/> 
+							</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+                </td>
+
+		<td>
+			&nbsp;&nbsp;
+		</td>
+
+		<!-- After Step Three -->
+		<td align="center">
+
+		<table border="0" width="300" align="left">
+
+			<tr>
+				<td colspan="2" align="center">
+				<table border="0" align="center">
+					<tr>
+						<td align="center">
+						<b>After Step Three</b>
+						</td>
+					</tr>
+					<tr>
+						<td>
+		                		<textarea style="overflow:auto;" readonly="readonly" cols="80" rows="9">
+$interpretation
+</textarea>
+						</td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+	
+			<tr>	
+				<td align="center">
+
+					<table border="0" width="300" align="left">
+						<tr align="center">
+                       		                         <td align="left"  width="100%">
+                               		                 <b>The Regular SPARQL Query</b>
+                                       		         <br/>
+                                               		 </td>
+						</tr>
+						<tr align="center">
+							<td align="left">
+							<form action="GoRelations" method="post" STYLE="margin:0; text-align:center;">
+								<textarea name="sparql" cols="40" rows="12" wrap="off">
+$sparql
+</textarea>
+								<br/>
+								<input type="hidden"  value="SparqlQuery" name="formType">
+								<input type="submit" style="font-size:medium;" name="Query" value="Query"/> 
+							</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+
+				<td align="center">
+
+					<table border="0" width="300" align="left">
+						<tr align="center">
+                       		                         <td align="left"  width="100%">
+                               		                 <b>The Concise SPARQL Query</b>
+                                       		         <br/>
+                                               		 </td>
+						</tr>
+						<tr align="center">
+							<td align="left">
+							<form action="GoRelations" method="post" STYLE="margin:0; text-align:center;">
+								<textarea name="sparql" cols="40" rows="12" wrap="off">
+$sparql
+</textarea>
+								<br/>
+								<input type="hidden"  value="SparqlQuery" name="formType">
+								<input type="submit" style="font-size:medium;" name="Query" value="Query"/> 
+							</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+
+			</tr>
+		</table>
+                </td>
+        </tr>
+
+
+	<tr>
+		<td colspan="2">
+			<h3>&nbsp;</h3>
+		</td>
+
+	</tr>
+
+	<tr>
+		<td colspan="2">
+			<h2>Top Three Interpretation</h2>
+		</td>
+	</tr> 
+	<tr>
+		<!-- Before Step Three -->
+		<td align="center">
+
+		<table border="0" width="300" align="left">
+
+			<tr>
+				<td colspan="2" align="center">
+				<table border="0" align="center">
+					<tr>
+						<td align="center">
+						<b>Before Step Three</b>
+						</td>
+					</tr>
+					<tr>
+						<td>
+		                		<textarea style="overflow:auto;" readonly="readonly" cols="80" rows="9">
+$interpretation
+</textarea>
+						</td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+	
+			<tr>	
+				<td align="center">
+
+					<table border="0" width="300" align="left">
+						<tr align="center">
+                       		                         <td align="left"  width="100%">
+                               		                 <b>The Regular SPARQL Query</b>
+                                       		         <br/>
+                                               		 </td>
+						</tr>
+						<tr align="center">
+							<td align="left">
+							<form action="GoRelations" method="post" STYLE="margin:0; text-align:center;">
+								<textarea name="sparql" cols="40" rows="12" wrap="off">
+$sparql
+</textarea>
+								<br/>
+								<input type="hidden"  value="SparqlQuery" name="formType">
+								<input type="submit" style="font-size:medium;" name="Query" value="Query"/> 
+							</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+
+				<td align="center">
+
+					<table border="0" width="300" align="left">
+						<tr align="center">
+                       		                         <td align="left"  width="100%">
+                               		                 <b>The Concise SPARQL Query</b>
+                                       		         <br/>
+                                               		 </td>
+						</tr>
+						<tr align="center">
+							<td align="left">
+							<form action="GoRelations" method="post" STYLE="margin:0; text-align:center;">
+								<textarea name="sparql" cols="40" rows="12" wrap="off">
+$sparql
+</textarea>
+								<br/>
+								<input type="hidden"  value="SparqlQuery" name="formType">
+								<input type="submit" style="font-size:medium;" name="Query" value="Query"/> 
+							</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+
+			</tr>
+		</table>
+                </td>
+
+		<td>
+			&nbsp;&nbsp;
+		</td>
+
+		<!-- After Step Three -->
+		<td align="center">
+
+		<table border="0" width="300" align="left">
+
+			<tr>
+				<td colspan="2" align="center">
+				<table border="0" align="center">
+					<tr>
+						<td align="center">
+						<b>After Step Three</b>
+						</td>
+					</tr>
+					<tr>
+						<td>
+		                		<textarea style="overflow:auto;" readonly="readonly" cols="80" rows="9">
+$interpretation
+</textarea>
+						</td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+	
+			<tr>	
+				<td align="center">
+
+					<table border="0" width="300" align="left">
+						<tr align="center">
+                       		                         <td align="left"  width="100%">
+                               		                 <b>The Regular SPARQL Query</b>
+                                       		         <br/>
+                                               		 </td>
+						</tr>
+						<tr align="center">
+							<td align="left">
+							<form action="GoRelations" method="post" STYLE="margin:0; text-align:center;">
+								<textarea name="sparql" cols="40" rows="12" wrap="off">
+$sparql
+</textarea>
+								<br/>
+								<input type="hidden"  value="SparqlQuery" name="formType">
+								<input type="submit" style="font-size:medium;" name="Query" value="Query"/> 
+							</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+
+				<td align="center">
+
+					<table border="0" width="300" align="left">
+						<tr align="center">
+                       		                         <td align="left"  width="100%">
+                               		                 <b>The Concise SPARQL Query</b>
+                                       		         <br/>
+                                               		 </td>
+						</tr>
+						<tr align="center">
+							<td align="left">
+							<form action="GoRelations" method="post" STYLE="margin:0; text-align:center;">
+								<textarea name="sparql" cols="40" rows="12" wrap="off">
+$sparql
+</textarea>
+								<br/>
+								<input type="hidden"  value="SparqlQuery" name="formType">
+								<input type="submit" style="font-size:medium;" name="Query" value="Query"/> 
+							</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+
+			</tr>
+		</table>
+                </td>
+        </tr>
+
+
+
+</table>
+
+</body>
+</html>

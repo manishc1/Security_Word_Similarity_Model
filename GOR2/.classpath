@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="WEB-INF/src"/>
+	<classpathentry kind="src" output="work" path="work"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/commons-lang-2.1.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/icu4j_3_4.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/semdisAPI_v0_3.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/commons-logging.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/jena.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/semdisImpl_v0_5.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/xercesImpl.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/httpclient-4.2.3.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/httpcore-4.2.2.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/joda-time.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/mysql-connector-java-5.1.13-bin.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/xom.jar"/>
+	<classpathentry kind="output" path="WEB-INF/classes"/>
+</classpath>
