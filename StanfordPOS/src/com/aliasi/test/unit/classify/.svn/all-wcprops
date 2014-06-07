@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/classify
+END
+TfIdfClassifierTrainerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/classify/TfIdfClassifierTrainerTest.java
+END
+PerceptronClassifierTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/classify/PerceptronClassifierTest.java
+END
+ConfusionMatrixTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/classify/ConfusionMatrixTest.java
+END
+BigVectorClassifierTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/classify/BigVectorClassifierTest.java
+END
+KnnClassifierTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/classify/KnnClassifierTest.java
+END
+NaiveBayesClassifierTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/classify/NaiveBayesClassifierTest.java
+END
+testFile1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/classify/testFile1.txt
+END
+JointClassificationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/classify/JointClassificationTest.java
+END
+BernoulliClassifierTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/classify/BernoulliClassifierTest.java
+END
+TradNaiveBayesClassifierTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/classify/TradNaiveBayesClassifierTest.java
+END
+ScoredPrecisionRecallEvaluationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/classify/ScoredPrecisionRecallEvaluationTest.java
+END
+PrecisionRecallEvaluationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/classify/PrecisionRecallEvaluationTest.java
+END
+ClassifierEvaluatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/classify/ClassifierEvaluatorTest.java
+END
+ConditionalClassificationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/classify/ConditionalClassificationTest.java
+END
+DynamicLMClassifierTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/classify/DynamicLMClassifierTest.java
+END
+BinaryLMClassifierTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/classify/BinaryLMClassifierTest.java
+END
+LogisticRegressionClassifierTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/classify/LogisticRegressionClassifierTest.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/coref
+END
+WithinDocCorefTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/coref/WithinDocCorefTest.java
+END
+EnglishMentionFactoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/coref/EnglishMentionFactoryTest.java
+END
+MentionChainImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/coref/MentionChainImplTest.java
+END
+CachedMentionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/coref/CachedMentionTest.java
+END

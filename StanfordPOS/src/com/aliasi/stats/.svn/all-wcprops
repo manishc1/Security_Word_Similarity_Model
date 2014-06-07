@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/stats
+END
+ZipfDistribution.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/stats/ZipfDistribution.java
+END
+AnnealingSchedule.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/stats/AnnealingSchedule.java
+END
+LogisticRegression.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/stats/LogisticRegression.java
+END
+MultivariateConstant.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/stats/MultivariateConstant.java
+END
+PoissonEstimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/stats/PoissonEstimator.java
+END
+BernoulliEstimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/stats/BernoulliEstimator.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/stats/package-info.java
+END
+OnlineNormalEstimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/stats/OnlineNormalEstimator.java
+END
+AbstractDiscreteDistribution.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/stats/AbstractDiscreteDistribution.java
+END
+PoissonDistribution.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/stats/PoissonDistribution.java
+END
+MultinomialDistribution.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/stats/MultinomialDistribution.java
+END
+BinomialDistribution.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/stats/BinomialDistribution.java
+END
+Statistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/stats/Statistics.java
+END
+BernoulliDistribution.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/stats/BernoulliDistribution.java
+END
+RegressionPrior.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/stats/RegressionPrior.java
+END
+MultivariateEstimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/stats/MultivariateEstimator.java
+END
+Model.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/stats/Model.java
+END
+DiscreteDistribution.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/stats/DiscreteDistribution.java
+END
+PoissonConstant.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/stats/PoissonConstant.java
+END
+BernoulliConstant.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/stats/BernoulliConstant.java
+END
+MultivariateDistribution.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/stats/MultivariateDistribution.java
+END

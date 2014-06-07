@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/stats
+END
+PoissonConstantTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/stats/PoissonConstantTest.java
+END
+BernoulliConstantTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/stats/BernoulliConstantTest.java
+END
+MultivariateDistributionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/stats/MultivariateDistributionTest.java
+END
+ZipfDistributionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/stats/ZipfDistributionTest.java
+END
+LogisticRegressionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/stats/LogisticRegressionTest.java
+END
+MultivariateConstantTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/stats/MultivariateConstantTest.java
+END
+PoissonEstimatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/stats/PoissonEstimatorTest.java
+END
+BernoulliEstimatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/stats/BernoulliEstimatorTest.java
+END
+OnlineNormalEstimatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/stats/OnlineNormalEstimatorTest.java
+END
+AbstractDiscreteDistributionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/stats/AbstractDiscreteDistributionTest.java
+END
+StatisticsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/stats/StatisticsTest.java
+END
+PoissonDistributionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/stats/PoissonDistributionTest.java
+END
+MultinomialDistributionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/stats/MultinomialDistributionTest.java
+END
+BinomialDistributionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/stats/BinomialDistributionTest.java
+END
+BernoulliDistributionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/stats/BernoulliDistributionTest.java
+END
+RegressionPriorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/stats/RegressionPriorTest.java
+END
+MultivariateEstimatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/stats/MultivariateEstimatorTest.java
+END

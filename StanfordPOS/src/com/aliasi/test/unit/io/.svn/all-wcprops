@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/io
+END
+BitInputTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/io/BitInputTest.java
+END
+BitOutputTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/io/BitOutputTest.java
+END
+FileExtensionFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/io/FileExtensionFilterTest.java
+END
+ReportersTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/io/ReportersTest.java
+END
+FileNameFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/io/FileNameFilterTest.java
+END
+LogLevelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/io/LogLevelTest.java
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/optimization
+END
+CGMinimizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/optimization/CGMinimizer.java
+END
+DiffFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/optimization/DiffFunction.java
+END
+QNMinimizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/optimization/QNMinimizer.java
+END
+Minimizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/optimization/Minimizer.java
+END
+DiffFloatFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/optimization/DiffFloatFunction.java
+END
+OWLQNMinimizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/optimization/OWLQNMinimizer.java
+END
+Function.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/optimization/Function.java
+END
+StochasticCalculateMethods.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/optimization/StochasticCalculateMethods.java
+END
+FloatFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/optimization/FloatFunction.java
+END

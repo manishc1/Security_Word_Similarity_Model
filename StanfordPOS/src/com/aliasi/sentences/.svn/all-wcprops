@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/sentences
+END
+SentenceEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/sentences/SentenceEvaluator.java
+END
+AbstractSentenceModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/sentences/AbstractSentenceModel.java
+END
+SentenceEvaluation.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/sentences/SentenceEvaluation.java
+END
+IndoEuropeanSentenceModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/sentences/IndoEuropeanSentenceModel.java
+END
+MedlineSentenceModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/sentences/MedlineSentenceModel.java
+END
+SentenceAnnotateFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/sentences/SentenceAnnotateFilter.java
+END
+SentenceChunker.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/sentences/SentenceChunker.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/sentences/package-info.java
+END
+HeuristicSentenceModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/sentences/HeuristicSentenceModel.java
+END
+SentenceModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/sentences/SentenceModel.java
+END

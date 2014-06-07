@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/coref
+END
+WithinDocCoref.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/coref/WithinDocCoref.java
+END
+Mention.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/coref/Mention.java
+END
+EnglishMentionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/coref/EnglishMentionFactory.java
+END
+MentionChain.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/coref/MentionChain.java
+END
+MentionChainImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/coref/MentionChainImpl.java
+END
+Tags.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/coref/Tags.java
+END
+AbstractMentionChain.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/coref/AbstractMentionChain.java
+END
+CachedMention.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/coref/CachedMention.java
+END
+MentionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/coref/MentionFactory.java
+END
+Killer.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/coref/Killer.java
+END
+Matcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/coref/Matcher.java
+END
+BooleanMatcherAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/coref/BooleanMatcherAdapter.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/coref/package-info.java
+END
+AbstractMentionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/coref/AbstractMentionFactory.java
+END

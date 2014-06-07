@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/medline
+END
+GrantList.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/medline/GrantList.java
+END
+MedlineCitation.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/medline/MedlineCitation.java
+END
+Journal.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/medline/Journal.java
+END
+MedlineHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/medline/MedlineHandler.java
+END
+Grant.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/medline/Grant.java
+END
+KeywordList.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/medline/KeywordList.java
+END
+MedlineCitationSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/medline/MedlineCitationSet.java
+END
+MedlineParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/medline/MedlineParser.java
+END
+NameId.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/medline/NameId.java
+END
+MedlineChars.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/medline/MedlineChars.java
+END
+DataBankList.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/medline/DataBankList.java
+END
+DataBank.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/medline/DataBank.java
+END
+MeshHeading.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/medline/MeshHeading.java
+END
+Investigator.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/medline/Investigator.java
+END
+Topic.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/medline/Topic.java
+END
+Name.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/medline/Name.java
+END
+ArticleDate.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/medline/ArticleDate.java
+END
+JournalIssue.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/medline/JournalIssue.java
+END
+Article.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/medline/Article.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/medline/package-info.java
+END
+PubDate.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/medline/PubDate.java
+END
+JournalInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/medline/JournalInfo.java
+END
+nlmmedlinecitationset_100101.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/medline/nlmmedlinecitationset_100101.dtd
+END
+ELocationId.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/medline/ELocationId.java
+END
+CommentOrCorrection.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/medline/CommentOrCorrection.java
+END
+AuthorList.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/medline/AuthorList.java
+END
+OtherID.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/medline/OtherID.java
+END
+Author.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/medline/Author.java
+END
+GeneralNote.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/medline/GeneralNote.java
+END
+Abstract.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/medline/Abstract.java
+END
+PersonalNameSubject.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/medline/PersonalNameSubject.java
+END
+Chemical.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/medline/Chemical.java
+END
+OtherAbstract.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/medline/OtherAbstract.java
+END

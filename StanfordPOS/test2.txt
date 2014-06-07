@@ -1,0 +1,19 @@
+</doc>
+
+<doc id="3201251" title="Boece (Chaucer)" nonfiltered="17" processed="16" dbindex="130016">
+
+Boece is Geoffrey Chaucer's translation into Middle English of The Consolation of Philosophy by Boethius.
+
+The original work, written in Latin, stresses the importance of philosophy to everyday life and was one of the major works of philosophy in the Middle Ages.  As well as using philosophy to understand and deal with hardship, it is also an attempt by Boethius to improve the minds of the people in 6th century Rome by introducing them to Greek philosophy.  This seems to have been Chaucer's own motive for his translation; although known to scholars the Consolation was not fulfilling its purpose of educating the common people.  The Romance of the Rose, another work of philosophy Chaucer is believed to have partly translated, actively encourages translation of the Consolation:
+
+Where lewid men might lere wit,
+
+Whoso that woulde translaten it.
+
+Chaucer worked, in part, from a translation of the Consolation into French by Jean de Meun but is clear he also worked from a Latin version, correcting some of the liberties de Meun takes with the text.  The Latin source was probably a corrupt version of Boethius' original and explains some of Chaucer's own misinterpretations of the work.  Chaucer also on occasion dispenses with direct translation and uses his own interpretation with the help of commentaries by Nicholas Trivet and Guillaume de Conches.
+
+The philosophical ideas of Boethius were important to many thinkers and writers of the Middle Ages and Chaucer himself was not simply a translator but was also greatly influenced by his work.  It adds a philosophical dimension to The Knight's Tale missing from the original source of the story, The Tale of Melibee uses Boethius' doctrine of "patience sufferance" and many of Chaucer's other works show a familiarity with Boethius' conception of love as expressed in the Consolation.  Works by later writers, such as Thomas Usk and John Walton, made use of Chaucer's.
+
+
+ENDOFARTICLE.
+

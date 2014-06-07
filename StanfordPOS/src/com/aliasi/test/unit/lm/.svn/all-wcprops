@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/lm
+END
+TokenizedLMTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/lm/TokenizedLMTest.java
+END
+TrieIntSeqCounterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/lm/TrieIntSeqCounterTest.java
+END
+UniformProcessLMTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/lm/UniformProcessLMTest.java
+END
+CompiledNGramProcessLMTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/lm/CompiledNGramProcessLMTest.java
+END
+TrieCharSeqCounterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/lm/TrieCharSeqCounterTest.java
+END
+NGramProcessLMTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/lm/NGramProcessLMTest.java
+END
+UniformBoundaryLMTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/lm/UniformBoundaryLMTest.java
+END
+ScaleTrieReaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/lm/ScaleTrieReaderTest.java
+END
+PruneTrieReaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/lm/PruneTrieReaderTest.java
+END
+CharSeqMultiCounterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/lm/CharSeqMultiCounterTest.java
+END
+MultiTrieReaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/lm/MultiTrieReaderTest.java
+END
+NGramBoundaryLMTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/lm/NGramBoundaryLMTest.java
+END

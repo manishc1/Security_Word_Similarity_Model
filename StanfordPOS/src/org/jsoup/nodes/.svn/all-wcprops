@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/org/jsoup/nodes
+END
+Document.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/org/jsoup/nodes/Document.java
+END
+DataNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/org/jsoup/nodes/DataNode.java
+END
+entities-full.properties
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/org/jsoup/nodes/entities-full.properties
+END
+DocumentType.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/org/jsoup/nodes/DocumentType.java
+END
+Comment.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/org/jsoup/nodes/Comment.java
+END
+Attribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/org/jsoup/nodes/Attribute.java
+END
+Entities.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/org/jsoup/nodes/Entities.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/org/jsoup/nodes/package-info.java
+END
+Node.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/org/jsoup/nodes/Node.java
+END
+Attributes.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/org/jsoup/nodes/Attributes.java
+END
+XmlDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/org/jsoup/nodes/XmlDeclaration.java
+END
+entities-base.properties
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/org/jsoup/nodes/entities-base.properties
+END
+Element.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/org/jsoup/nodes/Element.java
+END
+TextNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/org/jsoup/nodes/TextNode.java
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/ebiquity/!svn/ver/1963/projects/StanfordPOS/src/edu/umbc/wordSimilarity
+END
+FloatElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/umbc/wordSimilarity/FloatElement.java
+END
+GutenbergParagraphGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/ebiquity/!svn/ver/1963/projects/StanfordPOS/src/edu/umbc/wordSimilarity/GutenbergParagraphGenerator.java
+END
+DoubleElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/umbc/wordSimilarity/DoubleElement.java
+END
+ModelUtility.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/umbc/wordSimilarity/ModelUtility.java
+END
+SynonymPairDistribution.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/umbc/wordSimilarity/SynonymPairDistribution.java
+END
+SimilarityAnalysis.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/umbc/wordSimilarity/SimilarityAnalysis.java
+END
+CoElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/umbc/wordSimilarity/CoElement.java
+END
+CoOccurModelByArrays.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/umbc/wordSimilarity/CoOccurModelByArrays.java
+END
+SentenceGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/umbc/wordSimilarity/SentenceGenerator.java
+END

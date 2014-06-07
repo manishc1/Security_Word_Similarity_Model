@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/corpus
+END
+ChunkTagHandlerAdapterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/corpus/ChunkTagHandlerAdapterTest.java
+END
+LineParserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/corpus/LineParserTest.java
+END
+ChunkHandlerAdapterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/corpus/ChunkHandlerAdapterTest.java
+END
+CollectingChunkHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/corpus/CollectingChunkHandler.java
+END
+CollectingTagHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/corpus/CollectingTagHandler.java
+END
+XValidatingObjectCorpusTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/corpus/XValidatingObjectCorpusTest.java
+END

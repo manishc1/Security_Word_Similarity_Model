@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/crf
+END
+ChainCrfChunkerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/crf/ChainCrfChunkerTest.java
+END
+ChainCrfTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/crf/ChainCrfTest.java
+END
+ForwardBackwardTagLatticeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/crf/ForwardBackwardTagLatticeTest.java
+END

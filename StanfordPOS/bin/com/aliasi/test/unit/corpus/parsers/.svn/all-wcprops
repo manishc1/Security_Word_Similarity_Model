@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/corpus/parsers
+END
+GeniaSentenceParserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/corpus/parsers/GeniaSentenceParserTest.java
+END
+SvmLightClassificationParserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/corpus/parsers/SvmLightClassificationParserTest.java
+END
+GeneTagParserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/corpus/parsers/GeneTagParserTest.java
+END
+ReutersCorpus.sgm
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/corpus/parsers/ReutersCorpus.sgm
+END
+Reuters21578ParserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/corpus/parsers/Reuters21578ParserTest.java
+END
+GeneTagChunkParserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/corpus/parsers/GeneTagChunkParserTest.java
+END

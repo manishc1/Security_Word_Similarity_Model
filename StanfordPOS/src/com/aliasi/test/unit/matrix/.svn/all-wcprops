@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/matrix
+END
+DenseVectorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/matrix/DenseVectorTest.java
+END
+SvdMatrixTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/matrix/SvdMatrixTest.java
+END
+HyperbolicTangentKernelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/matrix/HyperbolicTangentKernelTest.java
+END
+DenseMatrixTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/matrix/DenseMatrixTest.java
+END
+EuclideanDistanceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/matrix/EuclideanDistanceTest.java
+END
+PolynomialKernelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/matrix/PolynomialKernelTest.java
+END
+AbstractVectorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/matrix/AbstractVectorTest.java
+END
+MinkowskiDistanceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/matrix/MinkowskiDistanceTest.java
+END
+SparseFloatVectorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/matrix/SparseFloatVectorTest.java
+END
+TaxicabDistanceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/matrix/TaxicabDistanceTest.java
+END
+MatricesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/matrix/MatricesTest.java
+END
+DotProductKernelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/matrix/DotProductKernelTest.java
+END
+ProximityMatrixTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/matrix/ProximityMatrixTest.java
+END
+GaussianRadialBasisKernelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/matrix/GaussianRadialBasisKernelTest.java
+END

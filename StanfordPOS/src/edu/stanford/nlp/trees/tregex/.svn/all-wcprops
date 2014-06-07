@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/tregex
+END
+TregexParserTokenManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/tregex/TregexParserTokenManager.java
+END
+TregexPatternCompiler.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/tregex/TregexPatternCompiler.java
+END
+TregexParserConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/tregex/TregexParserConstants.java
+END
+ParseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/tregex/ParseException.java
+END
+TregexParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/tregex/TregexParser.java
+END
+TregexPattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/tregex/TregexPattern.java
+END
+Relation.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/tregex/Relation.java
+END
+VariableStrings.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/tregex/VariableStrings.java
+END
+Token.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/tregex/Token.java
+END
+TokenMgrError.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/tregex/TokenMgrError.java
+END
+DescriptionPattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/tregex/DescriptionPattern.java
+END
+TregexMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/tregex/TregexMatcher.java
+END
+SimpleCharStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/tregex/SimpleCharStream.java
+END
+CoordinationPattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/tregex/CoordinationPattern.java
+END

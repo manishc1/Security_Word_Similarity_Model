@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/tokenizer
+END
+LowerCaseTokenizerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/tokenizer/LowerCaseTokenizerFactory.java
+END
+PorterStemmer.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/tokenizer/PorterStemmer.java
+END
+SoundexTokenizerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/tokenizer/SoundexTokenizerFactory.java
+END
+Tokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/tokenizer/Tokenizer.java
+END
+LineTokenizerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/tokenizer/LineTokenizerFactory.java
+END
+WhitespaceNormTokenizerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/tokenizer/WhitespaceNormTokenizerFactory.java
+END
+ModifyTokenTokenizerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/tokenizer/ModifyTokenTokenizerFactory.java
+END
+IndoEuropeanTokenizerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/tokenizer/IndoEuropeanTokenizerFactory.java
+END
+NormalizeWhiteSpaceFilterTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/tokenizer/NormalizeWhiteSpaceFilterTokenizer.java
+END
+CharacterTokenizerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/tokenizer/CharacterTokenizerFactory.java
+END
+TokenCategorizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/tokenizer/TokenCategorizer.java
+END
+FilterTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/tokenizer/FilterTokenizer.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/tokenizer/package-info.java
+END
+SoundexFilterTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/tokenizer/SoundexFilterTokenizer.java
+END
+NGramTokenizerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/tokenizer/NGramTokenizerFactory.java
+END
+LengthStopFilterTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/tokenizer/LengthStopFilterTokenizer.java
+END
+IndoEuropeanTokenCategorizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/tokenizer/IndoEuropeanTokenCategorizer.java
+END
+CharacterTokenCategorizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/tokenizer/CharacterTokenCategorizer.java
+END
+RegExTokenizerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/tokenizer/RegExTokenizerFactory.java
+END
+TokenLengthTokenizerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/tokenizer/TokenLengthTokenizerFactory.java
+END
+PunctuationStopListTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/tokenizer/PunctuationStopListTokenizer.java
+END
+StopTokenizerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/tokenizer/StopTokenizerFactory.java
+END
+PorterStemmerFilterTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/tokenizer/PorterStemmerFilterTokenizer.java
+END
+RegExFilteredTokenizerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/tokenizer/RegExFilteredTokenizerFactory.java
+END
+Tokenization.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/tokenizer/Tokenization.java
+END
+TokenFilterTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/tokenizer/TokenFilterTokenizer.java
+END
+EnglishStopTokenizerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/tokenizer/EnglishStopTokenizerFactory.java
+END
+StopListFilterTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/tokenizer/StopListFilterTokenizer.java
+END
+IndoEuropeanTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/tokenizer/IndoEuropeanTokenizer.java
+END
+LowerCaseFilterTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/tokenizer/LowerCaseFilterTokenizer.java
+END
+StopFilterTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/tokenizer/StopFilterTokenizer.java
+END
+CharacterTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/tokenizer/CharacterTokenizer.java
+END
+TokenFeatureExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/tokenizer/TokenFeatureExtractor.java
+END
+PorterStemmerTokenizerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/tokenizer/PorterStemmerTokenizerFactory.java
+END
+EnglishStopListFilterTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/tokenizer/EnglishStopListFilterTokenizer.java
+END
+NGramTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/tokenizer/NGramTokenizer.java
+END
+TokenChunker.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/tokenizer/TokenChunker.java
+END
+TokenizerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/tokenizer/TokenizerFactory.java
+END
+ModifiedTokenizerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/tokenizer/ModifiedTokenizerFactory.java
+END

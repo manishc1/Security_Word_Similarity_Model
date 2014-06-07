@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/spell
+END
+EditDistanceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/spell/EditDistanceTest.java
+END
+CompiledSpellCheckerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/spell/CompiledSpellCheckerTest.java
+END
+WeightedEditDistanceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/spell/WeightedEditDistanceTest.java
+END
+JaroWinklerDistanceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/spell/JaroWinklerDistanceTest.java
+END
+TrainSpellCheckerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/spell/TrainSpellCheckerTest.java
+END
+AutoCompleterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/spell/AutoCompleterTest.java
+END
+SpellCheckerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/spell/SpellCheckerTest.java
+END
+TfIdfDistanceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/spell/TfIdfDistanceTest.java
+END
+FixedWeightEditDistanceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/spell/FixedWeightEditDistanceTest.java
+END

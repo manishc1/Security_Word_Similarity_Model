@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/objectbank
+END
+IdentityFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/objectbank/IdentityFunction.java
+END
+LineIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/objectbank/LineIterator.java
+END
+ObjectBank.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/objectbank/ObjectBank.java
+END
+TokenizerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/objectbank/TokenizerFactory.java
+END
+ReaderIteratorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/objectbank/ReaderIteratorFactory.java
+END
+XMLBeginEndIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/objectbank/XMLBeginEndIterator.java
+END
+IteratorFromReaderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/objectbank/IteratorFromReaderFactory.java
+END

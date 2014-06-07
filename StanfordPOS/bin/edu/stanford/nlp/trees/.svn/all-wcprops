@@ -1,0 +1,389 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees
+END
+CompositeTreebank.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/CompositeTreebank.java
+END
+TreeGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/TreeGraph.java
+END
+AbstractTreebankLanguagePack.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/AbstractTreebankLanguagePack.java
+END
+NamedDependency.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/NamedDependency.java
+END
+TreeFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/TreeFactory.java
+END
+Treebank.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/Treebank.java
+END
+CollocationFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/CollocationFinder.java
+END
+DiskTreebank.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/DiskTreebank.java
+END
+ConstituentFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/ConstituentFactory.java
+END
+PennTreebankTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/PennTreebankTokenizer.java
+END
+WordStemmer.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/WordStemmer.java
+END
+EnglishGrammaticalRelations.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/EnglishGrammaticalRelations.java
+END
+CollinsHeadFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/CollinsHeadFinder.java
+END
+GrammaticalRelation.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/GrammaticalRelation.java
+END
+TreeGraphNodeFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/TreeGraphNodeFactory.java
+END
+DependencyTreeTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/DependencyTreeTransformer.java
+END
+TreeTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/TreeTransformer.java
+END
+Trees.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/Trees.java
+END
+QPTreeTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/QPTreeTransformer.java
+END
+TreeCoreAnnotations.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/TreeCoreAnnotations.java
+END
+SimpleConstituent.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/SimpleConstituent.java
+END
+PennTreeReaderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/PennTreeReaderFactory.java
+END
+TreebankLanguagePack.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/TreebankLanguagePack.java
+END
+Tree.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/Tree.java
+END
+LabeledScoredTreeFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/LabeledScoredTreeFactory.java
+END
+WordNetConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/WordNetConnection.java
+END
+CompositeTreeTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/CompositeTreeTransformer.java
+END
+StringLabeledScoredTreeReaderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/StringLabeledScoredTreeReaderFactory.java
+END
+CoordinationTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/CoordinationTransformer.java
+END
+TreePrint.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/TreePrint.java
+END
+ModCollinsHeadFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/ModCollinsHeadFinder.java
+END
+BobChrisTreeNormalizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/BobChrisTreeNormalizer.java
+END
+LabeledScoredTreeNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/LabeledScoredTreeNode.java
+END
+Constituent.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/Constituent.java
+END
+SimpleConstituentFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/SimpleConstituentFactory.java
+END
+NPTmpRetainingTreeNormalizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/NPTmpRetainingTreeNormalizer.java
+END
+LabeledScoredTreeReaderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/LabeledScoredTreeReaderFactory.java
+END
+SimpleTreeReaderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/SimpleTreeReaderFactory.java
+END
+TypedDependency.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/TypedDependency.java
+END
+TransformingTreebank.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/TransformingTreebank.java
+END
+Dependencies.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/Dependencies.java
+END
+UnnamedDependency.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/UnnamedDependency.java
+END
+TreeGraphNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/TreeGraphNode.java
+END
+Labeled.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/Labeled.java
+END
+TreeFunctions.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/TreeFunctions.java
+END
+HeadFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/HeadFinder.java
+END
+LabeledScoredTreeLeaf.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/LabeledScoredTreeLeaf.java
+END
+TreeNormalizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/TreeNormalizer.java
+END
+PennTreeReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/PennTreeReader.java
+END
+DependencyFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/DependencyFactory.java
+END
+SimpleTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/SimpleTree.java
+END
+TreeReaderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/TreeReaderFactory.java
+END
+SemanticHeadFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/SemanticHeadFinder.java
+END
+Dependency.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/Dependency.java
+END
+PennTreebankLanguagePack.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/PennTreebankLanguagePack.java
+END
+TreeVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/TreeVisitor.java
+END
+TreeTokenizerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/TreeTokenizerFactory.java
+END
+TreeReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/TreeReader.java
+END
+MemoryTreebank.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/MemoryTreebank.java
+END
+LabeledConstituent.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/LabeledConstituent.java
+END
+GrammaticalStructureFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/GrammaticalStructureFactory.java
+END
+SimpleTreeFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/SimpleTreeFactory.java
+END
+AbstractCollinsHeadFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/AbstractCollinsHeadFinder.java
+END
+GrammaticalStructure.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/edu/stanford/nlp/trees/GrammaticalStructure.java
+END

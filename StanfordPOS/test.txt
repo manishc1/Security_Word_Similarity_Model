@@ -1,0 +1,16 @@
+when parameters based when      parameters         uncertainty
+
+Last Update 25 January 2005 All text and images copyright
+
+A Dash from Diamond City George Manville Fenn | Next chapter | | Previous chapter | | Contents | Chapter XVIII.
+
+HTTP/1.1 200 OK^M
+Date: Wed, 31 Jan 2007 05:43:28 GMT^M
+Server: Apache/1.3.37 (Unix) PHP/4.4.4^M
+WWW-Authenticate: Basic realm="W3CACL"^M
+WWW-Authenticate: Basic realm="W3CACL"^M
+Content-Location: comm-fellow1.html^M
+Vary: negotiate^M
+TCN: choice^M
+
+

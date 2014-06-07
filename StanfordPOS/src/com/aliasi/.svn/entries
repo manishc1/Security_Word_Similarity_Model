@@ -1,0 +1,94 @@
+10
+
+dir
+4035
+https://svn.cs.umbc.edu/ebiquity/projects/StanfordPOS/src/com/aliasi
+https://svn.cs.umbc.edu/ebiquity
+
+
+
+2012-08-20T14:17:02.018348Z
+1956
+lushan1@UMBC.EDU
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2fa6a30c-4ae1-6b6d-b205-f827099fb4ac
+
+cluster
+dir
+
+hmm
+dir
+
+dict
+dir
+
+sentences
+dir
+
+stats
+dir
+
+coref
+dir
+
+xml
+dir
+
+matrix
+dir
+
+symbol
+dir
+
+io
+dir
+
+chunk
+dir
+
+lm
+dir
+
+tokenizer
+dir
+
+crf
+dir
+
+tag
+dir
+
+corpus
+dir
+
+classify
+dir
+
+util
+dir
+
+medline
+dir
+
+features
+dir
+
+test
+dir
+
+spell
+dir
+

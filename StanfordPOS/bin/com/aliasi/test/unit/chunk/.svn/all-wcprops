@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/chunk
+END
+TrainTokenShapeChunkerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/chunk/TrainTokenShapeChunkerTest.java
+END
+ChunkFactoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/chunk/ChunkFactoryTest.java
+END
+CharLmRescoringChunkerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/chunk/CharLmRescoringChunkerTest.java
+END
+ChunkAndCharSeqTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/chunk/ChunkAndCharSeqTest.java
+END
+CharLmHmmChunkerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/chunk/CharLmHmmChunkerTest.java
+END
+ChunkTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/chunk/ChunkTest.java
+END
+ChunkingImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/chunk/ChunkingImplTest.java
+END
+RegExChunkerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/chunk/RegExChunkerTest.java
+END
+BioTagChunkCodecTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/test/unit/chunk/BioTagChunkCodecTest.java
+END

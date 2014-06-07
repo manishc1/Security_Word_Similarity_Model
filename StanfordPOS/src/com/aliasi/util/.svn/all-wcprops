@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/util
+END
+XML.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/util/XML.java
+END
+AbstractCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/util/AbstractCommand.java
+END
+Factory.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/util/Factory.java
+END
+Collections.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/util/Collections.java
+END
+Streams.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/util/Streams.java
+END
+SmallSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/util/SmallSet.java
+END
+MinMaxHeap.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/util/MinMaxHeap.java
+END
+BoundedPriorityQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/util/BoundedPriorityQueue.java
+END
+FeatureExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/util/FeatureExtractor.java
+END
+Math.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/util/Math.java
+END
+Reflection.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/util/Reflection.java
+END
+Distance.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/util/Distance.java
+END
+SmallObjectToDoubleMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/util/SmallObjectToDoubleMap.java
+END
+Pair.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/util/Pair.java
+END
+Arrays.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/util/Arrays.java
+END
+Sgml.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/util/Sgml.java
+END
+ObjectToDoubleMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/util/ObjectToDoubleMap.java
+END
+Files.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/util/Files.java
+END
+Proximity.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/util/Proximity.java
+END
+CommaSeparatedValues.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/util/CommaSeparatedValues.java
+END
+ScoredObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/util/ScoredObject.java
+END
+ShortPriorityQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/util/ShortPriorityQueue.java
+END
+ObjectToCounterMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/util/ObjectToCounterMap.java
+END
+Compilable.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/util/Compilable.java
+END
+Iterators.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/util/Iterators.java
+END
+FilterComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/util/FilterComparator.java
+END
+Scored.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/util/Scored.java
+END
+Counter.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/util/Counter.java
+END
+HardFastCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/util/HardFastCache.java
+END
+Exceptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/util/Exceptions.java
+END
+FastCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/util/FastCache.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/util/package-info.java
+END
+ObjectToSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/util/ObjectToSet.java
+END
+PriorityQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/util/PriorityQueue.java
+END
+NBestSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/util/NBestSet.java
+END
+Strings.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/util/Strings.java
+END
+Tuple.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/util/Tuple.java
+END
+ReversibleComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/util/ReversibleComparator.java
+END
+ReversibleMTFListComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/util/ReversibleMTFListComparator.java
+END
+AbstractExternalizable.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ebiquity/!svn/ver/1956/projects/StanfordPOS/src/com/aliasi/util/AbstractExternalizable.java
+END
