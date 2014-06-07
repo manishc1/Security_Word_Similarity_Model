@@ -1,0 +1,222 @@
+accidentally: unintentionally,casually,fortuitously
+
+advisedly: purposely,intentionally,designedly,deliberately,knowingly
+
+afresh: again,anew,,newly
+
+aground: stranded
+
+aloud: audibly
+
+also: besides,too,further,,furthermore,moreover
+
+altogether: wholly,completely,unconditionally,thoroughly,utterly,entirely,totally,;,,
+
+always: perpetually,continually,forever,everlastingly,evermore,unceasingly,;invariably,constantly,uniformly
+
+amiss: improperly,incorrectly,wrongly
+
+askance: sidewise,obliquely,askant,askew,asquint
+
+askew: awry,askance,asquint,obliquely,sidewise,askant
+
+aslant: obliquely
+
+asquint: obliquely,awry,askance,askew
+
+astraddle: astride
+
+away: hence,absent,gone,aside,off;
+
+awfully: fearfully,dreadfully;,excessively,extremely,exceedingly
+
+back: backward,rearward;;,,
+
+badly: poorly,unskillfully,wretchedly,grievously,imperfectly;;greatly
+
+below: under,beneath,underneath
+
+besides: moreover,furthermore,further,too
+
+clean: wholly,perfectly,completely,quite,entirely,thoroughly
+
+commonly: ordinarily,generally,customarily
+
+cornerwise: diagonally
+
+creepingly: insidiously,cunningly
+
+crosswise: across,transversely
+
+dabblingly: superficially,cursorily
+
+directly: diametrically;immediately
+
+down: downward,below
+
+enough: sufficiently,adequately,fully
+
+fair: clear,openly,frankly,honestly,favorably,auspiciously,impartially
+
+fairly: impartially,equitably,openly,favorably,auspiciously
+
+fast: swiftly,rapidly,quickly,,,speedily,expeditiously;fixedly,firmly,immovably
+
+finally: ultimately,eventually,lastly
+
+first: primarily,originally
+
+forever: eternally,continually,perpetually,everlastingly
+
+formerly: heretofore,aforetime
+
+forthwith: immediately,directly,instantly
+
+freely: bounteously,readily,abundantly,gratuitously,voluntarily,liberally,copiously,spontaneously,unreservedly
+
+fundamentally: primarily,essentially,radically
+
+furthermore: moreover,besides
+
+gingerly: carefully,cautiously,timidly,fastidiously
+
+grudgingly: unwillingly,reluctantly,sullenly,
+
+half: partially,imperfectly
+
+halfway: ,imperfectly,partially
+
+headlong: headforemost;precipitately,rashly;,,confusedly
+
+ignorantly: unknowingly,unconsciously,inadvertently,unwittingly
+
+immediately: instantly,forthwith,directly,straightway,,now,instanter
+
+instantly: immediately,forthwith,,instanter,urgently,persistently
+
+jokingly: sportively,jestingly,waggishly,jocularly
+
+just: precisely,exactly;closely,nearly,almost;barely,scarcely,only
+
+justly: honestly,fairly,equitably,impartially
+
+knowingly: consciously,intelligently,wittingly,designedly,sagely,purposely,sapiently,significantly,expressively
+
+lastly: finally
+
+lately: recently
+
+lengthwise: longitudinally
+
+lief: willingly,gladly,freely,readily
+
+low: softly,
+
+mainly: principally,chiefly,largely
+
+many-times: frequently,oftentimes,often,repeatedly
+
+many-ways: variously,multifariously,diversely
+
+materially: substantially;essentially,vitally
+
+maybe: perhaps,possibly,peradventure,haply
+
+meaningly: significantly
+
+meanly: dishonorably,basely,ungenerously
+
+meantime: meanwhile
+
+meanwhile: meantime,
+
+mortally: fatally
+
+needs: necessarily
+
+newly: lately,recently,freshly;anew,afresh,again
+
+now: instantly,immediately,,instanter
+
+often: frequently,repeatedly,oftentimes,ofttimes
+
+openly: publicly,unreservedly,candidly
+
+out: away,absent,abroad;outright,aloud,audibly;wanting,lacking,;extinguished;
+
+outright: unconditionally,utterly
+
+over: across,crosswise,athwart,transversely
+
+overhead: aloft,above
+
+passing: exceedingly,surpassingly
+
+peaceably: amicably
+
+pellmell: disorderly,confusedly,
+
+perchance: perhaps,peradventure,possibly,maybe
+
+perhaps: perchance,peradventure,possibly,haply
+
+personally: individually
+
+pitapat: ,flutteringly
+
+plain: plainly,distinctly,bluntly,candidly,explicitly
+
+possibly: maybe,perhaps,perchance,peradventure,haply
+
+quirky: tricky,disingenuous,deceitful
+
+radically: fundamentally
+
+rapidly: swiftly,fast,
+
+rarely: infrequently,seldom
+
+really: actually,truly,indeed,veritably,verily
+
+seemingly: apparently,ostensibly
+
+seldom: infrequently,rarely
+
+shilly-shally: irresolutely,hesitatingly
+
+sideways: ,sidewise,askance,obliquely,laterally
+
+sidewise: ,sideways,askance
+
+sleek: ,dexterously
+
+slightly: somewhat;superficially,cursorily,hastily
+
+sometimes: ,,occasionally
+
+sore: grievously,sorely,severely,greatly
+
+together: unitedly,jointly,concertedly,simultaneously
+
+ultimately: finally
+
+underhand: clandestinely,covertly,secretly,surreptitiously
+
+unknowingly: unwittingly,ignorantly,unconsciously,inadvertently
+
+unseasonably: malapropos,untimely
+
+unwittingly: unknowingly,undesignedly,inadvertently
+
+usually: ordinarily,generally,customarily,commonly
+
+utterly: entirely,completely,wholly,unconditionally,altogether
+
+very: exceedingly,highly,greatly,extremely,excessively,surpassingly
+
+virtually: practically,really,substantially,potentially
+
+wisely: prudently,judiciously,sapiently,sagaciously
+
+yes: yea,aye,ay
+

@@ -1,0 +1,4138 @@
+abandon: desert,forsake,forego,discard,relinquish,repudiate,waive,renounce,abdicate
+
+abase: humble,degrade,dishonor,reduce,humiliate
+
+abash: disconcert,confuse,discomfit,discompose,chagrin,mortify,embarrass
+
+abate: moderate,assuage,subside,diminish,intermit
+
+abet: instigate,encourage,incite,,foment,uphold
+
+abhor: abominate,loathe,hate,detest
+
+abide: dwell,stay,sojourn,continue,remain;acquiesce,
+
+abolish: annul,nullify,abrogate,invalidate,repeal,revoke,rescind,disannul,,destroy
+
+abound: ,teem,swarm
+
+abridge: shorten,diminish,curtail;epitomize,condense
+
+abrogate: annul,repeal,revoke,abolish,rescind,nullify,invalidate
+
+absolve: release,remit,pardon,exonerate,acquit,exculpate
+
+absorb: engulf,overwhelm,;imbibe,,assimilate;engross,occupy,monopolize
+
+absquatulate: ,,depart
+
+abstain: forbear,refrain,withhold,
+
+abuse: misapply,misuse,pervert,desecrate,violate,profane;maltreat,mistreat;revile,reproach,vilify,vituperate,malign,traduce;violate,ravish,rape
+
+abut: project,terminate,,meet;,,
+
+accent: emphasize,accentuate
+
+acclimate: acclimatize
+
+accommodate: adapt,conform,adjust;oblige,favor
+
+accompany: escort,attend,convoy;chaperon
+
+accomplish: achieve,effectuate,execute,complete,effect
+
+accost: greet,address,salute,hail
+
+accuse: indict,charge,impeach,incriminate,arraign,criminate
+
+accustom: habituate,familiarize,inure
+
+achieve: accomplish,effectuate,realize,effect,attain
+
+acknowledge: admit,avow,concede,own,confess
+
+acquaint: familiarize,inform,tell,apprise,notify
+
+acquit: discharge,release,exculpate,exonerate
+
+act: behave,;play,personate,impersonate,mimic;feign,counterfeit,simulate,dissemble
+
+actuate: instigate,impel,incite
+
+adapt: adjust,conform
+
+add: ,;append,supplement,subjoin,affix,adjoin,superadd,annex
+
+addict: habituate,accustom
+
+addle: muddle,confuse;spoil,rot
+
+address: accost,;direct,superscribe
+
+admit: acknowledge,confess,concede;allow,permit
+
+adopt: father,affiliate;espouse,support,maintain
+
+adorn: decorate,beautify,embellish,deck,ornament,grace,garnish,bedizen,bedeck,bestud,beset,emblazon
+
+adulterate: sophisticate
+
+advance: progress,increase;promote,elevate;enhance,augment
+
+advertise: announce,publish,proclaim,trumpet
+
+advise: counsel,admonish,warn;apprise,inform,notify,acquaint,tell;,consult,confer
+
+affect: ,move,touch,influence,melt;concern,,interest;dispose,turn,incline
+
+affirm: ,aver,asseverate,state
+
+affix: subjoin,annex,append
+
+afflict: persecute,distress,scourge,trouble,harass
+
+aggrandize: exalt
+
+aggravate: intensify,heighten,enhance,increase;exasperate,irritate,provoke
+
+agitate: disturb,shake,unsettle;excite,perturb,disconcert;discuss,consider
+
+agree: concur,accord,chime,acquiesce,harmonize;accede,comply,assent,consent,grant;stipulate,promise,compromise;correspond,coincide,comport,tally,conform,match
+
+aid: assist,succor,cooeperate,befriend,promote,abet,help
+
+air: ventilate;aerate,aerify;display,expose,flaunt
+
+alarm: terrify,frighten,scare,appall,daunt,unnerve,intimidate
+
+alienate: transfer,demise,assign;estrange,disaffect,wean
+
+alight: dismount
+
+allay: appease,alleviate,pacify,mollify,mitigate,moderate,assuage,soothe,temper,palliate,abate,lessen,reduce,ease
+
+alleviate: mitigate,mollify,lessen,allay,,relieve
+
+allot: apportion,,assign
+
+allow: permit,;tolerate,suffer,endure
+
+allude: refer,advert,suggest
+
+allure: entice,lure,tempt,decoy,seduce,tweedle
+
+ally: associate,confederate,join
+
+amass: accumulate,collect,gather,
+
+amaze: astonish,astound,surprise,stagger,dumfound,flabbergast
+
+amuse: entertain,divert,beguile,recreate,please
+
+analyze: decompound,decompose
+
+anathematize: curse,denounce,comminate,maledict
+
+anger: enrage,incense,irritate,displease,ruffle,offend,exasperate,infuriate,madden,inflame,vex,provoke
+
+angle: fish;intrigue,scheme
+
+animate: vitalize,vivify,quicken,inspirit,stimulate,rouse
+
+announce: proclaim,publish,blazon,advertise,trumpet,,promulgate,herald
+
+annoy: molest,trouble,plague,hector,bother,vex,pester,aggravate,chafe
+
+annul: abrogate,nullify,rescind,invalidate,abolish,reverse,disannul,revoke
+
+answer: reply,respond,rejoin,retort
+
+anticipate: expect,forestall,preclude,obviate
+
+ape: imitate,mimic
+
+appear: emerge;seem,look,loom,resemble
+
+appease: conciliate,pacify,tranquilize,calm,propitiate,assuage,mollify,reconcile,placate,mitigate
+
+apply: utilize,employ,practice
+
+appoint: establish,prescribe,ordain,enjoin,assign,allot;deputize,depute,commission,delegate,nominate
+
+apportion: allot,partition
+
+appreciate: value,esteem,prize
+
+apprehend: arrest,seize;understand,recognize,;anticipate,dread,fear
+
+approve: commend,sanction,countenance,favor,like
+
+arch: vault,concamerate
+
+argue: reason,plead,remonstrate,expostulate;contend,dispute,controvert,moot,discuss;prove,evince,betoken,indicate,imply,denote
+
+arise: mount,ascend,rise;proceed,issue,spring,originate
+
+arm: ,fortify,strengthen
+
+arouse: excite,rouse,animate,stimulate,awaken,revive,inspirit
+
+arrange: dispose,range,classify,marshal,methodize;prearrange,devise,contrive,premeditate;adjust,settle,determine
+
+arrest: apprehend;stop,check,restrain;stunt,dwarf
+
+ascribe: attribute,assign,impute
+
+ask: inquire,question,interrogate,quiz,catechize;request,solicit,petition,supplicate,entreat,desire,beg,seek,beseech,crave,implore,importune,dun,apply;require,demand,expect,challenge,exact,claim;invite,bid
+
+assail: attack,assault,oppugn;asperse,defame,vilify,malign
+
+assault: attack,assail
+
+assemble: convene,congregate,gather,meet;muster,convoke
+
+assent: concur,acquiesce,concede,yield,consent
+
+assert: affirm,state,say,aver,predicate,asseverate,maintain,declare
+
+assign: allot,apportion,appoint;transfer,,,adduce,specify
+
+assist: abet,,aid
+
+associate: join,connect,affiliate;fraternize,consort,hobnob
+
+assume: undertake;presume,presuppose,postulate,;arrogate,appropriate;affect,simulate,pretend,feign
+
+astonish: amaze,stagger,astound,overwhelm,
+
+atone: expiate
+
+attach: affix,annex,append,subjoin;distress,distrain,seize
+
+attack: assault,assail,invade,charge,beset,storm,besiege,bombard,waylay;impugn,censure
+
+attain: achieve,compass,gain
+
+attend: guard,;accompany,escort;,heed,listen
+
+attest: corroborate,confirm,authenticate,certify,indorse,ratify
+
+attract: allure,entice,draw,decoy,interest,engage,induce
+
+attribute: ascribe,impute,assign,refer,trace
+
+augur: portend,forebode,presage,indicate,betoken
+
+authenticate: verify,attest,confirm
+
+authorize: empower,commission;sanction,warrant,justify,confirm
+
+avoid: evade,shun,elude,eschew,shirk,parry
+
+awaken: wake,awake,rouse,arouse,excite
+
+babble: prattle,gabble;murmur,purl
+
+baby: humor,fondle,indulge,coddle,pet,cosset
+
+back: support,second,maintain,abet,subsidize,cooeperate,with;mount;indorse
+
+backbite: ,malign,traduce,vilify,calumniate,scandalize
+
+backslide: ,apostatize,retrograde,relapse,desert,
+
+baffle: foil,balk,checkmate,disconcert,frustrate,thwart,circumvent,nonplus
+
+bag: capture,entrap,catch
+
+balance: poise,librate;equal,counterpoise,counteract,counterbalance,countervail;adjust,equalize,square
+
+balk: frustrate,baffle,foil,thwart,disappoint;jib
+
+ballarag: ,threaten,browbeat,overbear,intimidate
+
+ban: curse,anathematize,execrate;interdict,forbid,proscribe,taboo
+
+band: league,confederate,unite,clique
+
+bandage: deligate,swathe
+
+bang: thump,cudgel,maul;slam;resound,reecho
+
+banish: exile,expatriate,relegate;,dismiss,expel
+
+bank: embank,dike;,
+
+bankrupt: impoverish,ruin,break
+
+banter: jest,chaff,rally,roast
+
+bar: debar,except,exclude;obstruct,restrain,hinder
+
+bare: denude,strip,divest,expose,undress,unmask
+
+bargain: stipulate,agree,contract,covenant;barter
+
+bark: peel,flay,skin,decorticate;bay,yelp,yap
+
+bask: luxuriate,revel
+
+bastardize: illegitimatize,,legitimatize
+
+baste: beat,cudgel,pound,pommel,buffet,thrash,maul,strike
+
+bathe: lave,wash;foment;surround,envelop,enwrap,suffuse
+
+batten: fatten
+
+batter: smite,pelt,assault;demolish,raze,shatter
+
+beam: gleam,shine,glitter,glisten,scintillate
+
+bear: endure,tolerate,stand,undergo,brook,,suffer,;harbor,cherish,entertain;support,sustain,uphold;carry,convey,transport,waft;render,produce,yield;,teem;relate,refer,concern;press,push,oppress
+
+beard: defy,encounter,oppose
+
+beat: forge,malleate,beetle,weld,hammer;belabor,maul,buffet,smite,flagellate,whack,pelt,strike;;overcome,vanquish,surpass,conquer,eclipse,subdue,checkmate,rout,excel,outdo;cheat,swindle,defraud;throb,pulsate;pulverize,comminute,bruise,bray,triturate;perplex,pose,nonplus
+
+beautify: embellish,adorn,grace,garnish
+
+becloud: dim,cloud,obscure,adumbrate,obfuscate
+
+bedim: obscure,becloud,adumbrate,overcast
+
+beetle: overhang,,protrude,project
+
+befall: happen,supervene,betide,bechance
+
+befuddle: confuse,mystify,bewilder
+
+beg: beseech,supplicate,implore;
+
+beget: procreate,engender,generate,get
+
+beggar: impoverish,ruin;exhaust,surpass,
+
+begin: commence;arise,spring,originate
+
+beguile: insnare,mislead,lure,deceive,cheat;
+
+behave: ,act,bear
+
+belch: eruct,expel,;eructate
+
+belittle: decry,disparage,underrate,depreciate
+
+belt: encircle,begird,encompass,surround
+
+bemoan: lament,bewail,deplore
+
+bend: curve,flex,deflect,crook;direct,turn,apply;stoop,incline;yield,condescend
+
+benefit: help,conduce,avail,advantage,,
+
+benumb: stupefy,blunt,hebetate
+
+bequeath: devise,will
+
+berate: upbraid,rate,reprimand,censure
+
+beseech: entreat,implore,adjure,supplicate
+
+beset: besiege,obsess,beleaguer,environ,encompass;perplex,harass
+
+besiege: obsess,environ,beset,beleaguer,encompass
+
+bet: wager,stake
+
+betoken: foreshadow,portend,presage,foreshow,indicate,augur
+
+betray: seduce,mislead,delude,beguile,inveigle;reveal,disclose;,,,
+
+betroth: affiance
+
+better: ameliorate,improve,emend,promote,reform,meliorate,amend
+
+bewail: deplore,lament,bemoan,
+
+bewilder: confuse,perplex,nonplus,obfuscate,confound,mystify,embarrass
+
+bewitch: charm,fascinate,captivate,enamor
+
+bid: offer,proffer;order,direct,enjoin,command;invite,ask;wish,greet,salute
+
+bind: fetter,tie,fasten,secure,gird,confine,restrict,restrain;bandage,swathne;oblige,obligate,,obligation;indenture,apprentice;confirm,sanction,ratify;swaddle
+
+bite: champ,nibble,chew;sting,smart,tingle;,adhere;nip,blight,blast
+
+blacken: darken,denigrate;begrime,besmirch,tarnish,discolor;defame,malign
+
+blame: censure,reproach
+
+blandish: flatter,cajole,caress
+
+blamey: flatter,cajole,palaver,wheedle,blandish
+
+blast: blight,destroy;frustrate,ruin;explode,rend,open
+
+blat: bleat
+
+blazon: emblazon;publish,display,exhibit
+
+bleach: etiolate,whiten,blanch
+
+bleed: exude
+
+blemish: deface,mar,disfigure,sully
+
+blench: flinch,recoil,
+
+blend: intermingle,fuse,merge,combine,mix,assimilate
+
+blight: blast;ruin,frustrate,fowart
+
+blink: wink;,disregard,overlook
+
+bloat: inflate,distend
+
+block: obstruct,blockade
+
+blot: stain,spot,blur,blemish,sully,disgrace,tarnish,dishonor;efface,erase,delete,obliterate,expunge;obscure,eclipse
+
+blow: blossom,bloom;pant,puff,gasp;spout;inflate,,distend;explode,shatter;
+
+blunt: dull,deaden,stupefy;assuage,alleviate,mitigate
+
+blur: dim,bedim,obscure;sully,blemish;mackle,macule
+
+blurt: ejaculate
+
+bluster: swagger,storm,rage,gasconade,roister
+
+boast: brag,vaunt,vapor,gasconade
+
+bode: forebode,foreshadow,augur,presage,betoken,portend
+
+boggle: hesitate,stickle,falter;bungle
+
+boil: seethe,simmer,effervesce
+
+bolster: ,support,maintain
+
+bolt: sift;;gulp
+
+boohoo: ,squawl
+
+boom: resound,roar
+
+booze: tipple
+
+border: ,,,adjoin,verge,approach
+
+bore: perforate,pierce,drill;weary,tire,annoy,fatigue
+
+bother: trouble,annoy,discommode,incommode,inconvenience,worry,molest
+
+bounce: spring,bound;rebound,recoil;
+
+bound: limit,inclose,circumscribe,terminate;leap,spring,bounce;rebound
+
+bow: bend,curve,crook;prostrate,overwhelm,crush,abase,yield,obey,submit,;incline,nod
+
+box: slap,cuff;spar
+
+brace: prop,support,fortify,buttress,stay,shore;strengthen,invigorate
+
+brag: boast,vaunt,vapor
+
+branch: ramify,divaricate,diverge,fork,bifurcate
+
+brand: stigmatize
+
+brave: defy,dare,beard
+
+break: fracture,dispart,sever,rend,smash,shatter,shiver,splinter,batter,burst,rupture,crack;infringe,violate,disobey,transgress,trespass;communicate,disclose,divulge,tell,impart,broach;discipline,tame;bankrupt,impoverish,ruin
+
+breast: stem,,withstand,resist
+
+breathe: respire,;infuse;wheeze,suspire,sigh,gasp,pant,aspirate;exhale,emit
+
+breed: beget,generate,procreate,engender,;nurture,train;occasion,originate,engender
+
+brew: foment,concoct,hatch,plot
+
+bridge: span
+
+brighten: polish,burnish,furbish;illuminate,irradiate,cheer,rally,enliven,inspirit
+
+bring: fetch
+
+broil: grill
+
+brood: incubate,sit;
+
+brook: tolerate,suffer,endure,bear
+
+bruise: contuse,ecchymose
+
+bruise: indent,deface,disfigure
+
+bud: pullulate,germinate,bourgeon
+
+build: erect,construct,raise
+
+bully: browbeat,overbear,swagger,bluster,intimidate
+
+bump: jolt,jounce,thump
+
+bunko: cheat,swindle,victimize
+
+burden: encumber,load,surcharge,oppress
+
+burn: scorch,scald,singe,char,sear,cauterize,brand,consume,incinerate;cremate,incremate
+
+butcher: slaughter
+
+buy: purchase
+
+buzz: hum,bombinate
+
+cajole: beguile,wheedle,blandish,inveigle,flatter
+
+cake: concrete,harden,solidify,coagulate
+
+calculate: compute,reckon,estimate;forecast;
+
+call: summon,bid,evoke,invite;convoke,assemble,muster,convene;entitle,name,designate,dub,denominate;invoke,petition,invocate
+
+calm: lull,allay,hush,tranquillize,becalm,still,compose,quiet,appease,pacify,assuage,moderate,alleviate,conciliate,abate,console
+
+camp: encamp
+
+cancel: annul,abrogate,rescind,nullify,quash,abolish,countermand
+
+cant: tilt,tip,incline
+
+cap: crown,complete,consummate,surpass,exceed
+
+caper: gambol,frisk,cavort,leap,skip,prance,capriole
+
+capsize: upset,overturn
+
+captivate: enchant,subdue,bewitch,fascinate,entrance,enamor,infatuate
+
+capture: seize,catch,apprehend,arrest,corral,deprehend
+
+carp: cavil,censure
+
+carry: convey,transport,bear,waft,portage;,complete,effectuate,consummate,accomplish
+
+carve: sculpture,chisel,engrave,fashion,mould
+
+cast: fling,hurl,throw,impel,pitch,sling;direct,turn,drop,deposit,place;exuviate,shed,molt,discard,shed,reflect,throw;compute,reckon,add,enumerate
+
+castigate: chastise
+
+castrate: geld,alter;emasculate
+
+catch: seize,grasp,clutch,snatch,gripe,nab;apprehend;arrest;deprehend;overtake;insnare,entangle,entrap
+
+cater: purvey
+
+cause: occasion,induce,effect,originate
+
+caution: forewarn,admonish,warn,counsel,advise,dissuade
+
+cavil: carp,criticize
+
+cease: discontinue,stop,desist,refrain
+
+cede: surrender,relinquish,grant
+
+celebrate: commemorate,solemnize,observe
+
+cement: cohere,join,glue,glutinate
+
+censure: reprove,rebuke,reprehend,upbraid,objurgate,chide,
+
+certify: assure,attest,,
+
+chafe: rub,gall,irritate;fret,fume,rage
+
+chaff: jest,banter
+
+chagrin: mortify,abash,vex,confuse,humiliate
+
+chain: fetter,restrain,shackle,enslave,trammel,catenate
+
+challenge: defy,dare,brave
+
+champion: defend,maintain,advocate,vindicate
+
+chance: befall;risk,venture
+
+change: alter,transmute,shift,modulate,reverse,reform,vary,modify,convert,transform,transpose,transfer,exchange,substitute,commute
+
+chant: intone,intonate,cantillate
+
+characterize: distinguish
+
+charge: impose,load,encumber;exhort,enjoin,adjure,instruct;commit,intrust;debit;accuse,indict,tax,impute,criminate,arraign;attack,assault
+
+charm: enchant,fascinate,enamor,infatuate,enrapture,bewitch,captivate;allay,soothe,subdue
+
+chase: track,hunt,pursue;scatter,expel,drive,disperse,dispel
+
+chasten: discipline,correct,punish;refine,purify,subdue
+
+chastise: castigate,chasten,punish,whip
+
+cheapen: depreciate;belittle,lower
+
+cheat: swindle,defraud,overreach,trick,bamboozle,hoodwink,dupe,hoax,bilk,thimblerig,hocus,bunko,beguile,cozen
+
+check: restrain,impede,curb,repress,bridle,checkmate
+
+checker: variegate,diversify,tessellate
+
+checkmate: defeat,vanquish,conquer,baffle
+
+cheer: inspirit,elate,exhilarate,encourage,console,revive,gladden;applaud
+
+cherish: treasure
+
+chew: masticate,munch;crunch,craunch,champ
+
+chide: admonish,censure,upbraid,scold
+
+chime: accord,agree,harmonize,
+
+chirp: chirrup,cherup,cheep,pue
+
+choke: strangle,throttle,stifle,suffocate,suppress
+
+choose: select,elect,prefer,cull,
+
+chop: hack,mince,hash,haggle
+
+circle: encircle
+
+circulate: disseminate,promulgate,diffuse
+
+cite: quote;specify,mention,name,
+
+claim: demand,pretend;
+
+clash: collide,hurtle,;contend,disagree;clatter,clang
+
+clasp: grasp,grapple,clutch,seize;embrace,hug
+
+class: classify,dispose,categorize
+
+claw: scratch,laniate,lacerate
+
+clean: cleanse
+
+cleanse: purify,deterge,absterge,wash,disinfect,fumigate,depurate
+
+clear: clarify;explain,interpret,elucidate,eclaircise;acquit,absolve,exonerate,vindicate;disengage,extricate,disentangle,disperse
+
+cleave: adhere,cling,;split,rive,separate
+
+climb: clamber,scale
+
+cling: adhere,cleave,
+
+clip: shear,snip,nip,trim,prune,curtail
+
+cloak: conceal,mask,hide,veil,disguise
+
+clog: impede,hamper,encumber,restrain,obstruct
+
+close: shut,stop,occlude;conclude,finish,end,terminate;inclose,encompass,confine,environ;grapple,clinch;lute,calk
+
+clothe: dress,attire,array,gird,drape
+
+cloud: overcast,becloud,obscure,shade,obfuscate;tarnish,sully,blacken
+
+cloy: satiate,glut,surfeit,pall,sate
+
+club: cudgel,beat,pommel;,combine,cooeperate
+
+clutch: seize,grasp,grip,grapple,clench,grab,snatch
+
+coax: wheedle,cajole,persuade,entice,cog,tweedle
+
+cocker: fondle,indulge,pamper,pet,humor,coddle
+
+coddle: parboil;pamper,fondle,cocker,humor,indulge
+
+coerce: constrain,compel,intimidate,restrain
+
+coil: convolve,intervolve
+
+coin: mint;neoterize,neologize;fabricate,invent,originate
+
+coincide: concur,correspond,agree,harmonize,tally
+
+collect: assemble,accumulate
+
+color: dye,tinge,stain,imbue,tint,tincture,variegate;falsify,pervert,garble,palliate,gloss,distort;blush,flush
+
+combine: unite,incorporate,merge,amalgamate,blend,coalesce,confederate
+
+come: arrive,approach;,issue,proceed,ensue,flow,emanate,originate
+
+comfort: console,solace
+
+command: order,direct,enjoin,require,bid
+
+commence: begin
+
+commend: commit,consign,intrust;praise,
+
+comment: remark,descant,annotate
+
+commit: intrust,consign;perpetrate,do
+
+compare: collate,liken
+
+compel: force,make,constrain,oblige,necessitate,coerce,drive,dragoon,overpower
+
+complain: murmur,repine,grumble,whine,croak
+
+complete: finish,consummate,perfect
+
+comprehend: understand,fathom,grasp;embrace,comprise,embody,contain
+
+comprise: comprehend,include,embrace,involve,contain,embody
+
+compute: reckon,calculate,enumerate,rate,estimate
+
+concentrate: centralize,focus,consolidate;condense,rectify
+
+conclude: decide,determine,resolve;end,close;infer,deduce;effect,arrange
+
+concoct: compound,mix;devise,contrive,invent,excogitate
+
+condemn: denounce,anathematize,curse,execrate,reprobate,doom,ban
+
+condense: abridge,epitomize,reduce;compress,concentrate
+
+condescend: deign,vouchsafe
+
+conduce: lead,tend,contribute,redound,subserve,advance
+
+conduct: lead,pilot,escort,guide,attend,convoy;administer,manage
+
+confess: acknowledge,own,admit,avow;divulge,disclose,reveal
+
+confine: restrain,restrict,limit,circumscribe,pinion,inclose,bound;immure,imprison,incarcerate
+
+confirm: ratify,verify,corroborate,substantiate
+
+conflict: clash,interfere,collide,
+
+confound: confuse,disconcert,abash,nonplus,bewilder
+
+confuse: disconcert,perplex,abash,fluster,embarrass,chagrin,pose,nonplus,bewilder,obfuscate,discompose,addle,obscure,confound,derange
+
+congratulate: felicitate,gratulate
+
+connect: join,link,couple,attach,unite,affiliate;implicate
+
+conquer: defeat,overpower,down,vanquish,triumph,overthrow,subdue,subjugate
+
+consecrate: dedicate,sanctify,hallow
+
+consent: agree,accord,concur,accede,yield,assent,acquiesce,comply,permit
+
+conserve: save,preserve
+
+consider: ,ponder,contemplate,;regard,heed
+
+console: comfort,cheer,,solace,
+
+consolidate: solidify,compress,concrete;unify,merge,incorporate,combine
+
+conspire: plot,complot,cabal,machinate,intrigue,collude
+
+contain: comprise,embody,include,comprehend,hold,restrain
+
+contaminate: corrupt,pollute,defile,infect,taint,vitiate,sully,debase
+
+contend: struggle,vie,wrestle,combat,compete;dispute,maintain,argue
+
+content: satisfy,appease,gratify
+
+contract: reduce,narrow,condense;incur,acquire;covenant,agree;shrivel,shrink;syncopate
+
+contradict: gainsay,controvert,impugn,dispute,contravene
+
+contravene: thwart,oppose,;violate,transgress
+
+contrive: devise,concoct,invent,excogitate,scheme,plan
+
+control: restrain,regulate,govern,manage,repress,direct,bridle,dominate
+
+convene: assemble,convoke,congregate
+
+converse: talk,chat,commune,confabulate,parley
+
+convert: transform,transmute;proselyte;regenerate;appropriate,apply
+
+cook: stew,seethe,gratinate;
+
+cool: chill,refrigerate;moderate,allay,calm,quiet
+
+coop: confine,,imprison,incage,mew
+
+cooeperate: concur,unite,;collude
+
+copy: transcribe,reproduce,trace,duplicate;imitate,ape,follow;exemplify
+
+corner: nonplus,pose,perplex,confuse
+
+correct: rectify,amend,emend,right;reprove,discipline;counteract,modify
+
+correspond: accord,comport,tally,correlate,harmonize,agree
+
+corrode: erode,canker;consume,
+
+corrupt: rot,spoil,deprave,vitiate,pervert,debase,demoralize,defile,infect,pollute
+
+counsel: advise,admonish
+
+count: enumerate,number;esteem,consider,reckon,judge,think
+
+counteract: defeat,frustrate,contravene,neutralize
+
+counterbalance: counterpoise,countervail,equiponderate,balance
+
+countermand: revoke,cancel,rescind,recall
+
+counterpoise: counterbalance,balance,equiponderate
+
+couple: join,link,connect;copulate
+
+court: woo,spark;solicit,seek,allure,attract,invite
+
+cover: overspread,overlay,thatch,hide,conceal,secrete;comprise,embrace,embody,comprehend;,serve
+
+cow: overawe,daunt,intimidate,scare,dishearten
+
+cower: crouch,squat;quail,cringe
+
+crack: break,chop,cleave,split,rift,snap
+
+crackle: crepitate,decrepitate
+
+cram: compress,crowd,squeeze,press,impact
+
+cramp: restrain,confine,hinder,restrict,obstruct
+
+crave: ,,;beseech,entreat,implore
+
+craze: madden,derange,distract;confuse,disarrange
+
+cremate: incremate,incinerate
+
+criminate: incriminate,implicate,accuse
+
+crimp: curl,crisp,frizz
+
+cringe: truckle,fawn,crouch
+
+crinkle: curl,wrinkle
+
+cripple: maim,lame,disable;hough,hamstring
+
+croak: forebode,decry,complain,grumble
+
+crook: bend,curve,incurvate
+
+crop: clip,lop,;gather,reap,harvest,garner;browse,nibble
+
+cross: intersect;traverse;,thwart,baffle,frustrate,foil;intercross;interbreed,hybridize;cancel
+
+crosscut: intersect
+
+crouch: squat,couch,stoop;cringe,fawn,truckle
+
+crow: brag,exult,swagger,vaunt,gasconade,vapor
+
+crowd: press,shove,jostle;compress,cram,cramp,squeeze,stow,impact;swarm,throng,troop;intrude
+
+crown: consummate,complete
+
+crumble: disintegrate,decay,molder
+
+crumple: rumple,ruck,wrinkle,
+
+crush: overpower,vanquish,quell,subdue,conquer,suppress;squeeze,press,compress
+
+cry: weep,sob,wail,bawl,squall,whimper,blubber,pule,bewail;shout,call,exclaim,yell,scream,vociferate,clamor,ejaculate
+
+cuddle: nestle,snuggle
+
+cuff: box,slap,smite,strike,buffet
+
+cultivate: till
+
+curb: check,restrain,control,repress,bridle
+
+curdle: coagulate,thicken,curd,clabber,lopper
+
+cure: heal,remedy
+
+curl: crisp,crimp,crape;writhe,wreathe,twist,wind
+
+curse: anathematize,execrate,fulminate,denounce,condemn
+
+curtail: shorten,reduce,retrench
+
+curve: bend,crook,turn,inflect,deflect,deviate,wind
+
+cut: gash,slash,hew,crop,reap,mow,lop,prune,clip,shear,whittle,shave,trim,detruncate,dock,curtail,exscind,dissect,chamfer,amputate,carve,chase,chisel,lance,bisect,cleave,razee,slit,incise,fell,score,nurl,knurl
+
+dally: dawdle,trifle;fondle,wanton;delay,postpone,procrastinate
+
+dam: restrain,obstruct
+
+damage: injure,hurt,harm,despoil,scathe,deface,impair,disfigure,damnify
+
+damn: condemn,curse,reprobate,denounce
+
+dampen: moisten,damp;check,repress,restrain,discourage,depress
+
+dare: venture,presume;defy,challenge,stump
+
+darken: shade,obscure,infuscate,shadow,becloud,obfuscate;perplex,confuse;sully,tarnish,discolor
+
+dart: hurl,launch,jaculate;spring,dodge,bolt,shoot
+
+daub: smear,bedaub,besmear,soil,sully
+
+daunt: cow,intimidate,frighten,alarm,appall,dishearten,scare
+
+dazzle: daze,blind;bewilder,astonish,overpower
+
+deaden: blunt,benumb,hebetate,moderate;devitalize,subdue
+
+deal: distribute,apportion,dispense,allot;trade,traffic,negotiate
+
+debar: preclude,exclude
+
+debase: degrade,deteriorate,abase,vitiate,corrupt,alloy,humiliate
+
+debate: argue,discuss,moot,contend,controvert
+
+debauch: vitiate,deprave,corrupt,demoralize;ravish,rape
+
+decay: decline,retrograde,deteriorate;rot,decompose,putrefy,moulder
+
+deceive: delude,beguile,mislead,gull,,dupe,circumvent,hoodwink,bamboozle
+
+decharm: disillusionize,disenchant,disabuse
+
+decide: determine,settle,conclude,resolve
+
+deck: bedeck,bedizen,array
+
+declare: affirm,assert,aver,state,asseverate,predicate
+
+decline: lean,incline,bend;languish,sink,wane,diminish,decrease,deteriorate,retrograde;deviate,stray;shun,refuse
+
+decolor: decolorate,decolorize
+
+decorate: embellish,adorn,beautify,ornament,garnish,enrich,trim,bedizen,bedeck
+
+decoy: entice,lure,allure,ensnare,entrap
+
+decrease: diminish,reduce,dwindle,subside,depreciate,abate,wane
+
+decry: disparage,belittle
+
+dedicate: consecrate
+
+deduct: subtract,rebate
+
+deepen: intensify
+
+deface: mar,disfigure,mutilate
+
+defame: calumniate,malign,vilify,lampoon,vituperate,slander
+
+defeat: conquer,vanquish,repulse,discomfit,rout,checkmate,outwit,balk,foil,frustrate
+
+defend: guard,protect,shield,secure,screen,shelter,fortify,garrison,preserve,harbor,countenance;uphold,espouse,vindicate,advocate,plead,justify,maintain
+
+defile: contaminate,pollute,soil,befoul,vitiate,taint,corrupt,infect,sully
+
+defy: challenge,dare;spurn,flout,scorn
+
+degenerate: deteriorate,retrograde,decline
+
+degrade: abase,debase,disgrace,pervert,humiliate,dishonor
+
+deify: apotheosize
+
+deign: condescend,vouchsafe
+
+delay: postpone,defer,procrastinate,suspend,reprieve,retard,impede,hinder,obstruct;linger,tarry,dawdle,dally
+
+delegate: depute,commission
+
+demoralize: deprave,debase,corrupt,vitiate
+
+denote: signify,imply,indicate,betoken
+
+deny: gainsay,contradict;disavow,disown,abjure,renounce,abnegate
+
+depend: lean,rely,trust
+
+depict: portray,delineate,describe,picture
+
+deplore: lament,deprecate,bewail,regret,rue,bemoan
+
+deprive: dispossess,strip,divest,despoil
+
+deride: scoff,ridicule,mock,taunt,jeer,scout,jibe
+
+describe: delineate,depict
+
+desecrate: profane,pollute,secularize
+
+desert: forsake,abandon,leave,
+
+deserve: merit
+
+desire: want,crave,,lust,covet,yearn,aspire,request
+
+desolate: devastate,depredate,despoil,sack,
+
+despise: contemn,disdain
+
+destine: doom,preordain,appoint,foredoom
+
+destroy: annihilate,undo,demolish,raze,desolate,devour,sack,dismantle,eradicate,exterminate,ruin
+
+detach: disconnect,disjoin,sever,disunite,isolate,segregate
+
+detail: particularize,enumerate
+
+deter: hinder,prevent,dissuade,restrain
+
+deteriorate: decline,degenerate,retrograde;corrupt,vitiate,debase,degrade
+
+detest: loathe,despise,abominate,abhor,hate,execrate
+
+devastate: desolate,sack,despoil,ravage,plunder
+
+develop: mature,evolve;unfold,disentangle,unravel
+
+deviate: swerve,deflect,digress,stray,wander,diverge
+
+devise: contrive,invent,scheme,concoct,excogitate;bequeath
+
+devour: consume
+
+dicker: trade,barter,negotiate,exchange
+
+die: expire,perish,decease;wither,fade,vanish,recede,wane,subside,languish
+
+differ: ;disagree
+
+differentiate: discriminate
+
+dig: delve,excavate,scoop;thrust,poke,punch,jab;
+
+digest: codify,systematize,methodize,classify
+
+dignify: exalt,grace,ennoble,honor,elevate
+
+digress: deviate,depart,wander,
+
+dilate: expand,distend;expatiate
+
+dillydally: dawdle,dally,fritter,trifle,loiter
+
+dilute: attenuate,thin,weaken,reduce
+
+dim: bedim,obscure,darken,dull,eclipse,blur,tarnish
+
+diminish: decrease,reduce,abate,lessen,contract,curtail
+
+dip: plunge,immerse,duck,souse,douse,dive;lade
+
+direct: point,aim;guide,pilot,lead,steer,regulate,govern,control,manage,conduct,superintend,instruct;address,superscribe
+
+disable: incapacitate,disqualify,cripple,maim
+
+disagree: ,differ,contend,dissent,contradict,quarrel,altercate,spar
+
+disappear: vanish,evanesce,recede,
+
+disappoint: dissatisfy,frustrate,balk,foil,baffle,defeat
+
+disband: demobilize,disorganize
+
+discern: perceive,discriminate,distinguish
+
+discharge: absolve,acquit,exculpate,release,exonerate,free;dismiss,cashier,remove;excrete,exude,void,eject,emit,expel;pay,liquidate;fulfill,perform;fire,shoot,volley;annul,rescind,invalidate,abrogate,cancel
+
+disclaim: disown,deny,disavow,renounce,repudiate
+
+discommode: inconvenience,incommode,trouble
+
+disconnect: detach,dissever,disjoin,separate
+
+discourage: dishearten,dispirit,depress,deter,dampen,unnerve,oppose,dissuade
+
+discover: ascertain,detect,unearth,descry,discern,disclose,
+
+discuss: debate,argue,canvass,agitate,moot,deliberate
+
+disembowel: eviscerate,gut
+
+disengage: extricate,disembarrass,disentangle,detach,dissociate
+
+disfigure: deface,mar,blemish
+
+disgrace: dishonor,humiliate,shame,degrade,debase,abase,discredit,tarnish,sully
+
+disguise: mask,dissemble,dissimulate,cloak,shroud,masquerade
+
+disgust: revolt,offend,nauseate
+
+disillusionize: disenchant,decharm,disabuse
+
+disjoint: dislocate,luxate,disarticulate
+
+dislike: disapprove,disrelish,hate
+
+dislocate: disjoint,luxate
+
+dismantle: raze,demolish
+
+dismember: mutilate,dislimb
+
+dismiss: discharge,cashier;banish
+
+disobey: transgress,violate,disregard,defy,infringe
+
+disorder: disarrange,confuse,jumble,disorganize,tousle,derange,discompose
+
+disorganize: dissolve,disband,disorder,demobilize,disarrange
+
+disown: repudiate,deny,disclaim,disavow,renounce,reject
+
+disparage: belittle,decry,depreciate
+
+dispense: ,apportion,distribute;administer,execute
+
+disperse: dissipate,dispel,scatter
+
+displace: remove,disarrange;supplant,supersede
+
+display: exhibit,evince,expose,parade,flourish
+
+displease: offend,anger
+
+dispossess: dislodge,oust,eject,evict,dispropriate,disseize,remove,depose
+
+disprove: confute,refute
+
+dispute: contend,argue,gainsay,controvert,altercate,wrangle,impugn,bicker,squabble,spar
+
+disregard: ignore,slight,contemn,overlook,disobey
+
+dissolve: melt,liquefy,macerate,fuse,deliquesce;disorganize,disband,disperse;sunder,disunite
+
+dissuade: deter,divert
+
+distance: outstrip,outdo,surpass
+
+distill: trickle,drop,drip;rectify
+
+distinguish: characterize;discriminate,differentiate,discern,recognize
+
+distort: deform,twist;pervert,misinterpret,falsify,misrepresent
+
+distress: pain,grieve,afflict,wound;distrain
+
+distribute: apportion,allot,,dispense;classify,assort,group
+
+disturb: molest,perturb,annoy,disquiet,agitate,incommode,ruffle,disarrange,derange,unsettle,roust,excite
+
+dive: plunge
+
+divide: sunder,split,cleave,disunite,part,separate,sever,dissociate,disconnect,detach,disintegrate,demarcate,dimidiate,partition;apportion,distribute,allot,assign,;disaffect,alienate,estrange,part;share,partake,participate
+
+divine: foresee,foreknow,surmise,forebode,conjecture,foretell
+
+do: effect,accomplish,produce,achieve,consummate,execute,perform;transact;perpetrate,commit;translate,render;suffice,answer;fare,prosper;vouchsafe,grant;
+
+dock: curtail;,lessen
+
+doctor: repair,treat;,falsify,adulterate
+
+dodge: duck,evade,parry;prevaricate,equivocate,shift,evade,quibble,parry
+
+dog: follow,worry,hound
+
+dominate: predominate,sway,rule,govern,control,surmount,overtop
+
+domineer: tyrannize,;swagger,vapor,bluster
+
+double: duplicate;fold,plait,pleat
+
+doubt: waver,hesitate,question,,query;distrust,suspect
+
+douse: duck,immerse,dip,plunge,souse,submerge
+
+down: overthrow,subdue,floor,prostrate
+
+drag: haul,trail,tug,pull;break,harrow
+
+drain: empty,exhaust,deplete;filter
+
+draw: haul,drag,tug,tow;attract;entice,allure,lure,induce,tempt;extract,educe;unsheathe;deduce,infer,conclude,derive;disembowel,eviscerate;delineate,draught,sketch,depict,trace,limn;influence,win,induce;contract,shrink
+
+dread: fear,apprehend
+
+dress: clothe,deck,drape,apparel,robe,array,attire;adjust,align;curry,smooth,plane,finish;
+
+dribble: drip,trickle
+
+drill: perforate,pierce,bore;train,discipline,exercise
+
+drink: quaff,sip,sup,imbibe,;tipple,tope,guzzle,booze,house,;absorb
+
+drip: drop,trickle,dribble
+
+drive: impel,force,compel,press;propel,send;rush,press;conduct,
+
+drivel: drool
+
+drool: drivel,slaver,slabber
+
+droop: languish,faint,,sink;bend,drop,hang;slouch;fade,wilt,wither
+
+drop: distill,dribble,trickle,drip;fall;,release,banish,dismiss,discontinue,discard,intermit,remit,relinquish;lower,sink,depress;variegate,bedrop,speckle,fleck
+
+drown: overwhelm,submerge,flood,inundate,deluge
+
+drug: deaden,dull,stupefy;surfeit;hocus
+
+drum: thrum,strum
+
+dry: evaporate,desiccate,exsiccate,arefy,,torrefy;
+
+duck: souse,dip,plunge,immerse;dive;dodge,cringe
+
+dull: blunt,rebate,benumb,obtund,stupefy,deaden,hebetate;sully,tarnish,obscure,dim,bedim;depress,sadden,dishearten;assuage,alleviate,moderate,allay
+
+dumfound: astound,amaze,astonish,confound
+
+dwarf: stunt,atrophy
+
+dwindle: decrease,diminish,shrink
+
+dye: color,stain,tinge,imbue
+
+ease: facilitate,mitigate,appease,assuage,allay,soothe,alleviate,palliate,release,relax,mollify
+
+eat: feed,devour;bolt,gulp,gorge
+
+eat: consume,corrode,erode,fret
+
+ebb: recede,return,retire;decline,wane,deteriorate,decay
+
+echo: resound,reverberate
+
+eclipse: obscure,outshine,surpass,outrival,overcast
+
+economize: save,retrench,husband
+
+edge: sharpen,fringe,border,rim;
+
+educate: teach,instruct,school,nurture,edify,enlighten
+
+efface: expunge,obliterate,erase,eradicate
+
+effect: effectuate,accomplish,realize,achieve,consummate,compass
+
+egg: ,instigate,incite
+
+eject: void,discharge;oust,evict,dislodge
+
+elevate: lift,raise;promote,advance,aggrandize,exalt;ennoble,dignify
+
+embarrass: disconcert,discompose,mortify,abash,chagrin,nonplus,pose,perplex;impede,obstruct,annoy,involve,harass,hamper,incumber
+
+embellish: decorate,beautify,garnish,bedeck,ornament
+
+embezzle: peculate,defalcate
+
+emigrate: migrate
+
+emphasize: accentuate
+
+empty: deplete,exhaust,unload,unburden,evacuate;disembogue;deflate
+
+enchant: bewitch,charm,enrapture,captivate,enravish,transport,delight
+
+encircle: environ,encompass,surround,gird,circumscribe,enfold
+
+encourage: enhearten,reassure,embolden,inspirit,stimulate,revive,rally,foment,countenance,incite
+
+encroach: trespass,intrude,intrench,infringe,trench,invade
+
+end: terminate,conclude,finish,discontinue,cease,close
+
+endanger: imperil
+
+endure: suffer,experience,undergo;stand,brook,tolerate,,abide;sustain,support,bear;last,abide,continue,remain,persist
+
+engage: pledge,bind,commit;betroth,affiance,plight;engross,employ,busy,occupy
+
+engrave: chisel,carve,grave,cut;imprint,infix,impress;stipple
+
+enlarge: magnify,amplify,augment,expand,develop,increase,extend,swell;dilate,descant,,expatiate;ennoble,broaden
+
+enrich: fertilize;embellish,adorn,beautify;endow
+
+enroll: enlist,register,matriculate,list,record
+
+enslave: enthrall,subjugate,overcome
+
+entangle: interweave,complicate,tangle,enmesh,snarl;insnare,puzzle,involve
+
+enter: penetrate,pierce,perforate;,;insert
+
+entertain: divert,amuse,please,junket,beguile,cheer;harbor,hold,lodge
+
+entice: seduce,allure,persuade,inveigle,wheedle,tempt
+
+entrap: insnare,entangle,decoy,entrammel,entice
+
+envelop: surround,inwrap,inclose,encircle,encompass,environ
+
+equip: accouter,furnish,,gird
+
+eradicate: extirpate,exterminate
+
+erase: expunge,,efface,obliterate,dele,delete
+
+erect: build,raise
+
+err: misjudge,mistake,blunder;deviate,sin
+
+establish: found,organize,institute;substantiate,verify,ratify
+
+esteem: respect,value,honor,revere;rate,reckon,estimate
+
+estimate: appraise,value,rate,prize;compute,calculate,reckon
+
+estrange: alienate,disaffect
+
+eulogize: laud,praise,extol,panegyrize
+
+evade: shun,avoid;elude,parry,foil,baffle;prevaricate,equivocate,dodge,quibble
+
+evaporate: vaporize,evanesce
+
+exact: demand,extort,wrest
+
+exaggerate: overstate
+
+exalt: elevate;dignify,ennoble,aggrandize;magnify,apotheosize,extol
+
+examine: inspect,scrutinize,question,audit,heckle,reconnoitre,review,search,probe,investigate,catechise
+
+exasperate: provoke,irritate,incense,anger;aggravate,imbitter,intensify
+
+exceed: surpass,transcend;outvie,excel,outdo;preponderate,predominate
+
+excel: outrival,outstrip,surpass,eclipse,outdo,outvie,transcend,exceed
+
+exchange: trade,barter,traffic,commute,interchange,reciprocate,bandy,permute
+
+excite: stimulate,arouse,inflame,incite,provoke;perturb,agitate,disconcert,discompose,distract,unsettle
+
+exclaim: ejaculate,shout,vociferate
+
+exclude: debar,preclude;except,omit;eject,expel
+
+excuse: absolve,forgive,pardon,exonerate,palliate,justify,extenuate,acquit,exculpate,release
+
+execute: effectuate,perform,accomplish,consummate,achieve;electrocute,behead,guillotine,hang
+
+exercise: employ,apply,busy,exert;practice,discipline,drill,train;distress,worry,harass
+
+exhaust: drain,deplete;debilitate,prostrate,enervate
+
+exhibit: display,show
+
+exhume: disinter,disentomb
+
+exile: banish,expatriate
+
+expand: dilate,distend,enlarge
+
+expatiate: descant
+
+expect: anticipate
+
+expel: eject,;ostracize,banish,proscribe,exile;excommunicate;discharge,void,eject,evacuate;exclude,remove,dismiss
+
+expend: disburse
+
+explain: expound,elucidate,unfold,interpret
+
+explode: burst;detonate,detonize
+
+exploit: develop,utilize
+
+expose: exhibit,show,display;uncover,unveil;imperil,endanger,subject,jeopardize;disclose,reveal,unmask,denounce
+
+expostulate: remonstrate
+
+express: say,utter;signify,represent,indicate,denote,designate,mean
+
+extend: lengthen,prolong,protract;jut,project;enlarge
+
+exterminate: eradicate,extirpate,uproot
+
+extol: eulogize,praise,laud,exalt
+
+face: confront,meet;bully,bluff;veneer;plane,dress,smooth
+
+fade: decay,decline,droop,languish,evanesce,disappear
+
+fail: default,lack;deteriorate,decline,retrograde;disappoint,desert;miscarry,foil;
+
+faint: swoon
+
+fake: ,swindle,humbug,defraud,manipulate,fraudulently
+
+fall: descend,drop,gravitate;collapse,founder,slump,tumble,topple;subside,decrease,decline,settle,moderate;sin,,;apostatize;empty,discharge,disembogue
+
+falsify: misstate,misrepresent,garble,distort,pervert;confute,refute,disprove
+
+falter: hesitate,tremble,waver,vacillate
+
+familiarize: habituate,accustom,inure,
+
+fan: winnow;cool,ventilate;stimulate,rouse,foment,provoke,encourage
+
+fancy: believe,imagine,apprehend,conjecture,conceive,like
+
+fascinate: bewitch,enchant,charm,captivate,enamor,infatuate,entrance,enrapture,enravish
+
+fasten: secure,fix,barricade,lock,bind,tie,attach,tether,rivet,moor,cement,affix,annex,clinch,clamp,append
+
+father: beget,engender,procreate
+
+fatigue: weary,tire,jade,exhaust,fag,bore
+
+fatten: batten
+
+favor: support,countenance,encourage;resemble
+
+fawn: truckle,,court
+
+fear: apprehend,dread,;reverence,venerate,
+
+feast: banquet,junket;delight,gratify
+
+feather: fledge
+
+feed: bait,regale
+
+feel: touch,handle;grope,grabble;experience,suffer
+
+felicitate: congratulate
+
+fence: defend,fortify,protect;equivocate,evade,parry,shift,prevaricate
+
+fend: ,avoid,parry
+
+fertilize: enrich,manure;fecundate,impregnate
+
+fester: suppurate,maturate,ulcerate;rankle
+
+fetter: shackle,manacle,hamper;restrain,impede
+
+fight: battle,combat,militate,struggle,
+
+figure: compute,cipher,calculate;contrive,scheme,plan;symbolize,typify,represent
+
+fill: satisfy,cloy,satiate,sate,glut,stuff;occupy,hold;replenish;expand,dilate,distend,inflate,bloat;pervade
+
+filter: strain,clarify,filtrate;percolate,exude,ooze,seep,transude,infiltrate
+
+finger: touch,handle;thrum,strum
+
+finish: complete,elaborate
+
+fire: ignite,kindle;,dismiss;inflame,irritate,arouse,excite,incite;animate,quicken,vitalize,enthuse,inspirit;stoke;bake,burn,torrefy
+
+fish: angle,trawl,troll;
+
+fit: adapt,qualify,prepare,equip,accommodate,shape,adjust,trim
+
+fir: mend,repair,restore,adjust;rivet,fasten;settle,fasten,establish,implant,define
+
+flabbergast: ,amaze,surprise,dumfound
+
+flame: blaze
+
+flare: flicker,flutter;dazzle,blaze,glare;flaunt
+
+flash: glitter,gleam,glisten,coruscate,sparkle
+
+flatter: blandish,cajole,wheedle,compliment
+
+flay: skin,excoriate
+
+fleece: plunder,swindle,despoil,strip
+
+flinch: shrink,wince,recoil,blench,withdraw
+
+flood: inundate,deluge,overflow,submerge
+
+floor: prostrate,fell,overthrow;embarrass,nonplus
+
+flourish: thrive;wave,brandish
+
+flout: mock,jeer,gibe,sneer,deride
+
+flow: circulate;proceed,emanate,issue
+
+fluctuate: vacillate,waver,oscillate,whiffle,swerve
+
+fluster: perturb,discompose,confuse,disconcert,embarrass,agitate
+
+flutter: tremble,palpitate;hover;oscillate,fluctuate,vacillate,waver
+
+fly: wing,soar,flit,mount,hover;decamp,abscond,flee
+
+fog: befog,obscure,confuse
+
+foil: baffle,frustrate,thwart,circumvent
+
+foist: interpolate
+
+fold: double;embrace,infold,clasp
+
+follow: succeed,chase,pursue,tag;dodge;result,proceed,flow,ensue,spring,issue;pursue,practice,;trace,track,trail
+
+foment: encourage,instigate,nurse;stupe
+
+fondle: caress,pet,coddle,cosset,indulge,humor
+
+fool: dupe,gull,delude,hoodwink,deceive,hoax,trick,beguile,victimize,cully;trifle,toy,dawdle
+
+foozle: bungle
+
+forbear: refrain,stop,pause,withhold,abstain;endure,tolerate
+
+forbid: prohibit,interdict,inhibit,restrain,taboo,preclude,proscribe
+
+force: compel,coerce,necessitate,constrain,oblige,make;impel,obtrude,extort,wrest;capture,storm;rape,ravish
+
+forebode: portend,presage,foreshadow,,foretell
+
+foredoom: predestine,preordain
+
+forego: quit,relinquish,surrender,yield,;precede
+
+foreordain: preordain,predestinate,foredoom,predetermine
+
+forerun: precede,herald
+
+foreshadow: presage,presignify,prognosticate,prefigure,augur
+
+forestall: anticipate;preoccupy,monopolize
+
+foretell: predict,prophesy,prognosticate,augur,presage,portend,forebode,bode,divine,foreshadow,presignify
+
+forgive: pardon,excuse,absolve,condone,exculpate,connive,acquit
+
+forgo: omit,relinquish,
+
+fork: ramify,branch,divaricate
+
+form: shape,fashion,mould
+
+forsake: quit,abandon,leave;renounce,reject,relinquish,forswear
+
+forswear: renounce,abjure,disavow
+
+forward: advance,promote,accelerate,expedite,further;transmit,send,ship
+
+fossilize: petrify,lapidify;mummify
+
+foster: nourish,nurse,support;promote,encourage,advance
+
+foul: defile,soil,dirty,pollute
+
+found: establish,plant,institute;cast,form,mould
+
+founder: fall,stumble;fail,miscarry
+
+frame: devise,plan,contrive,compose;invent,fabricate;adjust,fit,conform
+
+frazzle: fray,tatter
+
+free: liberate,manumit,disinthrall,deliver,emancipate,release,enfranchise,disengage,exonerate,acquit,extricate,disentangle
+
+freeze: congeal
+
+freshen: refresh,revive,renovate,renew
+
+fret: chafe,abrade,fray,rub;gnaw,corrode;roughen,ruffle,agitate;worry,harass,tease,irritate,vex,fume,rankle
+
+frighten: terrify,alarm,scare,intimidate,dismay,affright,daunt,appall,terrorize
+
+friz: curl,crisp,frizzle
+
+frustrate: baffle,defeat,disappoint,foil,balk,thwart,circumvent,nullify
+
+fulfill: accomplish,complete,consummate,realize,satisfy,fill,answer,meet;discharge,perform
+
+fume: smoke,reek;storm,rage,bluster
+
+funk: stink;
+
+furbish: polish,burnish,scour,clean
+
+furnish: supply,provide,contribute,bestow,purvey,cater
+
+fuse: melt,liquefy,dissolve,smelt;commingle,blend,amalgamate,intermix
+
+fuss: pother,fume,fret;disturb,annoy,bother
+
+gabble: gibber,jabber,babble,prate,chatter
+
+gag: silence,muzzle,muffle,hush,suppress;retch
+
+gain: get,acquire,achieve,win,obtain,attain;conciliate,persuade,induce
+
+gainsay: contradict,dispute,deny,controvert,impugn
+
+gall: chafe,fret;vex,annoy,harass,worry,exasperate
+
+gambol: caper,frolic,play,sport,frisk,curvet
+
+gape: yawn,oscitate;gaze,stare
+
+garble: pervert,distort,falsify,misstate,wrench,misquote,misrepresent
+
+garnish: embellish,beautify,decorate,trim,adorn
+
+gash: slash,incise
+
+gather: congregate,assemble,convene,muster,collect,concentrate;harvest,pick,glean,pluck,crop,reap;accumulate,amass,hoard,garner;contract,compress;pucker,plait,ruffle,shirr;infer,conclude,deduce;maturate
+
+geld: castrate
+
+generate: procreate,beget,engender,reproduce;originate,produce,propagate
+
+get: procure,obtain,acquire,secure,gain,achieve,attain,realize;induce,persuade,,win;;receive;beget,procreate,engender
+
+gibe: scoff,flout,jeer,sneer,ridicule,deride,mock
+
+gird: encircle,engird,surround,equip,prepare
+
+give: confer,bestow,accord,grant,vouchsafe,donate,contribute,impart,yield,afford,assign
+
+gladden: cheer,delight,please,exhilarate,gratify,buoy,elate,rejoice
+
+glance: glimpse;allude,hint;gleam,beam,glitter
+
+glare: glitter,glisten,dazzle;frown,glower
+
+gleam: glimmer,glitter,radiate,beam,scintillate,sparkle
+
+glisten: sparkle,shine,gleam,flash,glitter,glister
+
+glister: sparkle,glisten,glitter
+
+glitter: sparkle,gleam,glisten,glister
+
+glory: exult,boast,vaunt
+
+gloss: annotate,comment,illustrate;glaze,polish;palliate,extenuate,
+
+glue: cement,glutinate,agglutinate
+
+glut: satiate,sate,cloy,surfeit;overfeed,overstock,oversupply
+
+go: operate,pass,move,advance,repair,hark,budge,stir,resort,frequent,wend;circulate;tend,conduce,contribute;depart;reach,extend
+
+goad: urge,incite
+
+gore: stab,pierce,penetrate
+
+gorge: bolt,gulp,;glut,stuff,satiate
+
+govern: direct,control,regulate,command,reign,influence,restrain,bridle,guide
+
+grab: seize,snatch,clutch,grasp,pluck
+
+grace: adorn,beautify,embellish;dignify,honor,exalt
+
+graft: ingraft,march
+
+grant: convey,transfer,code;give,bestow,allot,deign,vouchsafe;admit,concede,allow,comply,permit
+
+grapple: seize,attack,clutch,grasp,struggle,wrestle,contend
+
+grasp: seize,clutch,clinch,clasp,gripe;struggle,wrestle;comprehend,understand
+
+gratify: satisfy,indulge,content,delight,humor,,mortify
+
+greet: address,salute,hail,accost
+
+grieve: mourn,regret,lament,rue,weep,sorrow,bewail,deplore;wound,afflict,try,distress,pain
+
+grind: crush,powder,pulverize,comminute,bruise,bray,triturate,levigate;harass,persecute,oppress
+
+grip: seize,clutch,grasp,clinch
+
+groove: channel,furrow;chamfer,flute
+
+grovel: crawl,sneak,cringe,wallow,fawn
+
+grow: increase,extend,augment,wax,accrue,develop,expand,mature,flourish,thrive;vegetate,sprout,pullulate,germinate,bourgeon;raise,cultivate
+
+grub: drudge,slave,moil;,uprooc,eradicate
+
+grudge: begrudge,resent,envy
+
+grumble: murmur,repine,complain,croak;growl,snarl
+
+guard: protect,defend,shield,shelter,fortify,preserve
+
+guess: conjecture,speculate,surmise;think,suppose,presume,apprehend,believe,daresay,opine
+
+guide: pilot,steer,direct,govern,conduct
+
+gush: rush,pour,stream,spout
+
+guy: steady,guide,shore,;
+
+habituate: accustom,addict,inure,familiarize
+
+haggle: hack,hackle;chaffer,higgle
+
+hail: accost,salute,address,signal
+
+hallow: consecrate,venerate,reverence,sanctify,bless
+
+halve: bisect,dimidiate
+
+hammer: beat,forge,malleate,beetle
+
+hamper: fetter,shackle,impede,restrain,hinder,encumber,embarrass
+
+hang: suspend;dangle;execute;droop,drop;append,attach;depend,rest;hover,impend,threaten;lean,incline,slope;lynch
+
+hanker: ,yearn,crave,covet,lust
+
+happen: occur,befall,betide;supervene,intervene
+
+harangue: declaim,spout,rant
+
+harass: fatigue,tire,weary;annoy,vex,torment,perplex,distress,persecute,worry,bother
+
+harden: indurate,solidify;petrify,ossify,sear,brutalize,embitter;inure,season,fortify,steel,brace,accustom
+
+harm: injure,hurt,damage,impair,scathe,mar,deface,abuse,misuse
+
+harmonize: agree,chime,tally,correspond,accord;adjust,reconcile
+
+harness: equip,array,caparison,tackle
+
+harrow: wound,lacerate,tear,distress,torture,harass
+
+hasten: accelerate,expedite,quicken,,urge;hurry
+
+hatch: breed,incubate;concoct,excogitate,brew,scheme
+
+hate: dislike,detest,abhor,despise,abominate,loathe,execrate
+
+hazard: venture,risk,jeopard,endanger
+
+heal: cure,repair;cicatrize
+
+heap: amass,accumulate,pile,stack,cumulate
+
+heat: warm,calefy
+
+heathenize: paganize
+
+hector: torment,tease,plague,bully,harass
+
+heed: mind,regard,consider,notice,attend
+
+help: abet,assist,befriend,succor,aid,cooeperate,collaborate,second,facilitate,subsidize;remedy,ameliorate,alleviate,promote,further
+
+herald: proclaim,announce,foretell,
+
+hesitate: doubt,vacillate,falter,dubitate,waver,scruple,demur,deliberate
+
+hide: veil,cloak,conceal,dissemble,cache,secrete,mask;skulk,lurk
+
+hinder: retard,obstruct,hamper,impede,forestall,forefend,check,thwart,foil
+
+hint: intimate,suggest,imply,,refer
+
+hit: smite,buffet,strike
+
+hoard: garner,amass,save,treasure
+
+hold: sustain,restrain,retain,detain,withhold,arrest;contain;clutch,grasp,grip,clinch
+
+hollow: scoop,excavate,concave
+
+honor: esteem,respect,revere,reverence,venerate;dignify,exalt,elevate
+
+hoodwink: deceive,,delude,hoax,dupe,overreach
+
+hook: fasten,catch,secure;entrap,ensnare;gore;
+
+hoot: shout,deride,denounce,execrate
+
+hop: spring,jump,skip,frisk,bound,leap,caper,trip,gambol,dance
+
+hound: importune,harass
+
+house: shelter,protect,harbor;abide,dwell,lodge
+
+howl: yowl,roar,ululate,yawl
+
+hum: drone,murmur,buzz,bombinate;croon
+
+humble: humiliate,debase,abase,degrade
+
+humbug: deceive,,hoax
+
+humiliate: humble,mortify,abash,disgrace,degrade
+
+humor: indulge,please,gratify,temporize
+
+hunt: chase,pursue,follow;search,seek,ransack,rummage,ferret;
+
+hurry: hasten,impel,expedite,accelerate,speed,precipitate
+
+hurt: damage,wound,impair,harm,injure,offend,harry
+
+hush: silence,still,repress,suppress;appease,allay
+
+hustle: jostle
+
+idolize: deify,worship,adore
+
+ignore: disregard,slight,connive,overlook
+
+illegitimate: illegitimatize,bastardize
+
+illustrate: elucidate,picture,demonstrate,exemplify
+
+imagine: conceive,fancy;think,suppose,opine,apprehend
+
+imitate: copy,ape,counterfeit;personate,impersonate,mimic,simulate;parody,caricature
+
+immerse: submerge,,dip,immerge,douse;engross
+
+impart: communicate
+
+impede: retard
+
+impersonate: personate;personify
+
+implant: instill,inculcate,ingraft,infix
+
+implore: beseech,supplicate,entreat,obsecrate
+
+impregnate: fecundate
+
+imprison: incarcerate,immure
+
+improve: amend,ameliorate,rectify,better,mend;utilize,use;gain,
+
+incite: instigate,stimulate,arouse,goad,spur,impel
+
+inclose: surround,encircle,circumscribe,encompass,enclose
+
+include: comprise,comprehend,inclose
+
+increase: augment,advance,enlarge;multiply,,wax;aggravate,enhance,extend,augment,intensify,exacerbate,amplify,magnify,heighten,accelerate
+
+incremate: cremate,incinerate
+
+indicate: designate,betoken,signify
+
+indulge: satisfy,gratify,luxuriate;humor,pamper,cocker;grant,allow,permit
+
+infatuate: enamor,charm
+
+infer: deduce,imply,gather
+
+inflate: expand,enlarge,distend
+
+influence: move,persuade,induce,sway,control,,actuate,impel
+
+infringe: violate,transgress;encroach,trespass,intrench
+
+injure: damage,harm,hurt,impair,disfigure,maim,mar,wound
+
+insert: interpolate,intercalate,interject,ingraft,inosculate
+
+insist: persist,press,urge,contend
+
+insnare: ensnare,entrap,seduce,inveigle,allure,entangle
+
+insist: persist,press,urge,contend
+
+insnare: ensnare,entrap,seduce,inveigle,allure,entangle
+
+inspect: examine
+
+install: instate,induct
+
+instruct: teach,indoctrinate,edify,enlighten,coach
+
+insult: offend,affront,flout
+
+insure: assure,indemnify;underwrite
+
+intend: design,purpose,propose,contemplate,plan
+
+intensify: aggravate,exacerbate,heighten
+
+intercede: mediate,interpose,propitiate
+
+interfere: clash,conflict;intermeddle,interpose,intervene
+
+interpret: construe,translate,render
+
+intrigue: plot,scheme,machinate,cabal
+
+intrude: infringe,invade,encroach,obtrude,interlope
+
+intrust: commit,confide
+
+invade: infringe,encroach,trespass,intrench,trench
+
+invalidate: annul,abrogate,cancel,quash,nullify
+
+inveigle: wheedle,seduce
+
+investigate: probe,sift,examine
+
+invite: bid,ask,summon;allure,induce,entice
+
+iron: smooth;mangle
+
+irritate: intensify,stimulate;provoke,vex,annoy,offend,chafe
+
+isolate: insulate,segregate,dissociate,detach,separate
+
+issue: gush,disembogue;,debouch;proceed,emanate,ensue,follow,result
+
+jam: squeeze,crowd,press,,bruise
+
+jangle: clash,clang;quarrel,wrangle,dispute,altercate
+
+jaw: ,upbraid,berate,clamor,
+
+jeer: mock,deride,ridicule,taunt,jibe
+
+jeopard: imperil,risk,expose,endanger,hazard
+
+jeopardize: jeopard
+
+jerk: twitch,yerk
+
+jest: joke
+
+jet: spurt,spout,gush;protrude,project
+
+jog: push,shake,jostle;,notify,remind
+
+joke: rally,banter,jest
+
+joust: tilt
+
+judge: adjudge,adjudicate,try;discern,distinguish,discriminate,decide;esteem,think,consider,reckon,deem,regard;arbitrate
+
+jumble: confuse,disarrange,entangle,mix
+
+jump: spring,bound,leap,hop,caper,vault;bounce,jolt
+
+justify: vindicate,warrant,excuse,exonorate,exculpate,absolve,defend
+
+justle: clash,bump,jostle,collide
+
+jut: ,project,protrude
+
+keep: detain,restrain,hold,retain,repress,withhold;preserve,conserve;maintain,continue;guard,shield,defend,protect,screen,preserve;entertain,harbor;observe,,fulfill;commemorate,celebrate,solemnize;support,sustain,
+
+kick: spurn,calcitrate,recalcitrate,winch;resist,oppose;recoil
+
+kiddy: ,outwit,hoax
+
+kidnap: abduct
+
+kill: slay,slaughter,murder,assassinate,butcher,despatch,execute,lynch,massacre,burke,immolate,guillotine,decimate,destroy,blast;counteract,neutralize;quell,extinguish
+
+kindle: enkindle,fire,ignite,incite,inflame,rouse
+
+kink: snarl,
+
+kiss: osculate
+
+knock: rap;clash,bump;strike,beat
+
+knot: entangle,tie,snarl
+
+labor: toil,work,drudge,slave,moil,travail
+
+lacerate: tear,rend,mangle,laniate,harrow,wound,harry,distress
+
+lack: need,want,,require,sedulous
+
+lacerate: tear,rend,mangle,laniate,harrow,wound,harry,distress
+
+lack: need,want,,require
+
+lag: ,loiter,linger,delay,saunter
+
+lambaste: ,maul,belabor,beat,strike
+
+lame: disable,maim,cripple,hamstring
+
+lament: bemoan,weep,wail,deplore,grieve,bewail,mourn
+
+lampoon: libel,defame,satirize
+
+land: disembark,debark;capture
+
+lash: scourge,castigate,flagellate;satirize,scold,rate
+
+last: continue,endure,remain
+
+laud: extol,praise
+
+laugh: cachinnate,roar,giggle,snicker,titter,chuckle,grin,twitter,cackle,chortle,hawhaw
+
+laud: extol,praise
+
+laugh: cachinnate,roar,giggle,snicker,titter,chuckle,grin,twitter,cackle,chortle,hawhaw
+
+launch: ;,start;throw,hurl;expatiate,descant
+
+lay: deposit,place;impose,assess;impute,charge,ascribe,attribute;submit,present,offer;superimpose
+
+leach: lixiviate
+
+lead: guide,conduct,escort,direct;precede;induce,entice,influence,allure,persuade,actuate,impel;conduce,contribute,tend;;,command,head
+
+league: combine,confederate
+
+leak: percolate,filter,ooze
+
+lean: incline,slope,recline,tend;rely,depend;careen
+
+leap: spring,jump,vault,bound,caper,gambol,prance,cavort,curvet
+
+learn: master,
+
+lease: let,demise,rent
+
+leave: ,vacate,;abandon,forsake,desert;,forego,,forbear;permit,allow,let;commit,,intrust,consign,deliver;will,bequeath,devise;depart,,start,go
+
+lecture: discourse,address;reprove,censure,rate,upbraid,scold
+
+legalize: legitimize
+
+lend: loan
+
+lengthen: extend,elongate,stretch,prolong,protract;expatiate,amplify
+
+lessen: reduce,diminish,minify,depreciate,minimize,decrease,mitigate,abate
+
+let: allow,permit,suffer;lease,rent
+
+level: flatten,equalize,even,smooth,reduce;raze,reduce,overthrow,demolish;adapt,adjust
+
+libel: ,lampoon
+
+license: legalize,permit
+
+lick: lap;
+
+lie: recline
+
+lift: raise,elevate
+
+light: ignite,illumine,illuminate
+
+light: dismount,alight,descend;rest,perch,settle
+
+lighten: light,illuminate,illume;ease,relieve,alleviate
+
+like: fancy,;prefer,choose,wish
+
+liken: compare
+
+limit: restrict,circumscribe,define,confine
+
+linger: loiter,saunter,tarry,lag
+
+link: join,unite,connect,couple,concatenate
+
+listen: hearken;eavesdrop;auscultate
+
+live: exist;dwell,reside,abide
+
+load: encumber,lade,burden,freight
+
+loaf: ,loiter
+
+loathe: abhor,hate,detest,abominate,despise,execrate,
+
+loiter: saunter,linger
+
+long: ,,crave
+
+look: glance,gaze,stare,see,con,gloat,glare,peek,peer,pry,peep,pore,lower,glower,scan,ogle;seem,appear;await,expect,anticipate;examine,investigate,inspect,contemplate,scrutinize
+
+loose: release,disengage,free,disentangle,liberate;absolve,remit;relax,loosen,slacken
+
+loosen: relax
+
+loot: plunder,sack,rifle,pillage
+
+lop: ,obtruncate
+
+lord: domineer
+
+lose: miss,forfeit
+
+lounge: recline,loll
+
+low: moo
+
+lower: drop;depress,reduce;decrease,diminish,fall,humble,humiliate,degrade,abash,detrude,dishonor;frown,scowl,glower,
+
+lug: drag,pull,tug,haul
+
+lull: hush,still,quiet,tranquillize;subside,abate
+
+lunge: allonge,longe,thrust
+
+lurch: sway,stagger,roll;dodge,shift,evade,bilk
+
+lure: entice,tempt,seduce,allure,decoy
+
+luxuriate: revel,wanton
+
+madden: incense,anger,enrage,infuriate,provoke,exasperate,vex,inflame
+
+magnify: augment,amplify,enlarge;overstate,exaggerate
+
+mail: post
+
+maintain: support,sustain;affirm,assert,contend,claim;conduct
+
+make: force,compel,coerce,constrain,require,necessitate,occasion,oblige;create,construct,,compose,invent,prepare,concoct,shape,form,forge
+
+manacle: handcuff,shackle,restrain,fetter
+
+manage: conduct,administer,supervise,manipulate,superintend,engineer;contrive,husband,economize
+
+maneuver: scheme,finesse,plan
+
+mangle: mutilate,maim,dismember,hack;smooth,calender
+
+manifest: show,exhibit,reveal,disclose
+
+manipulate: handle,operate,manage
+
+mantle: sparkle,foam,bubble,effervesce
+
+manufacture: make,fabricate,construct
+
+manure: fertilize,enrich
+
+map: sketch,plan,delineate,picture
+
+mar: deface,damage,injure,impair
+
+mark: note,notice,remark,observe,see;indicate,betoken,characterize,stamp,imprint,impress,brand,stigmatize,label
+
+marry: wed,espouse
+
+marshal: arrange,range
+
+marvel: wonder
+
+mask: disguise,masquerade,veil
+
+mass: amass,assemble,accumulate,agglomerate,conglomerate
+
+massacre: butcher,slaughter
+
+master: conquer,overpower,subject,subjugate,overcome,subdue,vanquish
+
+mat: ,entangle,twist,interweave,snarl
+
+match: rival,equal,;contend,pit,oppose;tally,correspond,;adapt,fit,proportion,comport,harmonize;mate,couple,combine,sort,join
+
+mate: oppose,,,;match,marry
+
+matter: import,signify,;maturate,suppurate
+
+maturate: suppurate;mature
+
+mature: ripen,develop,perfect,season
+
+maul: pound,pommel,beat,club,cudgel
+
+maze: perplex,bewilder,confuse,puzzle
+
+mean: intend,purpose,design,contemplate;signify,purport,denote,betoken,imply,typify,indicate
+
+meander: wind,turn
+
+measure: gauge,mete;appraise,estimate,compute,adjust;allot,,apportion,distribute
+
+meddle: interfere,interpose,intermeddle,obtrude
+
+meditate: contemplate,muse,ponder,cogitate,reflect,think
+
+meet: encounter,confront,collide,converge,engage;intercept;assemble,congregate,convene,collect,muster;agree,harmonize,unite;equal,satisfy,fulfill,match
+
+melt: dissolve,liquefy,thaw,fuse,soften,blend,swale,colliquate
+
+menace: threaten
+
+mend: repair,patch;improve
+
+merge: ,absorb,immerse,;,
+
+merit: deserve,earn
+
+mew: moult
+
+miff: displease,vex,
+
+mimic: personate,ape,imitate,mock
+
+mince: hash
+
+mind: obey,regard;consider,heed,mark,note;purpose,intend,design
+
+mingle: blend,mix,intermix,amalgamate,intermingle,incorporate;consort,associate,fraternize
+
+minister: administer,serve;officiate
+
+mint: coin
+
+mirror: reflect
+
+misapply: misemploy,pervert,misuse
+
+misemploy: pervert,misuse,misapply,prostitute
+
+misgovern: misrule
+
+misinterpret: misconstrue
+
+misrepresent: falsify,distort
+
+miss: fail,miscarry,skip,omit,overlook
+
+misstate: falsify,distort,misrepresent
+
+mist: mizzle,drizzle;obscure,dim,befog
+
+mistranslate: misrender,misconstrue,misinterpret
+
+mistreat: misuse,abuse,maltreat
+
+mistrust: doubt,question,suspect,distrust,apprehend
+
+misunderstand: misconceive,miscomprehend,misapprehend
+
+misuse: misapply,prostitute,pervert,profane;maltreat,abuse
+
+mitigate: meliorate,alleviate,assuage,temper
+
+mix: mingle,blend,combine,concoct,incorporate,amalgamate,commingle,impregnate,commix,compound,intermix,intersperse,interlard;associate,consort,fraternize
+
+mock: mimic,flout,taunt,imitate,gibe,ridicule,jeer,schout;balk,disappoint,delude,tantalize,elude;defy,disregard;ape,mimic,personate
+
+model: fashion,mould,shape
+
+moderate: temper,appease,diminish,mitigate,reduce
+
+modify: limit,qualify,adjust
+
+modulate: inflect;harmonize,attune,adjust,adapt
+
+moisten: dampen,damp,wet
+
+molest: disturb,trouble,annoy
+
+mollify: appease,pacify,tranquilize
+
+monopolize: engross,forestall
+
+mortify: gangrene;chagrin,embarrass,abase;repress,deny,restrain
+
+mould: form,shape,model,cast;knead
+
+moult: mew,exuviate
+
+mount: ascend;bestride
+
+mourn: deplore,lament,regret,grieve,repine,sorrow,bemoan,bewail
+
+move: transfer;migrate,immigrate,emigrate,remove;impel,propel,actuate,influence;budge,stir
+
+mow: reap
+
+muddle: confuse,fuddle,bewilder
+
+muffle: wrap,envelop;deaden,subdue
+
+mull: ruminate,ponder,cogitate
+
+mumble: mutter,maunder,mump
+
+munch: craunch
+
+murmur: grumble,complain,repine
+
+muse: contemplate,ruminate,brood,ponder,mull,reflect
+
+muster: assemble,marshal
+
+mutilate: maim,dismember,mangle
+
+mutter: maunder
+
+muzzle: restrain,repress
+
+mystify: bewilder,perplex,obfuscate,befog,nonplus
+
+name: entitle,denominate,style,call,christen,dub,term;designate,specify,nominate
+
+narrate: recount,recite,,relate
+
+narrow: contract,reduce,constrict,restrict,limit,cramp,confine
+
+naturalize: familiarize,accustom,habituate,acclimatize,adapt,acclimate
+
+nauseate: sicken,disgust,revolt;,abhor,abominate
+
+navigate: sail,cruise;guide,steer,direct;circumnavigate
+
+need: require,lack,want
+
+neglect: disregard,slight,overlook,ignore,omit
+
+nerve: brace,strengthen,fortify,invigorate,energize
+
+nestle: cuddle,snuggle
+
+nettle: irritate,provoke,exasperate,ruffle,incense,annoy
+
+neutralize: counteract,counterbalance,invalidate
+
+nick: notch,mar,deface,indent
+
+nip: pinch;clip,;blast,kill;chill,deaden,benumb
+
+nonplus: perplex,puzzle,disconcert,confuse,embarrass,mystify,bewilder
+
+notch: nick,score,indent,crenellate
+
+note: ;record,;annotate,comment,postillate
+
+notice: see,observe,note,heed,recognize,perceive,mark,,
+
+notify: inform,acquaint,tell,apprise,
+
+nourish: feed,nurture;support;encourage,foster,cherish,promote
+
+nullify: invalidate,abrogate,cancel,repeal,countermand
+
+numb: benumb,deaden
+
+number: enumerate;,count,numerate
+
+nurse: suckle;nourish,cherish,foster,succor,foment,encourage;attend,tend;,raise,nurture,rear
+
+nurture: feed,nourish,nurse;educate,train,school
+
+obey: comply,,heed,regard,
+
+object: disapprove,oppose,demur,contravene,gainsay,except,cavil
+
+oblige: constrain,obligate;please,gratify,accommodate,coerce,compel,necessitate,force
+
+obliterate: efface,erase,,remove,destroy,expunge
+
+obscure: darken,obfuscate,bedim,eclipse;involve,dissemble,disguise,confuse
+
+obstruct: impede,oppose,retard,barricade,blockade,clog,interrupt,bar,restrain
+
+obtain: gain,get,procure,acquire,win,attain,secure
+
+occupy: hold,keep,possess,fill;engage,absorb,employ,busy,monopolize
+
+offend: displease,affront,provoke,mortify,exasperate,incense,wound,shock
+
+offer: tender,proffer,propose,propound,volunteer,bid;immolate,sacrifice
+
+oil: lubricate
+
+omit: ,slap,pretermit,disregard,neglect,overlook,ignore,delete
+
+ooze: filter,exude,percolate,transude,seep
+
+open: spread,expand,unfold,evolve;reveal,disclose;unclose,unlock,unfasten;begin,commence;dehisce
+
+oppose: combat,resist,confront,withstand,oppugn,impugn,contend,antagonize,contravene,discountenance,gainsay,contradict
+
+oppress: burden,overwhelm,aggrieve,tyrannize,persecute,overpower
+
+order: methodize,systematize,regulate;bid,command,dictate,enjoin
+
+organize: arrange,systematize,form
+
+ornament: decorate,embellish,garnish,bedeck,grace,beautify
+
+oscillate: fluctuate,vacillate
+
+oust: eject,evict,dispossess,dislodge,remove,displace,expel,depose
+
+outdo: excel,surpass,outvie,outstrip,exceed
+
+outgeneral: outmaneuver,circumvent
+
+outlast: outwear,survive
+
+outlive: survive
+
+outweigh: overweigh,overbalance,preponderate
+
+outwit: circumvent,outgeneral,defeat
+
+overawe: intimidate,daunt
+
+overcome: surmount,conquer,subdue,master,vanquish,overpower,subjugate
+
+overdo: overwork,overtask,overtax,exhaust;exaggerate
+
+overeat: gorge,glut,satiate
+
+overfeed: surfeit,stuff,satiate,gorge,pamper
+
+overfill: surcharge
+
+overflow: inundate,deluge,engulf
+
+overlook: supervise,oversee;inspect,overhaul,examine,neglect,disregard,skip,slight,ignore;condone,,forgive
+
+overpower: vanquish,subdue,conquer,overcome,defeat,crush,overwhelm,rout,master,subjugate,overmatch
+
+overrate: overvalue,overestimate,overprize
+
+overreach: outwit,dupe,swindle
+
+override: ,supersede,annul,abrogate
+
+overrule: annul,rescind,abrogate,revoke,supersede,
+
+overrun: infringe,invade
+
+oversee: superintend,supervise
+
+overstate: exaggerate
+
+overstep: exceed,trespass,infringe,intrench,encroach
+
+overthrow: upset,overturn;demolish,prostrate,subvert,defeat,vanquish,rout,overpower,overcome,subjugate,raze,worst
+
+overtop: transcend,surpass,dwarf,overshadow
+
+overvalue: overrate,overestimate,overprize
+
+overwhelm: overflow,submerge,ingulf,drown,overpower,crush
+
+own: admit,acknowledge,confess,allow,concede,grant;possess
+
+pacify: appease,quiet,calm,mollify,propitiate,tranquilize
+
+pack: compress,stow,truss;load,encumber
+
+pain: hurt,torture,rack;distress,grieve,afflict,aggrieve
+
+paint: delineate,portray,lim,depict,picture,sketch
+
+pall: cloy,sate,satiate,surfeit,glut
+
+palliate: excuse,,,extenuate;moderate,mitigate,temper
+
+pamper: overfeed,;indulge,gratify,spoil,cocker
+
+pant: gasp;long,hunger,yearn,thirst
+
+paralyze: benumb,deaden,stun,unnerve
+
+parch: torrefy
+
+pardon: absolve,remit,forgive,condone
+
+pare: peel
+
+parry: ,avert,prevent;avoid,evade,elude
+
+part: divide,sever,disunite,dissever,sunder,dissociate,disconnect,detach,separate;intervene;apportion,share,,allot,distribute
+
+partake: share,
+
+pass: elapse,lapse;transmit,deliver,hand;go,move,proceed,advance;disappear,vanish,recede,depart;,omit,pretermit;overstep,overpass;transude
+
+pattern: model,copy,imitate,follow
+
+pauperize: impoverish
+
+pause: stop,hesitate,desist,waver,intermit
+
+pawn: pledge,impawn
+
+pay: compensate,remunerate,recompense,requite,indemnify,reward,commute;retaliate,punish;liquidate,defray,settle,discharge;;
+
+peal: resound,reverberate,echo,boom
+
+peddle: hawk,vend
+
+peek: peep
+
+peep: chirp,cheep,pule;peer,peek,pry
+
+pelt: batter,beat,assail,pepper
+
+pen: confine,coop,encage,corral
+
+penetrate: pierce,perforate;comprehend,understand;explore;interpenetrate
+
+people: populate,colonize
+
+perceive: see,discern,observe;apprehend,comprehend,understand
+
+percolate: ooze,strain,filter,transude
+
+perfect: consummate,elaborate,retouch,develop
+
+perforate: ,pierce,penetrate,drill
+
+perform: accomplish,execute,do
+
+permit: allow,,suffer,tolerate,let,authorize,indulge,license,empower
+
+perplex: bewilder,puzzle,pose,confuse,mystify,distract,disconcert,entangle
+
+persecute: harass,oppress,tyrannize,torment,dragoon,importune,annoy,hector,badger
+
+persevere: persist,continue
+
+persist: persevere
+
+personate: impersonate
+
+perspire: sweat
+
+persuade: induce
+
+pertain: appertain
+
+perturb: disquiet,excite,disturb,agitate,discompose,distress
+
+peruse: read
+
+pervert: ,corrupt,debase,vitiate;misuse,misapply,misinterpret,distort,falsify
+
+pester: plague,badger,harass,harry,tease,torment,hector,disturb,molest
+
+pet: humor,coddle,fondle,cosset,caress,indulge
+
+petition: entreat,supplicate,pray
+
+petrify: lapidify,fossilize
+
+physic: purge
+
+pick: pluck;,select,choose,cull,glean
+
+picture: delineate,sketch,draw,represent,depict
+
+piddle: trifle
+
+piece: patch,repair;augment
+
+pierce: transfix,stab,impale,gore;penetrate,bore,perforate,drill
+
+pile: heap,stack,accumulate
+
+pilfer: filch,purloin
+
+pillage: sack,plunder,despoil,devastate,foray
+
+pilot: guide,steer,direct
+
+pinch: squeeze,compress,twinge,tweak,gripe,nip;cramp,straiten,oppress;skrimp
+
+pine: droop,languish,waste;yearn,
+
+pink: scallop
+
+pique: displease,offend
+
+pitch: cast,hurl,toss,throw,fling,heave,chuck;plunge;decline,slope,slant
+
+pity: ,,commiserate
+
+place: deposit,locate,dispose,put,set,station,establish,attribute,impute,ascribe,assign;identify
+
+plague: hector,tantalize,tease,badger,pester,twit,nag,torment,harass,harry
+
+plait: braid,plat,flute
+
+plan: scheme,project,intend,devise,contrive,design,purpose
+
+plant: sow;settle,establish
+
+plat: braid,plait
+
+play: frolic,sport,gambol,disport,frisk,skip,caper,romp,revel;wanton,dally,toy,twiddle;impersonate,personate,act;perform,execute;strum,thrum;gamble;simulate,pretend,feign,dissemble
+
+plead: reason,argue;apologize;defend,advocate,intercede
+
+please: rejoice,gladden,delight,gratify,cheer,elate;satisfy,content;like,choose,prefer
+
+pledge: pawn,impawn,hypothecate,plight
+
+plight: pawn,pledge;promise,betroth
+
+plod: trudge,tramp
+
+plot: conspire,intrigue,cabal,complot,machinate,scheme
+
+pluck: pull,draw;pick,gather
+
+plume: preen,prink;pride,vaunt,boast,glory
+
+plunder: pillage,loot,rob
+
+plunge: souse,immerse,submerge,dip,douse;dive,pitch
+
+point: aim,level,direct;show,indicate,designate;punctuate;taper
+
+poise: balance,librate
+
+poke: ,excite;punch,thrust;gore,hook;grope
+
+polish: burnish,furbish
+
+pollute: defile,contaminate,corrupt,infect,debase,vitiate,desecrate,befoul
+
+pommel: beat,pound,maul,belabor,cudgel,thwack,club
+
+ponder: meditate,reflect,ruminate,think,muse
+
+portend: foretoken,bode,presage,foreshadow,augur
+
+portray: delineate,depict,picture,draw,sketch,paint,describe
+
+possess: own;have,hold,occupy;seize,take,appropriate
+
+post: placard,announce;mail
+
+postpone: defer,delay,,procrastinate,adjourn,prorogue
+
+potter: trifle,pother
+
+pound: beat;comminute,pulverize,bray,triturate;maul,belabor;impound
+
+pour: decant
+
+powder: pulverize,triturate,comminute,levigate
+
+practice: exercise,apply,do,train,drill,rehearse
+
+praise: laud,extol,commend,eulogize,panegyrize,applaud;magnify,glorify
+
+prance: cavort
+
+practice: exercise,apply,do,train,drill,rehearse
+
+praise: laud,extol,commend,eulogize,panegyrize,applaud;magnify,glorify
+
+prance: cavort
+
+prate: babble,gabble,clatter,chatter,prattle
+
+pray: invoke,supplicate,entreat,implore,beg,petition,intercede
+
+preach: exhort
+
+predict: prophesy,foretell,prognosticate,forebode,portend,augur,presage,vaticinate
+
+preserve: conserve
+
+press: squeeze,crowd,compress;urge,crowd;express;embrace,hug,clasp;oppress,enjoin,constrain
+
+pretend: claim;simulate,feign,affect
+
+prevent: thwart,hinder,obstruct,preclude,obviate,forestall,intercept,avert,parry,deter,frustrate
+
+prick: puncture,pierce,perforate;goad,spur,incite;sting,wound,hurt
+
+prize: value,esteem
+
+probe: investigate,examine
+
+procure: get,obtain,acquire
+
+profane: violate,desecrate;debase,prostitute,defile
+
+profess: acknowledge,avow,admit;claim,pretend
+
+promise: pledge,covenant,assure,plight
+
+promote: advance,forward;exalt,elevate,raise,aggrandize;brevet
+
+prop: buttress,brace,stay,support,sustain,
+
+prophesy: prognosticate,foretell,divine,augur,predict,vaticinate
+
+protect: shield,defend,guard,fortify,screen,shelter,befriend
+
+prove: verify,corroborate,substantiate,demonstrate
+
+provide: supply,furnish;stipulate,covenant,agree;cater,purvey
+
+provoke: incite,stimulate,instigate,rouse;exasperate,displease,aggravate,offend
+
+publish: promulgate,proclaim,circulate,blazon,announce
+
+pucker: crease,corrugate,cockle,purse,wrinkle
+
+puke: vomit
+
+pull: draw,tug,haul,tow,drag;pluck,jerk,twitch
+
+pulverize: triturate,comminute,levigate,bray
+
+pump: interrogate,question,quiz
+
+punch: push,poke;pierce,bore,perforate,puncture
+
+puncture: prick,perforate,pierce
+
+punish: chastise,castigate,chasten,discipline
+
+purchase: buy
+
+purify: cleanse,refine,expurgate,sublime,clarify
+
+purpose: intend,design,contemplate
+
+push: shove,impel
+
+putter: potter,pother,trifle,fribble,dally,dawdle
+
+puzzle: mystify,pose,nonplus,perplex,bewilder,confuse
+
+quail: tremble,cower,flinch,quake,blench,falter
+
+quake: quiver,tremble,shake,shudder,vibrate
+
+qualify: modify,limit,restrict,condition;fit,prepare,equip;modulate,vary,temper;diminish,moderate,mitigate,assuage,alleviate
+
+quarrel: wrangle,altercate,dispute,contend,squabble,bicker,spar,jangle;disagree,clash,dissent,differ
+
+quash: crush,subdue,extinguish,quell,suppress;annul,overrule
+
+queer: ,banter,rally;spoil,discourage
+
+quell: subdue,suppress,crush,quash
+
+quench: slake;extinguish,stifle,suppress
+
+question: interrogate,quiz,catechise,examine,,pump,heckle;doubt,query,challenge;interpellate
+
+quibble: prevaricate,equivocate,cavil,trifle
+
+quicken: revive,vivify,vitalize,resuscitate,animate;excite,stimulate,incite,actuate;accelerate,expedite,hasten,advance,facilitate,further
+
+quiet: still,hush,lull,appease,allay,compose,tranquilize,pacify,becalm;assuage,alleviate,mollify,moderate,relieve
+
+quip: gibe,taunt
+
+quit: cease,stop,desist,discontinue,forbear,;abandon,leave,forsake,evacuate,surrender,resign;absolve,acquit
+
+quiver: tremble,shake,shudder,quake
+
+quiz: puzzle,banter,chaff;question
+
+quote: cite,repeat,paraphrase,excerpt
+
+rack: stretch,strain,torture,agonize;harass,persecute,torment
+
+radiate: shine,beam,gleam;diverge
+
+rage: storm,fume,rave
+
+rail: upbraid,reproach,censure,scoff
+
+raise: uplift,lift;hoist,heave;erect,build,rear;elevate,advance,exalt;enhance,augment;excite,arouse;propagate,grow,cultivate;rear;levy,collect
+
+rally: collect,reunite;recover,recuperate;assemble;banter,satirize,joke
+
+ram: cram,stuff,compress
+
+ramble: rove,range,stroll,stray,straggle,roam,wander
+
+ramp: spring,leap,bound,romp
+
+range: arrange,rank,class,classify;rove,roam,ramble;correspond
+
+rank: classify,arrange,dispose,class,group,
+
+ransack: rummage
+
+ransom: redeem,rescue,liberate,deliver
+
+rant: declaim,spout,rave,vociferate
+
+rap: knock
+
+rape: ravish,constuprate,violate,deflower
+
+rasp: grate,file;offend
+
+rate: estimate,value,appraise;assess;scold,censure,chide,berate,reprove
+
+ratify: confirm,sanction,substantiate,corroborate
+
+rattle: clatter;chatter,prate,babble,prattle;disconcert,confuse,discompose
+
+ravage: plunder,pillage,devastate,sack,desolate,despoil
+
+rave: rage,rant,storm
+
+ravel: unravel
+
+ravish: transport,enrapture,enchant;rape
+
+raze: erase,efface,rase;overthrow,subvert,demolish
+
+reach: attain
+
+react: repeat;resist,oppose;rebound,recoil
+
+read: peruse
+
+realize: effectuate
+
+rear: raise,lift,elevate;erect,build;
+
+reason: ratiocinate,syllogize;argue,remonstrate,expostulate
+
+rebel: revolt,mutiny
+
+rebound: recoil,ricochet;reverberate,reecho
+
+rebuff: repulse,resist,repel,oppose
+
+rebuke: reprove,upbraid,censure,reprehend,chide,admonish
+
+recall: revoke,annul,retract,recant,rescind,repeal,abjure;remember,recollect
+
+recant: retract,abjure
+
+recapitulate: summarize
+
+receive: take,accept;admit,allow;welcome;hold,contain
+
+recite: relate,recount,repeat,deliver;cantillate
+
+reckon: compute,calculate,count,enumerate;esteem,regard
+
+reclaim: tame,domesticate;reform
+
+recoil: rebound,react;flinch,shrink,quail
+
+recollect: remember
+
+recommend: commend,praise
+
+reconcile: conciliate,propitiate,pacify;harmonize,adjust,settle
+
+recover: regain,reclaim,retrieve,repair,recoup,recruit,rally,repossess,recuperate
+
+rectify: correct,amend
+
+redeem: repurchase;regain,recover;ransom,rescue,deliver
+
+redound: contribute,conduce,react
+
+reduce: diminish,lower,degrade,minimize,depress,debase;humble,conquer,subdue,vanquish,subjugate,subject
+
+reel: stagger
+
+refer: allude
+
+refine: purify,defecate,clarify,sublimate,subtilize,sublime,devulgarize,decrassify
+
+reflect: mirror;rebound,revert;meditate,ruminate,consider,contemplate
+
+reforestize: reafforest,reboise
+
+reform: reclaim,regenerate,convert,amend
+
+refrain: restrain,curb,check;forbear,abstain,desist
+
+refresh: revive,enliven,reanimate;renovate,renew,restore
+
+refund: repay,return,restore
+
+refuse: deny,decline;reject,rebuff,repulse
+
+refute: confute,disprove
+
+regain: recover,retrieve
+
+regale: feast,entertain,gratify
+
+regard: heed,observe,consider
+
+register: record,enroll,matriculate
+
+regret: deplore,,rue,deprecate
+
+reject: ,discard;refuse,decline,rebuff,repulse,contemn,repudiate
+
+rejoice: glory,exult;gladden,cheer,delight,please,exhilarate
+
+relate: recount,narrate,tell
+
+relax: loosen,slacken;abate,diminish,mitigate,temper
+
+release: liberate,loose,discharge,free,acquit,extricate,disengage,relinquish,absolve,remit,relieve,exonerate,disencumber
+
+relieve: assuage,alleviate,allay,lessen,remedy,ease,mitigate,palliate,succor,extricate,disentangle,disburden,redress,disengage
+
+relinquish: surrender,waive,forego,renounce,cede,abandon,desert
+
+remand: recommit,
+
+remark: notice,observe,heed,see,note;say,state,assert
+
+remedy: heal,cure,repair,relieve,redress,alleviate,assuage,palliate
+
+remember: recollect,recall
+
+remonstrate: expostulate,protest
+
+remove: move,displace,transfer,dislodge;dismiss,discharge,divest,dispossess,eject;extract,isolate,abstract,withdraw
+
+rend: tear,rive,lacerate,cleave,sunder
+
+render: repay,restore;translate,interpret,construe;extract,;,contribute
+
+renew: renovate,rejuvenate,restore,rebuild,remodel,reconstruct,revamp,redintegrate,repair;regenerate,transform
+
+renounce: disclaim,disown,repudiate,reject;forswear,abjure,forsake
+
+rent: lease,let,hire
+
+repair: mend,restore,patch,tinker,revamp,darn,cobble,remodel;indemnify,redress,,retrieve,regain
+
+repay: refund,restore,reimburse;recompense,requite;revenge,avenge,retaliate
+
+repeal: revoke,rescind,abrogate
+
+repeat: iterate,reiterate,verbigerate
+
+repel: repulse,rebuff,resist,oppose
+
+repine: complain,murmur
+
+replace: restore,refund,repay
+
+reply: answer,respond,rejoin,retort
+
+report: announce,communicate,describe;bruit,circulate,promulgate,publish
+
+represent: show,typify,symbolize;personate,impersonate;portray,delineate,depict
+
+repress: quell,subdue,suppress,overpower,restrain,curb,stifle
+
+reproach: censure,upbraid,rebuke,reprimand,revile,chide,vilify
+
+reprobate: condemn,denounce,reject,abandon
+
+reproduce: portray,duplicate,imitate;generate,beget,propagate
+
+repudiate: reject,renounce,disavow,abjure,disclaim
+
+repulse: repel,reject
+
+request: ask,supplicate,petition,beg,entreat,importune,beseech
+
+require: demand,claim,exact,need,want,necessitate,enjoin
+
+requite: compensate,remunerate,repay,pay,retaliate,avenge,reciprocate
+
+rescue: release,deliver,liberate,recapture,redeem,save,extricate,disenthrall
+
+resign: demit,abdicate,withdraw,surrender,relinquish,submit
+
+resist: oppose,withstand,impugn,oppugn,defy,baffle,contravene,rebuff
+
+resolve: determine;dissolve,liquefy
+
+resound: reverberate,reecho,peal
+
+respect: esteem,venerate,revere,honor,reverence
+
+rest: stop,halt,pause,desist;repose,recline,lie;trust,rely,depend,acquiesce
+
+restore: repair,renew,reconstruct,rehabilitate,redintegrate,remodel;replace,refund,return;repatriate;resuscitate,reestablish,revive
+
+restrain: repress,suppress,check,bridle,curb,constrain;abridge,circumscribe,limit,restrict,narrow;withhold,forbear;debar,prevent,interdict,prohibit
+
+restrict: restrain,limit,confine,repress,curb,circumscribe
+
+result: terminate,end,eventuate,redound,issue,accrue,ensue
+
+resurrect: ,disinter,unbury,exhume
+
+retain: keep,hold,reserve
+
+retaliate: avenge,requite,repay
+
+retard: impede
+
+retire: withdraw,retreat,recede,retrocede,leave,secede
+
+retract: recant,rescind,recall,disavow
+
+retreat: retire,withdraw,recede
+
+retrench: curtail,lessen,diminish,abridge;limit,confine
+
+retrograde: retrocede,recede,decline,deteriorate
+
+return: restore,repay,refund,replace;recur,regress,reappear,revert;requite,retaliate,repay;repatriate
+
+reveal: disclose,unveil,expose,divulge,impart
+
+revel: carouse;luxuriate,wanton
+
+revenge: avenge,retaliate,
+
+reverberate: resound,reecho
+
+revere: venerate,reverence,honor,respect
+
+reverence: revere,venerate
+
+reverse: invert;overthrow,subvert,overturn;revoke,annul,rescind,countermand
+
+review: reconsider,revise,reexamine,retrace
+
+revile: vilify,traduce,asperse,reproach,malign,calumniate
+
+revive: resuscitate,reanimate,quicken,revivify,reinspirit,revitalize,restore,reinspire,rally
+
+revoke: repeal,reverse,recant,rescind,abrogate,countermand,retract,abjure
+
+revolt: rebel,mutiny;disgust,nauseate,shock,offend
+
+revolve: rotate,spin,gyrate,turn;devolve;,ruminate,ponder,consider
+
+reward: requite,recompense
+
+rid: free,disburden,relieve,disencumber,dispose,dispatch
+
+ridicule: deride,satirize,scoff,rally,banter,burlesque,lampoon,mock,scout,jeer,taunt,twit
+
+rifle: strip,fleece,despoil,pillage,devastate
+
+rig: equip;bedizen,accouter
+
+right: correct,rectify,emend;,redress
+
+ring: sound,resound,reverberate;toll,knell,chime,ding,tinkle,clang
+
+ripen: mature,maturate
+
+ripple: fret
+
+rise: ascend,mount,arise,levitate;tower;swell,increase,grow,enlarge;emerge;proceed,spring,emanate,originate;rebel,revolt;
+
+risk: hazard,endanger,peril,imperil,jeopard,jeopardize
+
+rival: compete,emulate
+
+roam: ramble,stray,rove,range,wander
+
+roar: bellow;boom,peal,resound,thunder
+
+roast: bake;torrefy,parch;
+
+rob: plunder,pillage,fleece,despoil,rifle,sack,spoliate,loot,forage
+
+roil: ,rile
+
+roll: wheel,whirl,revolve,rotate,turn,gyrate,spin,trundle,circumgyrate;inwrap,infold,convolve;wallow,welter;rock,sway,lurch,titubate,fluctuate
+
+rotate: revolve,turn,gyrate,whirl
+
+rout: vanquish,defeat,scatter
+
+rove: range,ramble,straggle
+
+rub: abrade,chafe,scrape,grate,fret;embrocate;massage;graze,scour,smooth,smear,fray;burnish,furbish,polish
+
+rue: regret,deplore
+
+ruffle: pucker,pleat,wrinkle;rumple,derange,disarrange,disorder;agitate,discompose,perturb,disconcert;swagger,strut
+
+ruin: overthrow,subvert,destroy,wreck,ruinate,impoverish
+
+rule: govern,dominate;restrain,influence,sway,prevail,dominate,preponderate,domineer
+
+ruminate: meditate,muse,ponder,reflect
+
+rummage: ransack
+
+rumple: crumple,wrinkle,pucker,crease
+
+run: sprint,lope,scamper,scud,speed,his,hasten,scour,scuttle,flee,race,pace,gallop,trot;proceed,flow;melt,fuse;elapse,pass;pursue,follow,tag;stampede;abscond
+
+ruralize: rusticate
+
+rush: press,hurry
+
+rust: corrode;,decline
+
+rusticate: ruralize
+
+sack: devastate,plunder,pillage,ravage,despoil,loot,rapine,strip
+
+sacrifice: offer,immolate;surrender,,forego
+
+sadden: depress,dishearten;,subdue
+
+safeguard: guard,defend,protect,shield
+
+sail: navigate,cruise,embark
+
+salute: address,greet,hail,welcome,accost
+
+salve: anoint,embrocate,heal;remedy,cure
+
+sanction: confirm,ratify,approve,countenance
+
+sap: mine,undermine,subvert;exhaust,drain,unsettle
+
+satiate: surfeit,pall,glut,overfeed,cloy,gorge
+
+satirize: lampoon,ridicule,lash
+
+satisfy: gratify,content,appease,satiate,suffice;indemnify,repay
+
+saunter: loiter,linger,straggle,lounge,stroll,delay,dawdle,lag
+
+save: rescue,deliver,redeem;preserve,conserve,keep;reserve,hoard,garner;economize,husband;spare,obviate,prevent,forefend,shield,protect
+
+savvy: ,comprehend
+
+say: utter,express,mention,pronounce,speak,declare,tell,articulate,recite,rehearse;state,assert,affirm,allege,aver,asseverate,predicate,cite;suppose,assume,presume
+
+scale: exfoliate,desquamate;climb,ascend,mount,clamber,escalade
+
+scamble: sprawl,wabble,shamble;scramble,jostle
+
+scamper: ,scud,hie,run,scuttle,scatter
+
+scandalize: shock,offend,displease;disgrace;slander,defame,vilify
+
+scant: limit,straiten,stint
+
+scare: frighten,intimidate,terrify,daunt,cow,appall,startle,affright,alarm,browbeat,dismay,terrorize,overawe
+
+scatter: dissipate,disperse,dispel,separate;intersperse
+
+scheme: devise,excogitate,plan,machinate,plot,design
+
+school: train,educate,drill,teach
+
+scoff: deride,ridicule,mock,sneer,gibe,jeer,contemn
+
+scold: chide,berate,censure,reprimand,blame,reprove,brawl,lecture,reprehend,vituperate,rate,rebuke,
+
+scorch: singe,char,torrefy,burn,parch
+
+score: notch,scratch,cut;record,enter
+
+scorn: despise,reject,contemn,disregard,scout,spurn
+
+scout: disdain,flout,contemn,scorn,spurn,scoff,ridicule
+
+scowl: glower,frown,lower
+
+scramble: scrabble,clamber;struggle,contend,strive
+
+scrape: abrade,rasp,grate,rub;gather,collect;erase,remove
+
+scratch: scrape;scribble;erase,expunge;scarify
+
+screen: shield,defend,protect,cover,conceal,cloak,hide;sift,riddle
+
+screw: twist,wrench,force,squeeze;oppress,rack;distort
+
+scrimp: limit,straiten,scant,stint
+
+scurry: hurry,scamper,scuddle,scuttle
+
+scuttle: scuddle,hurry,bustle,run
+
+seal: ratify,authenticate,confirm,attest
+
+sear: cauterize,scorch
+
+search: examine,explore,hunt,seek,overhaul;rummage,ransack,ferret;scrutinize,probe,sift
+
+season: habituate,inure,harden,accustom,acclimatize,acclimate;dry,mature;flavor,spice
+
+seat: usher
+
+secrete: bury,hide,conceal,shroud,disguise,cloak
+
+secure: gain,procure,obtain,get,acquire;fasten,moor;guarantee,ensure,insure,assure,indemnify;defend,guard,shield,protect
+
+seduce: entice,tempt,betray,allure
+
+see: perceive,descry,view,behold,witness,espy;discern,distinguish,observe,note,notice,observe,understand,grasp;watch,regard,;accompany,escort;interview,visit
+
+seek: ,hunt;,,attempt
+
+seep: percolate
+
+seize: apprehend,snatch,clutch,catch,gripe,grasp,grapple;arrest;confiscate,usurp,appropriate;distrain,distress
+
+select: ,choose,prefer,cull,,elect
+
+sell: vend,barter,exchange;betray;,,cheat
+
+send: dispatch,commission,delegate;transmit,forward
+
+separate: divide,dissolve,detach,sunder,sever,disconnect,part,disjoin,withdraw,rend,dissociate,disengage,isolate,disunite,eliminate,disintegrate,segregate,scatter,disperse,dissipate,sequester,cleave,insulate,dissever,deglutinate
+
+serve: attend,;promote,advance,contribute,;subserve;treat,requite;satisfy,suffice,content,answer,do;deal,distribute
+
+set: place,put,fix,establish,locate,station;adjust,regulate,adapt;oppose,obstruct;appoint,assign
+
+settle: fix,establish;ordain,install;adjust,determine,decide;sink,subside,fall;precipitate;quiet,calm,pacify,tranquillize;colonize,people
+
+sever: part,divide,disunite,separate,disjoin,detach,disconnect
+
+sew: stitch;baste
+
+shackle: manacle,hamper,fetter;impede,trammel
+
+shade: screen;obscure,dim,obfuscate,cloud,darken,eclipse
+
+shadow: shade,screen;adumbrate,typify,symbolize;cloud,obscure
+
+shake: agitate,jar,jolt,convulse,concuss,jounce,dodder,tremble,trill,shiver,totter,joggle,jiggle,wave,vibrate,shudder
+
+sham: feign,pretend,imitate,personate,dissimulate
+
+shame: humiliate,mortify,disconcert;disgrace,degrade;mock,deride,ridicule
+
+shape: form,mould,fashion,frame;adjust,regulate,design,plan,arrange
+
+share: apportion,divide;partake,
+
+sharpen: intensify,aggravate,quicken;hone,grind,point,whet
+
+shatter: shiver,demolish;disorder,derange
+
+shed: diffuse,emit,radiate,spread;cast,exuviate,moult,mew,discard;doff
+
+shell: hull,shuck,shale,enucleate;bombard,besiege
+
+shelter: shield,protect,defend,screen,ensconce,cover
+
+shield: defend,protect,safeguard;,repel
+
+shift: veer,change,turn;quirk,quibble,palter;change,substitute
+
+shilly-shally: hesitate,waver,trifle,dally,vacillate,dodge,
+
+shine: beam,radiate,gleam,irradiate,glisten,glow,glitter,flare,glare;excel,surpass;polish
+
+ship: transport;deport;
+
+shirk: avoid,evade,neglect
+
+shock: dismay,horrify,appall,terrify,frighten;stook;astound,stun,paralyze,scandalize,outrage,offend
+
+shoot: discharge,fire;eject,hurl,emit,ejaculate;protrude,project,extend,jut;germinate,sprout;penetrate,dart;fusillade;tiller
+
+shore: prop,brace,buttress,support,stay
+
+shorten: abridge,abbreviate,curtail,reduce,epitomize,contract,retrench,condense,diminish;limit,restrict,restrain,confine,circumscribe;dock,lop
+
+shoulder: jostle,push;assume,bear
+
+shout: vociferate,yell,halloo,call,clamor,acclaim
+
+show: exhibit,present,display,uncover,reveal,disclose,manifest,divulge,evince,proclaim;direct,guide,usher,conduct;demonstrate,explain,expound,exemplify;indicate,signify
+
+shrink: contract,shrivel,decrease,dwindle;flinch,recoil,blench,wince,winch
+
+shroud: mask,screen,cloak,conceal
+
+shuffle: jumble,intermix;equivocate,prevaricate,quibble,shift;shamble
+
+shun: avoid,elude,evade,eschew
+
+shut: close;debar,exclude,preclude;,imprison,,incarcerate,immure
+
+sick: ,incite,urge
+
+sicken: nauseate,disgust,pall,surfeit,decay,languish
+
+sidetrack: shunt;
+
+sift: bolt,cribble,riddle;investigate
+
+sign: signify,mark,indicate,betoken;subscribe
+
+signify: indicate,betoken,denote;mean;matter
+
+silence: still,hush,quiet,suppress,lull,quell,appease
+
+simulate: pretend,feign
+
+sin: ,trespass,transgress
+
+sing: carol,warble,chant,hymn,hum,troll,yodel,croon
+
+singe: sweal,swale,scorch
+
+single: ,choose,select,separate,isolate,segregate
+
+sink: subside,descend,decline,fall;immerse,submerge,engulf,merge
+
+skedaddle: ,flee,decamp,scuttle,scamper,scurry
+
+sketch: draught,portray,draw,depict,delineate
+
+skin: flay,excoriate;pare,peel;,defraud,fleece
+
+skip: omit,pass,disregard;caper,gambol,jump,leap;ricochet
+
+skulk: sneak,slink,lurk
+
+slacken: moderate,retard,slack,reduce;loosen,relax;diminish,abate,mitigate;slake;relax,flag
+
+slake: quench;slack;abate,decrease,allay
+
+slander: malign,defame,traduce,asperse,vilify,calumniate,backbite,scandalize,libel
+
+slave: drudge,toil,moil
+
+sleep: slumber,repose;doze,drowse;;hibernate;lodge
+
+slide: slip,glide,lapse,elapse,skid
+
+slight: overlook,neglect,disregard,ignore
+
+slip: slide,glide;err,trip;omit,lose;foist;elapse
+
+slobber: drivel,drool,slabber,slaver;smear,daub,defile
+
+slope: slant,incline
+
+slow: slacken,relax,moderate,delay,retard
+
+slur: soil,sully;disparage,traduce,asperse;blur,mackle
+
+smart: sting,prick,suffer
+
+smash: shiver,crush
+
+smear: besmear,daub
+
+smell: scent;savor;stink
+
+smite: strike,buffet;blast,destroy;afflict,chasten,visit
+
+smoke: reek;fume;infumate;fumigate;suffumigate;smolder
+
+smooth: level,plane,sleek,flatten,planish,levigate;facilitate,pave
+
+smother: suffocate,stifle;extinguish,repress,suppress;smolder
+
+smut: stain,blacken,sully,tarnish;crock
+
+snarl: entangle,complicate,involve,knot;confuse,enmesh,insnare;growl,gnarl
+
+snatch: seize,grasp,gripe,wrest,pluck,grab,twitch
+
+sneak: skulk,slink,lurk,snoop
+
+sneer: mock,gibe,scoff,flout,jeer,deride,ridicule,scout
+
+sniff: snuff;scent,smell
+
+snub: slight,ignore,disregard
+
+snuggle: nestle,cuddle
+
+soak: drench,saturate;absorb,imbibe;,steep
+
+sob: weep
+
+soften: intenerate,mollify;palliate,extenuate,qualify,modify,relax,mitigate,emolliate,appease,temper,abate;subdue,
+
+soil: dirty,defile,pollute,besmear,contaminate,taint,besmirch,sully,tarnish,begrime
+
+solicit: ask,seek,request
+
+soothe: compose,tranquilize,pacify,assuage,mollify,calm
+
+sorrow: grieve,mourn,regret,deplore,bewail,lament
+
+sort: assort,classify;conjoin;choose,select,cull;consort,associate,fraternize;harmonize,agree,accord,conform
+
+sound: fathom,gauge;examine,try,test,probe,explore;proclaim,publish,herald;resound
+
+sour: curdle,acidify,lopper,spoil,acidulate;imbitter,embitter
+
+souse: pickle;douse,immerse,plunge,submerge
+
+sow: propagate,disseminate,scatter,plant
+
+spare: forbear,refrain,
+
+spark: court,woo,philander
+
+sparkle: glitter,coruscate,glisten,scintillate,twinkle,gleam
+
+speak: utter,pronounce,say,articulate,enunciate,express,talk;discourse,address,declaim,harangue,preach,lecture,rant,descant,expatiate;accost,address;declare,publish,proclaim,announce,bruit
+
+specify: designate,particularize,individualize,name
+
+speckle: speck,spot,dot
+
+speculate: theorize,meditate,conjecture,guess,think
+
+speed: hurry,hasten;accelerate,expedite,quicken,dispatch,facilitate;prosper,favor
+
+spell: orthographize;decipher,read,unravel,unfold;charm,bewitch
+
+spend: expend,disburse
+
+spin: whirl,twirl,revolve,gyrate;protract,prolong,extend
+
+spirit: inspirit,animate,encourage;,,kidnap,abduct
+
+spit: expectorate;spawl,sputter;eject
+
+splash: plash,dash,spatter,dabble
+
+splice: interweave,unite,
+
+split: rive,cleave,sunder,rend,divide,separate,rift,burst,rupture,disunite,disrupt
+
+spoil: plunder,rob,pillage,ravage,depredate,,sack;corrupt,vitiate,debase,mar,demoralize,deprave,sophisticate,infect,defile,contaminate;disfigure,deface,damage;decay,addle,putrefy,rot
+
+sponge: imbibe,absorb;expunge,efface,erase,obliterate
+
+sport: frolic,play,caper,disport;
+
+spot: dapple,variegate,mottle,speckle,blot,sully,stain,maculate
+
+spout: spurt,squirt,gush;rant,harangue;
+
+spread: extend,stretch,expand,dilate;unfurl,unroll,open;disseminate,bruit,circulate,propagate,promulgate,diffuse,emit;suffuse;cover,overspread,mantle;expatiate
+
+spring: dart,shoot;bound,leap,jump,hop,vault;emerge,rise,arise;rebound,recoil,;bend,warp;issue,emanate,originate,flow,arise
+
+sprinkle: scatter,strew;besprinkle,bedew,asperse
+
+sprout: germinate,pullulate,bourgeon,grow,vegetate;branch,ramify;tiller
+
+spur: goad,incite,urge,stimulate,instigate,impel
+
+spurn: reject,scorn,contemn,despise,scout
+
+square: adjust,fit,suit;balance,settle;conform,agree,accord
+
+squat: crouch,cower
+
+squeak: creak;
+
+squeal: cry,yell;,betray,confess
+
+squeeze: compress,gripe,pinch;oppress,extort;crowd,elbow,press
+
+squirm: wriggle,writhe,twist
+
+stab: pierce,thrust,gore,transfix;backbite,malign
+
+stagger: reel,totter,sway;shock,astound,dumfound
+
+stain: soil,sully,defile,taint
+
+stake: venture,risk,hazard,wager,bet,pledge
+
+stamp: impress,imprint;
+
+stand: endure,bear,weather,brook,suffer,tolerate,,abide,submit;agree,accord,;stagnate
+
+star: bespangle
+
+start: ,go,initiate,launch,institute,embark
+
+startle: scare,surprise,affright
+
+starve: famish
+
+state: assert,affirm,aver,allege,say,specify,declare
+
+stay: sojourn,tarry,lodge,remain,continue,abide;support,prop,buttress,brace,uphold,strengthen;delay,obstruct,hinder,restrain,appease,withhold,forbear,withstand,impede,retard
+
+steal: pilfer,filch,peculate,purloin,poach,abstract,rob,defraud,pirate,plunder,crib,pillage,,thieve,embezzle,peculate,plagiarize;insinuate,,,sneak,slink,skulk;ratten
+
+steel: fortify,brace,nerve
+
+steep: soak,macerate,imbrue,infuse
+
+steer: guide,pilot,control,govern
+
+stem: oppose,withstand,breast,resist,check
+
+step: pace,stride
+
+sterility: barrenness,infecundity,unproductiveness
+
+stick: pierce,stab,penetrate,impale,transfix,gore;insert,thrust,push,infix;paste,cement,glue,attach,affix;cleave,cling,adhere,remain,abide;stall;hesitate,scruple;adhere,agglutinate,glutinate,cohere;pose,puzzle,disconcert;,project,jut,protrude
+
+stickle: contend,altercate,dispute,quibble,scruple,haggle,higgle,chaffer;trim,prevaricate,shift,palter,
+
+still: calm,compose,quiet,silence,hush
+
+stimulate: excite,incite,instigate,arouse,provoke,goad,spur
+
+stint: limit,restrict,restrain,confine,stent,straiten
+
+stir: move,budge
+
+stock: replenish,supply,furnish
+
+stomach: resent,dislike;
+
+stoop: bend;condescend,deign,descend
+
+stop: obstruct,;stanch;arrest,hinder,impede,block,stay,check;repress,restrain,suppress,deter,interrupt,suspend,thwart,preclude,intercept,impede;halt,pause,stagnate,stand;,discontinue,cease,desist,suspend,intermit;,,tarry
+
+store: stock,replenish,save,hoard,garner,husband,
+
+storm: assault,attack,besiege,expugn;rage,fume,rant
+
+straddle: bestride
+
+strain: stretch,tighten;sprain,wrench;percolate,filter,defecate,filtrate;overtask,overwork
+
+straiten: limit,restrict,narrow,confine,constrain,tighten,embarrass
+
+strangle: choke,throttle,suffocate;stifle,suppress;garrote
+
+stray: wander,rove,roam,swerve,deviate;err,sin
+
+stream: pour,gush,run;radiate,shed
+
+strengthen: invigorate,brace,nerve,steel,fortify,harden;intensify,heighten;confirm,corroborate,sustain
+
+stretch: extend,elongate,lengthen,spread;overstate,exaggerate;distend
+
+strike: hit,smite,buffet,knock,beat,thump,whack,cuff,slap;deal,inflict;impress,affect
+
+strip: deprive,divest,dispossess,dismantle;plunder,desolate,devastate,pillage,sack,fleece,rifle,despoil;undress,disrobe,denude,uncover
+
+strive: struggle,try,endeavor,contend,vie,cope
+
+stroll: ramble,rove,range,stray,straggle,wander
+
+struggle: strive,cope,grapple,labor
+
+study: muse,pore,,lucubrate,excogitate;dig,grind
+
+stuff: cram,press,stow,crowd,fill
+
+stun: overcome,stupefy,dumfound,bewilder
+
+stunt: dwarf,atrophy
+
+stupefy: dull,benumb,hebetate,blunt,besot
+
+subdue: conquer,vanquish,subject,overpower,subjugate,crush,master,quell;,soften
+
+subject: subordinate,expose
+
+submerge: plunge,immerse,sink,submerse;overflow,flood,deluge,inundate
+
+submit: yield,surrender,succumb,acquiesce,comply,tolerate,stand
+
+subside: decrease,sink,abate,fall
+
+substantiate: verify,corroborate,confirm,prove
+
+substitute: exchange,commute
+
+suck: imbibe,absorb;engulf
+
+sue: prosecute
+
+suffocate: choke,stifle,smother,asphyxiate,burke
+
+suggest: ,hint,intimate,insinuate,propose,recommend
+
+suit: fit,adapt,adjust;please,gratify,satisfy;accord,comport,agree
+
+sum: ,add,compute;summarize
+
+supersede: replace,displace,supplant
+
+supplant: remove,displace,supersede
+
+supply: furnish,afford,yield,replenish,recruit,stock
+
+support: prop,brace,bolster,uphold,sustain;maintain,keep,;verify,substantiate,ratify,corroborate,confirm;vindicate,defend,maintain;second,back,aid
+
+suppose: assume,conjecture,presume,imagine,believe,imply,surmise
+
+suppress: quell,overpower,;check,repress,restrain;secrete,conceal
+
+surmise: suppose,conjecture,suspect,guess,opine
+
+surmount: overtop;conquer,overcome,vanquish
+
+surpass: excel,exceed,outdo,outstrip,transcend
+
+surprise: amaze,astonish,astound
+
+surrender: relinquish,yield,abandon,capitulate,waive,remit
+
+surround: enclose,encircle,encompass,environ,,corral,invest,intrench
+
+suspect: mistrust,distrust,doubt;conjecture,surmise
+
+swallow: ingurgitate;gulp,bolt,engorge,englut;ingulf,,absorb,submerge,engulf,overwhelm;accept,believe,credit;appropriate,arrogate,monopolize,engross;bear,brook,tolerate,pocket
+
+swamp: engulf,overwhelm,submerge
+
+swarm: teem
+
+swear: blaspheme,curse,imprecate,
+
+sweat: perspire;exude
+
+sweeten: dulcify,edulcorate;purify,disinfect,fumigate,deodorize
+
+swell: distend,dilate,expand,bloat,,tumefy,intumesce;increase,augment;heave,surge;protuberate;strut,swagger
+
+swerve: deviate,deflect,diverge,
+
+swing: oscillate,vibrate;sway,brandish,flourish,wave
+
+swipe: strike;,pluck,snatch,purloin
+
+switch: whip,flog;shunt,shift
+
+symbolize: typify,emblematize
+
+sympathize: ,commiserate,;agree,
+
+systematize: methodize,classify
+
+table: tabulate,tabularize
+
+taboo: interdict,prohibit,proscribe
+
+taint: imbue,impregnate,corrupt,infect,vitiate,sully,besmirch,discolor,contaminate
+
+take: seize,grasp,clutch,procure,clasp,catch;confiscate,appropriate,usurp,arrogate;deprehend,apprehend;require,need;select,choose
+
+talk: speak,converse,confer,confabulate,consult;babble,prattle,prate,chatter,gabble,gibber,blather;expatiate,descant,comment,harp,rant;palaver
+
+tally: match,conform,agree,correspond,coincide,square,comport,accord
+
+tame: domesticate,reclaim,break;discipline,subjugate,conquer,repress
+
+tamper: meddle,tinker
+
+tangle: snarl,entangle,interweave;embroil,insnare,entrap,involve,perplex,enmesh
+
+tantalize: torment,plague,vex,disappoint
+
+tap: broach
+
+tarnish: dim,sully,besmirch,blacken,deface
+
+tattle: tell,divulge,blab,peach
+
+taunt: ridicule,deride,mock,reproach,revile,,gibe
+
+tax: assess;exact,demand,task
+
+teach: instruct,inform,educate,discipline,train,indoctrinate,school,enlighten,drill,tutor,instill,inculcate,coach
+
+tear: rend,rip,lacerate,dilacerate,sunder,dismember;fume,rage,rave,rant,storm
+
+tease: torment,plague,tantalize,hector,taunt,harass,badger
+
+teem: multiply,,abound,overflow,swarm
+
+teeter: seesaw,titter,
+
+tell: mention,recount,relate,narrate,enumerate,advise,inform,recite,disclose,bruit,divulge,proclaim,expose,apprise,peach,communicate,acquaint,notify,reveal,discern
+
+temper: qualify,modify,moderate,appease;anneal
+
+tempt: seduce,entice,decoy,allure,induce;provoke,incite,instigate
+
+tend: conduce,contribute;attend,accompany,guard;incline,lean
+
+tender: offer,present,proffer,propose
+
+terrify: appall,intimidate,daunt,horrify,alarm,shock,frighten
+
+test: try,prove,assay
+
+testify: depose,attest,asseverate,verify
+
+thicken: coagulate,condense,inspissate,curdle,concrete,incrassate
+
+thin: dilute,reduce,attenuate,rarefy,diminish,subtilize
+
+think: meditate,cogitate,ponder,contemplate,brood,reflect,muse,consider,speculate,ruminate,opine,deem,apprehend,excogitate,infer,surmise,mull
+
+thrash: thresh
+
+threaten: menace;augur,forebode,portend;impend,
+
+thrive: flourish,prosper
+
+throw: pitch,hurl,fling,cast,toss,sling,heave;overturn,prostrate,floor
+
+thrust: push,force,impel,shove,stab,pierce,protrude
+
+thunder: detonate,roll,boom
+
+thwart: frustrate,baffle,foil,balk,contravene
+
+tickle: titillate;please,delight,gladden
+
+tie: secure,fasten,bind,tether,leash
+
+tighten: straiten
+
+till: cultivate
+
+tilt: slant,slope,incline,tip,cant
+
+tip: incline,lean,cant,tilt;careen,capsize,keel,overturn,upset
+
+tire: fatigue,weary,jade,fag,bore,irk,tucker,exhaust
+
+tolerate: endure,suffer,brook;allow,permit,admit
+
+top: surmount,overtop,surpass
+
+torment: persecute,hector,tease,tantalize,harry;torture,grill,rack,distress
+
+touch: meet,impinge;graze
+
+tower: overtop,
+
+trade: exchange,barter,traffic,
+
+train: discipline,nurture,drill;accustom,habituate,familiarize
+
+tramp: march,trudge,plod
+
+trample: crush;scorn,spurn,disregard
+
+transform: transfigure,metamorphose;transmute
+
+transgress: violate,infringe,disregard
+
+translate: construe,render,interpret
+
+trap: entrap,ensnare,trapan,catch
+
+travel: journey,itinerate,peregrinate
+
+treat: regale,feast;negotiate;,
+
+tremble: quake,quiver,shudder,dodder,quaver,totter,vibrate,oscillate
+
+trespass: ,infringe,intrude
+
+trick: deceive,cheat,defraud,cozen,;dress,decorate,,adorn
+
+trickle: dribble,drip,percolate,distill
+
+trifle: dawdle,dally,pother,fribble,quiddle
+
+trim: adjust,arrange;decorate,adorn,garnish,embellish,bedeck,trick;prune,clip,lop;
+
+triumph: overcome,prevail,succeed;exult,rejoice
+
+trouble: vex,disturb,distress,inconvenience,incommode,pester,worry
+
+truckle: cringe,knuckle,submit,yield
+
+trump: impose,,obtrude,deceive
+
+truss: pack,compress;skewer
+
+trust: ,;,tick;intrust,commit
+
+try: test,examine,prove;attempt,essay,endeavor;purify,refine;hear,adjudicate,adjudge;strive,seek,strain
+
+tumble: heave,toss,roll,pitch;topple
+
+tune: attune,modulate,harmonize
+
+turn: revolve,spin,gyrate,rotate,wheel,veer,shift,swivel;deflect,inflect;reverse,revert;divert,avert;invert;resort,apply
+
+twine: entwine,encircle,wreathe
+
+twinkle: blink,wink;flash,sparkle,scintillate
+
+twist: contort,writhe,squirm,convolve,pervert,coil,wrench,distort
+
+twit: taunt,upbraid,reproach
+
+typify: represent,prefigure
+
+tyrannize: domineer,persecute,oppress
+
+ulcerate: suppurate,fester,maturate
+
+unbend: relax
+
+unbosom: confess,reveal,divulge
+
+unbury: exhume,disentomb,disinter
+
+unchurch: excommunicate
+
+uncouple: disconnect,detach,disjoin,loose
+
+uncover: disclose,reveal,expose,show
+
+undeceive: disabuse,disillusionize,disillusion
+
+underline: underscore
+
+underrate: underestimate,undervalue,underprize
+
+understand: comprehend,apprehend,grasp,discern
+
+undervalue: depreciate,vilipend,despise;underrate,underestimate
+
+underwrite: insure;subscribe
+
+undo: reverse,annul,nullify,abrogate,neutralize,invalidate;loose,unfasten,disentangle;impoverish,ruin
+
+undress: disrobe,strip,divest,doff,disarray
+
+undue: unreasonable,immoderate,exorbitant,excessive,disproportioned
+
+unearth: uncover,disclose,
+
+unfit: disqualify,incapacitate,disable
+
+unfold: unfurl,expand,evolve,unroll;disentangle,unravel,resolve;divulge,disclose,reveal,elucidate
+
+unglue: deglutinate
+
+unhair: depilate
+
+unite: join,combine,annex,associate,link,couple,yoke,splice;consolidate,merge,amalgamate,fuse,confederate,unify,coalesce,concur,cooeperate
+
+unload: disburden,unlade,relieve
+
+unman: emasculate,castrate;dishearten,discourage,unnerve,intimidate;emolliate,effeminate
+
+unravel: disentangle,extricate,ravel;decipher,unfold
+
+unroll: unfold,unfurl,evolve
+
+unsay: recall,retract,recant
+
+unsettle: disorder,derange,upset,unhinge,disconcert
+
+untangle: unravel,disentangle
+
+untwist: unravel,disentangle,feaze
+
+unveil: expose,uncover,reveal,disclose
+
+upbraid: reproach,scold,chide,rate,reprove,reprimand,twit
+
+uphold: support,sustain,vindicate,defend
+
+uproot: eradicate,extirpate
+
+upset: overturn,overset,capsize,invert,overthrow;disconcert,discompose,perturb,agitate,unnerve,excite
+
+urge: egg,importune,exhort;impel,force;incite,instigate,goad
+
+use: employ,apply,utilize,exploit;treat,;practice,exercise;consume,exhaust;accustom,habituate,familiarize,inure
+
+usher: ;introduce,forerun,precede,herald,escort
+
+usurp: arrogate,seize,appropriate,accroach
+
+utilize: use,employ,exploit
+
+utter: speak,pronounce,express
+
+vacate: empty,evacuate,resign,abdicate;annul,abrogate,invalidate
+
+vaccinate: inoculate
+
+vacillate: fluctuate,waver,veer,oscillate,whiffle
+
+value: appraise;prize,esteem,appreciate
+
+vamose: ,,go
+
+vanquish: overcome,defeat,subjugate,subdue,rout,overpower
+
+vaporize: evaporate
+
+varnish: lacquer,japan,enamel,glaze;,palliate,extenuate
+
+vary: diversify,variegate,modify;deviate,depart,swerve;disagree;modify,alternate
+
+vault: ,spring,bound,jump;tumble
+
+vegetate: sprout,grow,germinate,pullulate;rusticate,hibernate
+
+veil: screen,cloak,disguise,shroud,mask,conceal
+
+venerate: reverence,revere,honor,esteem
+
+vent: emit,utter,say,discharge
+
+venture: dare,hazard,risk
+
+verify: corroborate,confirm,attest,authenticate,prove
+
+vest: invest
+
+vex: tease,plague,harass,torment,tantalize,hector,annoy,irritate,trouble,bother,distress
+
+vibrate: brandish,flourish,swing;oscillate,librate;quiver,shake;fluctuate,vacillate
+
+vie: contend,compete,emulate
+
+vilify: malign,revile,vituperate,traduce,calumniate
+
+vindicate: justify
+
+violate: break,disobey,transgress,contravene,profane,desecrate
+
+vitiate: debase,corrupt,demoralize,contaminate,deprave,spoil
+
+void: evacuate,eject,discharge,egest,pass;nullify,abrogate,annul
+
+vomit: puke;spew,emit,belch,disgorge,eject
+
+vouch: attest,corroborate,warrant
+
+waddle: toddle,totter
+
+wade: ford
+
+wage: stake,bet,wager
+
+wager: bet,stake,pledge,hazard,speculate
+
+wait: tarry,stay,linger,await,abide;
+
+waive: relinquish,forego,surrender
+
+wake: awake,waken;arouse,rouse,revive
+
+waken: awake,awaken,wake
+
+walk: stroll,tramp,stride,plod,trudge,tread,ambulate,pace,march,promenade,shamble,stalk,strut,step,bundle,toddle,daddle,waddle,shuffle,gad,galavant,hike,saunter,,slouch;
+
+wallow: welter,flounder;grovel
+
+wander: ramble,range,rove,stroll,roam,stray,straggle,itinerate,saunter,gad,peregrinate,digress,expatiate;depart,deviate,swerve
+
+wane: decrease,diminish,fade
+
+want: need,require;desire,wish,crave
+
+war: contend,fight,combat,militate,
+
+warble: trill,carol,yodel
+
+ward: ,,avert,parry,repel,forefend
+
+warm: heat
+
+warn: admonish,caution,notify,premonish,apprise,advise,forewarn,signal
+
+warp: twist,bend,bulge;pervert,distort,bias
+
+warrant: guarantee,assure,insure;justify,defend;affirm,attest,vouch
+
+wash: lave,bathe,absterge,foment,rinse;launder
+
+waste: squander,misspend,,dissipate,dawdle;desolate,devastate,despoil,sack,pillage,ravage,strip;decline,decay,pine,wither,dwindle,molder
+
+water: irrigate
+
+wave: undulate,float,flutter;flourish,brandish;beckon,signal
+
+waver: vacillate,fluctuate,veer,oscillate,hesitate
+
+wax: cere;increase,grow,develop,
+
+waylay: ambush
+
+weaken: debilitate,enfeeble,enervate,unnerve,emasculate,incapacitate,sap,undermine,unman,exhaust,deplete;dilute,thin;invalidate;impair,diminish,lower,decline
+
+wean: disaccustom,alienate,detach
+
+weary: tire,fatigue,exhaust,jade,fag,bore
+
+weave: entwine,interlace,mat,plait,braid,plat,fabricate
+
+weed: uproot,extirpate
+
+weep: sob,cry
+
+welter: wallow,flounder,roll
+
+wet: moisten,dampen,soak,imbrue,saturate
+
+wheedle: cajole,blandish,inveigle
+
+whip: lash,beat,thrash,flog,drub,punish,chastise,trounce,flagellate,castigate,scourge,switch,spank,maul,fustigate;,defeat;jerk,snatch,whisk
+
+whirl: spin,revolve,twirl,rotate,gyrate,wheel,pirouette
+
+whiten: bleach,blanch,pale,etiolate,decolorize
+
+whiz: hum,buzz,whirr
+
+wiggle: squirm,wriggle
+
+will: bequeath,devise,leave;decree,ordain,direct,order;wish,desire,want
+
+win: achieve,attain
+
+wince: shrink,flinch,recoil
+
+wind: coil,twine,twist,wreathe;crook,meander,curve,deviate,sinuate,bend
+
+wink: nictate,nictitate;overlook,ignore,
+
+winter: hibernate
+
+wipe: swab;expunge,efface,obliterate,erase
+
+wish: desire,aspire;invoke,imprecate;congratulate,
+
+withdraw: retire,retreat,quit;recall,retract,recant,disavow
+
+withhold: refrain,abstain;refuse,deny
+
+witness: testify,,confirm,corroborate,attest
+
+wonder: marvel
+
+work: toil,labor,strive;drudge,slave;operate,manipulate,perform;ferment,effervesce
+
+worm: wriggle,insinuate
+
+worry: harass,vex,annoy,torment,tease,fret,trouble,pester,badger,harry,importune;,,fret
+
+worship: adore,revere;idolize,deify,apotheosize,glorify
+
+worst: defeat,vanquish,conquer,overcome,overthrow,discomfit,rout
+
+wound: injure,scath,hurt,maim,disable
+
+wrangle: altercate,dispute,squabble,bicker,quarrel
+
+wrap: infold,swathe,bemuffle,envelop,muffle,swaddle
+
+wreck: demolish,destroy,ruin,shatter,strand,founder,undo,raze
+
+wrest: wrench,wring,extort;distort,pervert,garble,falsify,misconstrue
+
+wring: writhe,squeeze,pinch;distort,pervert,wrest,exact,extort
+
+wrinkle: rumple,pucker,corrugate,crease,cockle,ruck,crumple
+
+write: inscribe,indite;;subscribe
+
+wrong: cheat,damnify,defraud,maltreat,abuse
+
+yawn: gape,oscitate
+
+yearn: long,desire,,pine
+
+yell: scream,shriek,screech,bawl,howl,yowl,vociferate,hoot
+
+yield: produce,pay,return;submit,surrender,succumb,,capitulate;resign,relinquish,cede,forego,waive;concede,admit,grant,allow
+
+yoke: couple,join,unite,link,;subject,enslave
+
+improve: ,decline,degenerate
+
+speechify: declaim,harangue
+

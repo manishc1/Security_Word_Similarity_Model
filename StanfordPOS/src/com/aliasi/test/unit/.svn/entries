@@ -1,190 +1,0 @@
-10
-
-dir
-4035
-https://svn.cs.umbc.edu/ebiquity/projects/StanfordPOS/src/com/aliasi/test/unit
-https://svn.cs.umbc.edu/ebiquity
-
-
-
-2012-08-20T14:17:02.018348Z
-1956
-lushan1@UMBC.EDU
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2fa6a30c-4ae1-6b6d-b205-f827099fb4ac
-
-coref
-dir
-
-stats
-dir
-
-package.html
-file
-
-
-
-
-2014-06-05T22:21:19.023677Z
-7afab537a32084c1a158b8e736ae5c76
-2012-08-20T14:17:02.018348Z
-1956
-lushan1@UMBC.EDU
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-131
-
-xml
-dir
-
-MockObjectHelper.java
-file
-
-
-
-
-2014-06-05T22:21:19.027677Z
-954ced7669f4f27d96fe031540483f79
-2012-08-20T14:17:02.018348Z
-1956
-lushan1@UMBC.EDU
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2241
-
-matrix
-dir
-
-Asserts.java
-file
-
-
-
-
-2014-06-05T22:21:19.027677Z
-78ee270715de03e018d075aa09f85d12
-2012-08-20T14:17:02.018348Z
-1956
-lushan1@UMBC.EDU
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-15396
-
-symbol
-dir
-
-io
-dir
-
-lm
-dir
-
-chunk
-dir
-
-crf
-dir
-
-tokenizer
-dir
-
-corpus
-dir
-
-tag
-dir
-
-classify
-dir
-
-util
-dir
-
-features
-dir
-
-spell
-dir
-
-hmm
-dir
-
-cluster
-dir
-
-dict
-dir
-
-sentences
-dir
-

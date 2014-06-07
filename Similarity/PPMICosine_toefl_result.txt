@@ -1,0 +1,720 @@
+appropriately_RB has a pmi value: 0.06376027
+
+uniquely_RB has a pmi value: 0.06878597
+
+tremendously_RB has a pmi value: 0.3294431
+
+decidedly_RB has a pmi value: 0.18412676
+Successful question <enormously_RB>: Correct Answer=>tremendously_RB, Computed Answer=>tremendously_RB
+
+stipulation_NN has a pmi value: 0.21567279
+-12660
+interrelation_NN has a pmi value: 0.0
+
+jurisdiction_NN has a pmi value: 0.20180658
+
+interpretation_NN has a pmi value: 0.1799616
+Successful question <provision_NN>: Correct Answer=>stipulation_NN, Computed Answer=>stipulation_NN
+
+dangerously_RB has a pmi value: 0.037791353
+
+densely_RB has a pmi value: 0.05489015
+
+randomly_RB has a pmi value: 0.05819717
+
+linearly_RB has a pmi value: 0.03645403
+Successful question <haphazardly_RB>: Correct Answer=>randomly_RB, Computed Answer=>randomly_RB
+
+battered_JJ has a pmi value: 0.09527933
+
+ancient_JJ has a pmi value: 0.17989612
+
+mysterious_JJ has a pmi value: 0.1491541
+
+conspicuous_JJ has a pmi value: 0.3056573
+Successful question <prominent_JJ>: Correct Answer=>conspicuous_JJ, Computed Answer=>conspicuous_JJ
+
+completion_NN has a pmi value: 0.08354423
+
+pinnacle_NN has a pmi value: 0.12722099
+
+outset_NN has a pmi value: 0.043145567
+
+decline_NN has a pmi value: 0.07957653
+Successful question <zenith_NN>: Correct Answer=>pinnacle_NN, Computed Answer=>pinnacle_NN
+
+tiny_JJ has a pmi value: 0.06039267
+
+imperfect_JJ has a pmi value: 0.074717775
+
+lustrous_JJ has a pmi value: 0.044417936
+
+crude_JJ has a pmi value: 0.06328172
+Successful question <flawed_JJ>: Correct Answer=>imperfect_JJ, Computed Answer=>imperfect_JJ
+
+typically_RB has a pmi value: 0.050052546
+
+conceivably_RB has a pmi value: 0.050388988
+
+tentatively_RB has a pmi value: 0.101993814
+
+desperately_RB has a pmi value: 0.13356674
+Successful question <urgently_RB>: Correct Answer=>desperately_RB, Computed Answer=>desperately_RB
+
+breed_VB has a pmi value: 0.16598934
+
+catch_VB has a pmi value: 0.12525162
+
+eat_VB has a pmi value: 0.26478273
+
+supply_VB has a pmi value: 0.25241435
+Successful question <consume_VB>: Correct Answer=>eat_VB, Computed Answer=>eat_VB
+
+coming_NN has a pmi value: 0.11836432
+
+arrest_NN has a pmi value: 0.14439799
+
+financing_NN has a pmi value: 0.0273193
+
+stability_NN has a pmi value: 0.0814246
+Failed question <advent_NN>: Correct Answer=>coming_NN, Computed Answer=>arrest_NN
+
+powerfully_RB has a pmi value: 0.09816606
+
+positively_RB has a pmi value: 0.05297914
+
+freely_RB has a pmi value: 0.08700385
+
+succinctly_RB has a pmi value: 0.32804513
+Successful question <concisely_RB>: Correct Answer=>succinctly_RB, Computed Answer=>succinctly_RB
+
+information_NN has a pmi value: 0.0929487
+
+ceremony_NN has a pmi value: 0.17845826
+
+greeting_NN has a pmi value: 0.28267857
+
+privilege_NN has a pmi value: 0.11571897
+Successful question <salute_NN>: Correct Answer=>greeting_NN, Computed Answer=>greeting_NN
+
+alert_JJ has a pmi value: 0.12943105
+
+restless_JJ has a pmi value: 0.20984787
+
+alone_JJ has a pmi value: 0.23201059
+
+fearless_JJ has a pmi value: 0.16658387
+Successful question <solitary_JJ>: Correct Answer=>alone_JJ, Computed Answer=>alone_JJ
+
+permit_VB has a pmi value: 0.17635515
+
+determine_VB has a pmi value: 0.1396549
+
+accelerate_VB has a pmi value: 0.21805747
+
+accompany_VB has a pmi value: 0.22421032
+Failed question <hasten_VB>: Correct Answer=>accelerate_VB, Computed Answer=>accompany_VB
+
+endurance_NN has a pmi value: 0.35462365
+
+skill_NN has a pmi value: 0.26606622
+
+generosity_NN has a pmi value: 0.26845327
+
+disturbance_NN has a pmi value: 0.088938184
+Successful question <perseverance_NN>: Correct Answer=>endurance_NN, Computed Answer=>endurance_NN
+
+familiar_JJ has a pmi value: 0.2055342
+
+imaginative_JJ has a pmi value: 0.33256108
+
+apparent_JJ has a pmi value: 0.15553674
+
+logical_JJ has a pmi value: 0.21184868
+Successful question <fanciful_JJ>: Correct Answer=>imaginative_JJ, Computed Answer=>imaginative_JJ
+
+demonstrate_VB has a pmi value: 0.29298854
+
+publish_VB has a pmi value: 0.17369345
+
+repeat_VB has a pmi value: 0.1773322
+
+postpone_VB has a pmi value: 0.08990234
+Successful question <show_VB>: Correct Answer=>demonstrate_VB, Computed Answer=>demonstrate_VB
+
+instantly_RB has a pmi value: 0.3193413
+
+continually_RB has a pmi value: 0.60603344
+
+rapidly_RB has a pmi value: 0.3312265
+
+accidentally_RB has a pmi value: 0.23401497
+Successful question <constantly_RB>: Correct Answer=>continually_RB, Computed Answer=>continually_RB
+
+training_NN has a pmi value: 0.1753997
+
+salary_NN has a pmi value: 0.13994236
+
+subject_NN has a pmi value: 0.22338004
+
+benefit_NN has a pmi value: 0.20501502
+Successful question <issue_NN>: Correct Answer=>subject_NN, Computed Answer=>subject_NN
+
+supply_VB has a pmi value: 0.43728846
+
+impress_VB has a pmi value: 0.15812992
+
+protect_VB has a pmi value: 0.22100583
+
+advise_VB has a pmi value: 0.14704442
+Successful question <furnish_VB>: Correct Answer=>supply_VB, Computed Answer=>supply_VB
+
+expensive_JJ has a pmi value: 0.4290526
+
+beautiful_JJ has a pmi value: 0.28799745
+
+popular_JJ has a pmi value: 0.15806116
+
+complicated_JJ has a pmi value: 0.21631585
+Successful question <costly_JJ>: Correct Answer=>expensive_JJ, Computed Answer=>expensive_JJ
+
+successful_JJ has a pmi value: 0.18698053
+
+depict_VB has a pmi value: 0.17222096
+
+acknowledge_VB has a pmi value: 0.41286507
+
+welcome_VB has a pmi value: 0.18841712
+Successful question <recognize_VB>: Correct Answer=>acknowledge_VB, Computed Answer=>acknowledge_VB
+
+climate_NN has a pmi value: 0.21640666
+
+latitude_NN has a pmi value: 0.11372041
+
+sea_NN has a pmi value: 0.24214195
+
+location_NN has a pmi value: 0.23553844
+Failed question <spot_NN>: Correct Answer=>location_NN, Computed Answer=>sea_NN
+
+earn_VB has a pmi value: 0.15203553
+
+print_VB has a pmi value: 0.19161446
+
+trade_VB has a pmi value: 0.11074972
+
+borrow_VB has a pmi value: 0.17481361
+Failed question <make_VB>: Correct Answer=>earn_VB, Computed Answer=>print_VB
+
+definitely_RB has a pmi value: 0.2468431
+
+frequently_RB has a pmi value: 0.5393547
+
+chemically_RB has a pmi value: 0.108941816
+
+hardly_RB has a pmi value: 0.23916635
+Successful question <often_RB>: Correct Answer=>frequently_RB, Computed Answer=>frequently_RB
+-9717
+frontier_JJ has a pmi value: 0.0
+
+boring_JJ has a pmi value: 0.04842475
+
+farming_JJ has a pmi value: NaN
+
+relaxed_JJ has a pmi value: 0.065206125
+Successful question <easygoing_JJ>: Correct Answer=>relaxed_JJ, Computed Answer=>relaxed_JJ
+
+war_NN has a pmi value: 0.21124738
+
+argument_NN has a pmi value: 0.2960043
+
+election_NN has a pmi value: 0.24795875
+
+competition_NN has a pmi value: 0.20438196
+Successful question <debate_NN>: Correct Answer=>argument_NN, Computed Answer=>argument_NN
+
+clear_JJ has a pmi value: 0.21181655
+-9643
+freezing_JJ has a pmi value: 0.0
+
+thin_JJ has a pmi value: 0.30943254
+
+poisonous_JJ has a pmi value: 0.092134066
+Successful question <narrow_JJ>: Correct Answer=>thin_JJ, Computed Answer=>thin_JJ
+
+plan_VB has a pmi value: 0.30771056
+
+explain_VB has a pmi value: 0.21102732
+
+study_VB has a pmi value: 0.2115886
+
+discard_VB has a pmi value: 0.18075065
+Successful question <arrange_VB>: Correct Answer=>plan_VB, Computed Answer=>plan_VB
+
+limitless_JJ has a pmi value: 0.30556062
+
+relative_JJ has a pmi value: 0.20854786
+
+unusual_JJ has a pmi value: 0.33943018
+
+structural_JJ has a pmi value: 0.15964648
+Failed question <infinite_JJ>: Correct Answer=>limitless_JJ, Computed Answer=>unusual_JJ
+
+striking_JJ has a pmi value: 0.19187106
+
+prickly_JJ has a pmi value: 0.11142614
+
+entertaining_JJ has a pmi value: 0.13684951
+
+incidental_JJ has a pmi value: 0.100369796
+Successful question <showy_JJ>: Correct Answer=>striking_JJ, Computed Answer=>striking_JJ
+
+impose_VB has a pmi value: 0.2738474
+
+believe_VB has a pmi value: 0.045420386
+
+request_VB has a pmi value: 0.13143356
+
+correlate_VB has a pmi value: 0.070998885
+Successful question <levy_VB>: Correct Answer=>impose_VB, Computed Answer=>impose_VB
+
+skillfully_RB has a pmi value: 0.33443066
+
+prudently_RB has a pmi value: 0.16948518
+
+occasionally_RB has a pmi value: 0.20434047
+
+humorously_RB has a pmi value: 0.10305999
+Successful question <deftly_RB>: Correct Answer=>skillfully_RB, Computed Answer=>skillfully_RB
+
+commercialize_VB has a pmi value: 0.037392817
+
+circulate_VB has a pmi value: 0.25498828
+
+research_VB has a pmi value: 0.06388432
+
+acknowledge_VB has a pmi value: 0.13795784
+Successful question <distribute_VB>: Correct Answer=>circulate_VB, Computed Answer=>circulate_VB
+
+weight_NN has a pmi value: 0.123331346
+
+deposit_NN has a pmi value: 0.10538481
+
+wavelength_NN has a pmi value: 0.018141832
+
+difference_NN has a pmi value: 0.311632
+Successful question <discrepancy_NN>: Correct Answer=>difference_NN, Computed Answer=>difference_NN
+
+productive_JJ has a pmi value: 0.25222474
+
+serious_JJ has a pmi value: 0.11494753
+
+capable_JJ has a pmi value: 0.15734951
+
+promising_JJ has a pmi value: 0.17026928
+Successful question <prolific_JJ>: Correct Answer=>productive_JJ, Computed Answer=>productive_JJ
+
+unrecognized_JJ has a pmi value: 0.07439573
+
+unequaled_JJ has a pmi value: 0.1944758
+
+alienated_JJ has a pmi value: 0.05284546
+-7887
+emulated_JJ has a pmi value: 0.0
+Successful question <unmatched_JJ>: Correct Answer=>unequaled_JJ, Computed Answer=>unequaled_JJ
+
+partly_RB has a pmi value: 0.18719657
+
+uniquely_RB has a pmi value: 0.16828744
+
+patriotically_RB has a pmi value: 0.07147073
+
+suspiciously_RB has a pmi value: 0.11087562
+Failed question <peculiarly_RB>: Correct Answer=>uniquely_RB, Computed Answer=>partly_RB
+
+glare_NN has a pmi value: 0.28582758
+
+contrast_NN has a pmi value: 0.18964005
+
+color_NN has a pmi value: 0.50921243
+
+scent_NN has a pmi value: 0.21895465
+Successful question <hue_NN>: Correct Answer=>color_NN, Computed Answer=>color_NN
+
+curved_JJ has a pmi value: 0.15614773
+
+muscular_JJ has a pmi value: 0.116971605
+
+hairy_JJ has a pmi value: 0.16669838
+
+rear_JJ has a pmi value: 0.16428016
+Failed question <hind_JJ>: Correct Answer=>rear_JJ, Computed Answer=>hairy_JJ
+
+alter_VB has a pmi value: 0.04673884
+
+imitate_VB has a pmi value: 0.025607858
+
+accentuate_VB has a pmi value: 0.06341262
+
+restore_VB has a pmi value: 0.021532118
+Successful question <highlight_VB>: Correct Answer=>accentuate_VB, Computed Answer=>accentuate_VB
+
+hurriedly_RB has a pmi value: 0.57223207
+
+shrewdly_RB has a pmi value: 0.16430324
+
+habitually_RB has a pmi value: 0.16297722
+
+chronologically_RB has a pmi value: 0.06467858
+Successful question <hastily_RB>: Correct Answer=>hurriedly_RB, Computed Answer=>hurriedly_RB
+
+cold_JJ has a pmi value: 0.15161718
+
+mild_JJ has a pmi value: 0.23521516
+
+short_JJ has a pmi value: 0.09038803
+
+windy_JJ has a pmi value: 0.104657605
+Successful question <temperate_JJ>: Correct Answer=>mild_JJ, Computed Answer=>mild_JJ
+
+exercise_NN has a pmi value: 0.106624566
+
+rest_NN has a pmi value: 0.07410987
+
+joke_NN has a pmi value: 0.23283663
+
+smile_NN has a pmi value: 0.56520236
+Successful question <grin_NN>: Correct Answer=>smile_NN, Computed Answer=>smile_NN
+
+orally_RB has a pmi value: 0.23530078
+
+overtly_RB has a pmi value: 0.06797172
+
+fittingly_RB has a pmi value: 0.115552455
+
+verbosely_RB has a pmi value: 0.022335833
+Successful question <verbally_RB>: Correct Answer=>orally_RB, Computed Answer=>orally_RB
+
+chemist_NN has a pmi value: 0.32242173
+
+pharmacist_NN has a pmi value: 0.13836393
+
+nurse_NN has a pmi value: 0.29456756
+
+doctor_NN has a pmi value: 0.3909616
+Successful question <physician_NN>: Correct Answer=>doctor_NN, Computed Answer=>doctor_NN
+
+possibly_RB has a pmi value: 0.19111295
+
+eagerly_RB has a pmi value: 0.053730465
+
+basically_RB has a pmi value: 0.13525455
+
+ordinarily_RB has a pmi value: 0.20893079
+Failed question <essentially_RB>: Correct Answer=>basically_RB, Computed Answer=>ordinarily_RB
+
+useful_JJ has a pmi value: 0.12910219
+
+simple_JJ has a pmi value: 0.18478669
+
+famous_JJ has a pmi value: 0.1481098
+
+sharp_JJ has a pmi value: 0.39815667
+Successful question <keen_JJ>: Correct Answer=>sharp_JJ, Computed Answer=>sharp_JJ
+-19914
+rotating_JJ has a pmi value: 0.0
+
+isolated_JJ has a pmi value: 0.23239364
+-7885
+emptying_JJ has a pmi value: 0.0
+-17695
+positioned_JJ has a pmi value: 0.0
+Failed question <situated_JJ>: Correct Answer=>positioned_JJ, Computed Answer=>isolated_JJ
+
+most_JJ has a pmi value: 0.1552757
+
+numerous_JJ has a pmi value: 0.362479
+
+major_JJ has a pmi value: 0.19666834
+
+exceptional_JJ has a pmi value: 0.18929663
+Failed question <principal_JJ>: Correct Answer=>major_JJ, Computed Answer=>numerous_JJ
+
+rarely_RB has a pmi value: 0.14672875
+
+gradually_RB has a pmi value: 0.4264462
+
+effectively_RB has a pmi value: 0.12539399
+
+continuously_RB has a pmi value: 0.24453491
+Successful question <slowly_RB>: Correct Answer=>gradually_RB, Computed Answer=>gradually_RB
+
+construct_VB has a pmi value: 0.47564656
+
+propose_VB has a pmi value: 0.12195244
+
+finance_VB has a pmi value: 0.105209894
+
+organize_VB has a pmi value: 0.19514355
+Successful question <build_VB>: Correct Answer=>construct_VB, Computed Answer=>construct_VB
+
+customer_NN has a pmi value: 0.13043085
+
+material_NN has a pmi value: 0.1727217
+
+shop_NN has a pmi value: 0.08632748
+
+job_NN has a pmi value: 0.28274348
+Successful question <task_NN>: Correct Answer=>job_NN, Computed Answer=>job_NN
+
+improbable_JJ has a pmi value: 0.31894243
+
+disagreeable_JJ has a pmi value: 0.17998831
+
+different_JJ has a pmi value: 0.15656234
+
+unpopular_JJ has a pmi value: 0.13157357
+Successful question <unlikely_JJ>: Correct Answer=>improbable_JJ, Computed Answer=>improbable_JJ
+-10791
+customarily_RB has a pmi value: 0.0
+-10791
+bipartisanly_RB has a pmi value: 0.0
+-10791
+apathetically_RB has a pmi value: 0.0
+-10791
+unconventionally_RB has a pmi value: 0.0
+Failed question <halfheartedly_RB>: Correct Answer=>apathetically_RB, Computed Answer=>
+
+home_NN has a pmi value: 0.06890431
+
+trail_NN has a pmi value: 0.06698463
+
+chronicle_NN has a pmi value: 0.2672674
+
+song_NN has a pmi value: 0.14790131
+Successful question <annals_NN>: Correct Answer=>chronicle_NN, Computed Answer=>chronicle_NN
+
+distinctively_RB has a pmi value: 0.03620961
+
+mysteriously_RB has a pmi value: 0.1718243
+
+abruptly_RB has a pmi value: 0.18755555
+
+furiously_RB has a pmi value: 0.40758997
+Successful question <wildly_RB>: Correct Answer=>furiously_RB, Computed Answer=>furiously_RB
+
+judge_VB has a pmi value: 0.0805526
+
+acclaim_VB has a pmi value: 0.18151446
+
+remember_VB has a pmi value: 0.08523535
+
+address_VB has a pmi value: 0.20343941
+Failed question <hail_VB>: Correct Answer=>acclaim_VB, Computed Answer=>address_VB
+
+observation_NN has a pmi value: 0.17965852
+
+love_NN has a pmi value: 0.14563866
+
+awareness_NN has a pmi value: 0.091479175
+
+mastery_NN has a pmi value: 0.22042395
+Successful question <command_NN>: Correct Answer=>mastery_NN, Computed Answer=>mastery_NN
+
+devise_VB has a pmi value: 0.22653207
+
+clean_VB has a pmi value: 0.08329193
+
+request_VB has a pmi value: 0.078539826
+
+supervise_VB has a pmi value: 0.07980501
+Successful question <concoct_VB>: Correct Answer=>devise_VB, Computed Answer=>devise_VB
+
+particular_JJ has a pmi value: 0.17987815
+
+prudent_JJ has a pmi value: 0.14668275
+
+potential_JJ has a pmi value: 0.22761367
+
+prominent_JJ has a pmi value: 0.14968526
+Successful question <prospective_JJ>: Correct Answer=>potential_JJ, Computed Answer=>potential_JJ
+
+descriptively_RB has a pmi value: 0.06593053
+
+broadly_RB has a pmi value: 0.20357446
+
+controversially_RB has a pmi value: 0.050851066
+
+accurately_RB has a pmi value: 0.20319073
+Successful question <generally_RB>: Correct Answer=>broadly_RB, Computed Answer=>broadly_RB
+
+prolong_VB has a pmi value: 0.22760804
+
+refine_VB has a pmi value: 0.15968098
+
+lower_VB has a pmi value: 0.15716368
+
+analyze_VB has a pmi value: 0.1501425
+Successful question <sustain_VB>: Correct Answer=>prolong_VB, Computed Answer=>prolong_VB
+
+binding_JJ has a pmi value: 0.09096657
+
+exciting_JJ has a pmi value: 0.22626811
+
+offensive_JJ has a pmi value: 0.15470226
+
+dangerous_JJ has a pmi value: 0.42639834
+Successful question <perilous_JJ>: Correct Answer=>dangerous_JJ, Computed Answer=>dangerous_JJ
+
+peacefulness_NN has a pmi value: 0.2781314
+
+harshness_NN has a pmi value: 0.14147502
+
+weariness_NN has a pmi value: 0.18803814
+
+happiness_NN has a pmi value: 0.32502058
+Failed question <tranquillity_NN>: Correct Answer=>peacefulness_NN, Computed Answer=>happiness_NN
+
+disperse_VB has a pmi value: 0.19957842
+
+isolate_VB has a pmi value: 0.12277733
+
+disguise_VB has a pmi value: 0.1311144
+
+photograph_VB has a pmi value: 0.080609
+Successful question <dissipate_VB>: Correct Answer=>disperse_VB, Computed Answer=>disperse_VB
+
+occasionally_RB has a pmi value: 0.13533935
+
+cautiously_RB has a pmi value: 0.07165129
+
+consistently_RB has a pmi value: 0.15971388
+
+chiefly_RB has a pmi value: 0.32720026
+Successful question <primarily_RB>: Correct Answer=>chiefly_RB, Computed Answer=>chiefly_RB
+
+recorded_JJ has a pmi value: 0.07434377
+
+misunderstood_JJ has a pmi value: 0.053757768
+
+incorrect_JJ has a pmi value: 0.14240155
+
+conversational_JJ has a pmi value: 0.24043743
+Successful question <colloquial_JJ>: Correct Answer=>conversational_JJ, Computed Answer=>conversational_JJ
+
+publicize_VB has a pmi value: 0.03440499
+
+forget_VB has a pmi value: 0.11997732
+
+settle_VB has a pmi value: 0.1918343
+
+examine_VB has a pmi value: 0.13236466
+Successful question <resolve_VB>: Correct Answer=>settle_VB, Computed Answer=>settle_VB
+
+permit_VB has a pmi value: 0.09983131
+
+possible_JJ has a pmi value: 0.20989837
+
+equitable_JJ has a pmi value: 0.15743779
+
+evident_JJ has a pmi value: 0.08772162
+Successful question <feasible_JJ>: Correct Answer=>possible_JJ, Computed Answer=>possible_JJ
+
+frequently_RB has a pmi value: 0.09508379
+
+actually_RB has a pmi value: 0.12903456
+
+rapidly_RB has a pmi value: 0.137812
+
+repeatedly_RB has a pmi value: 0.09179033
+Successful question <expeditiously_RB>: Correct Answer=>rapidly_RB, Computed Answer=>rapidly_RB
+
+volume_NN has a pmi value: 0.1548939
+
+sample_NN has a pmi value: 0.14553171
+
+proportion_NN has a pmi value: 0.28641757
+
+profit_NN has a pmi value: 0.28172544
+Successful question <percentage_NN>: Correct Answer=>proportion_NN, Computed Answer=>proportion_NN
+
+end_VB has a pmi value: 0.35624674
+
+pose_VB has a pmi value: 0.06305946
+
+postpone_VB has a pmi value: 0.18475665
+
+evaluate_VB has a pmi value: 0.05337573
+Successful question <terminate_VB>: Correct Answer=>end_VB, Computed Answer=>end_VB
+
+hard_JJ has a pmi value: 0.14642203
+
+complex_JJ has a pmi value: 0.18226875
+
+alike_JJ has a pmi value: 0.16771638
+
+sharp_JJ has a pmi value: 0.14114593
+Failed question <uniform_JJ>: Correct Answer=>alike_JJ, Computed Answer=>complex_JJ
+
+list_VB has a pmi value: 0.10863847
+
+solve_VB has a pmi value: 0.12986304
+
+divide_VB has a pmi value: 0.16395001
+
+express_VB has a pmi value: 0.16177887
+Failed question <figure_VB>: Correct Answer=>solve_VB, Computed Answer=>divide_VB
+
+recent_JJ has a pmi value: 0.17150386
+
+physiological_JJ has a pmi value: 0.15950975
+
+enough_JJ has a pmi value: 0.22973184
+
+valuable_JJ has a pmi value: 0.24350236
+Failed question <sufficient_JJ>: Correct Answer=>enough_JJ, Computed Answer=>valuable_JJ
+
+ration_NN has a pmi value: 0.08612155
+
+fathom_NN has a pmi value: 0.04070839
+
+craze_NN has a pmi value: 0.12468278
+
+manner_NN has a pmi value: 0.5890866
+Successful question <fashion_NN>: Correct Answer=>manner_NN, Computed Answer=>manner_NN
+
+freeze_VB has a pmi value: 0.07672427
+
+sell_VB has a pmi value: 0.19669549
+
+sweeten_VB has a pmi value: 0.05597373
+
+dilute_VB has a pmi value: 0.0751071
+Successful question <market_VB>: Correct Answer=>sell_VB, Computed Answer=>sell_VB
+-22390
+steadier_JJ has a pmi value: 0.0
+-4580
+closer_JJ has a pmi value: 0.0
+
+larger_JJ has a pmi value: 0.30958074
+
+better_JJ has a pmi value: 0.15434586
+Successful question <bigger_JJ>: Correct Answer=>larger_JJ, Computed Answer=>larger_JJ
+
+origin_NN has a pmi value: 0.12933072
+
+ritual_NN has a pmi value: 0.07720123
+
+cure_NN has a pmi value: 0.09541294
+
+function_NN has a pmi value: 0.11788613
+Successful question <root_NN>: Correct Answer=>origin_NN, Computed Answer=>origin_NN
+
+haltingly_RB has a pmi value: 0.06437725
+
+ordinarily_RB has a pmi value: 0.25755668
+
+permanently_RB has a pmi value: 0.19678794
+
+periodically_RB has a pmi value: 0.11591333
+Successful question <normally_RB>: Correct Answer=>ordinarily_RB, Computed Answer=>ordinarily_RB
+total correct answers: 64

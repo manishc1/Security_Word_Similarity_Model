@@ -1,0 +1,470 @@
+appropriately_RB has a pmi value: 4.745685
+enormously_RB has no or rare co-occurrence with uniquely_RB
+uniquely_RB has a pmi value: 0.0
+tremendously_RB has a pmi value: 7.4903245
+decidedly_RB has a pmi value: 5.143869
+Successful question <enormously_RB>: Correct Answer=>tremendously_RB, Computed Answer=>tremendously_RB
+stipulation_NN has a pmi value: 8.91943
+provision_NN has no or rare co-occurrence with interrelation_NN
+interrelation_NN has a pmi value: 0.0
+jurisdiction_NN has a pmi value: 8.866844
+interpretation_NN has a pmi value: 7.5254765
+Successful question <provision_NN>: Correct Answer=>stipulation_NN, Computed Answer=>stipulation_NN
+haphazardly_RB has no or rare co-occurrence with dangerously_RB
+dangerously_RB has a pmi value: 0.0
+haphazardly_RB has no or rare co-occurrence with densely_RB
+densely_RB has a pmi value: 0.0
+haphazardly_RB has no or rare co-occurrence with randomly_RB
+randomly_RB has a pmi value: 0.0
+haphazardly_RB has no or rare co-occurrence with linearly_RB
+linearly_RB has a pmi value: 0.0
+Failed question <haphazardly_RB>: Correct Answer=>randomly_RB, Computed Answer=>
+battered_JJ has a pmi value: 7.2214947
+ancient_JJ has a pmi value: 7.9614854
+mysterious_JJ has a pmi value: 4.642266
+conspicuous_JJ has a pmi value: 9.872317
+Successful question <prominent_JJ>: Correct Answer=>conspicuous_JJ, Computed Answer=>conspicuous_JJ
+completion_NN has a pmi value: 6.7901235
+pinnacle_NN has a pmi value: 8.275099
+outset_NN has a pmi value: 7.2663207
+decline_NN has a pmi value: 9.421562
+Failed question <zenith_NN>: Correct Answer=>pinnacle_NN, Computed Answer=>decline_NN
+tiny_JJ has a pmi value: 8.115081
+imperfect_JJ has a pmi value: 8.704665
+flawed_JJ has no or rare co-occurrence with lustrous_JJ
+lustrous_JJ has a pmi value: 0.0
+flawed_JJ has no or rare co-occurrence with crude_JJ
+crude_JJ has a pmi value: 0.0
+Successful question <flawed_JJ>: Correct Answer=>imperfect_JJ, Computed Answer=>imperfect_JJ
+typically_RB has a pmi value: 6.3967643
+urgently_RB has no or rare co-occurrence with conceivably_RB
+conceivably_RB has a pmi value: 0.0
+tentatively_RB has a pmi value: 5.9811997
+desperately_RB has a pmi value: 6.1564913
+Failed question <urgently_RB>: Correct Answer=>desperately_RB, Computed Answer=>typically_RB
+breed_VB has a pmi value: 8.076235
+catch_VB has a pmi value: 6.92567
+eat_VB has a pmi value: 9.712183
+supply_VB has a pmi value: 9.537367
+Successful question <consume_VB>: Correct Answer=>eat_VB, Computed Answer=>eat_VB
+coming_NN has a pmi value: 7.732575
+advent_NN and arrest_NN are unqualified 
+arrest_NN has a pmi value: 0.0
+financing_NN has a pmi value: 6.6657844
+stability_NN has a pmi value: 7.077671
+Successful question <advent_NN>: Correct Answer=>coming_NN, Computed Answer=>coming_NN
+concisely_RB has no or rare co-occurrence with powerfully_RB
+powerfully_RB has a pmi value: 0.0
+concisely_RB has no or rare co-occurrence with positively_RB
+positively_RB has a pmi value: 0.0
+freely_RB has a pmi value: 5.2863917
+concisely_RB has no or rare co-occurrence with succinctly_RB
+succinctly_RB has a pmi value: 0.0
+Failed question <concisely_RB>: Correct Answer=>succinctly_RB, Computed Answer=>freely_RB
+salute_NN and information_NN are unqualified 
+information_NN has a pmi value: 0.0
+ceremony_NN has a pmi value: 8.732718
+greeting_NN has a pmi value: 8.273014
+privilege_NN has a pmi value: 6.215429
+Failed question <salute_NN>: Correct Answer=>greeting_NN, Computed Answer=>ceremony_NN
+alert_JJ has a pmi value: 5.957807
+restless_JJ has a pmi value: 8.418992
+alone_JJ has a pmi value: 9.656551
+fearless_JJ has a pmi value: 7.0894012
+Successful question <solitary_JJ>: Correct Answer=>alone_JJ, Computed Answer=>alone_JJ
+permit_VB has a pmi value: 7.891456
+determine_VB has a pmi value: 7.9695606
+accelerate_VB has a pmi value: 8.629433
+accompany_VB has a pmi value: 8.692673
+Failed question <hasten_VB>: Correct Answer=>accelerate_VB, Computed Answer=>accompany_VB
+endurance_NN has a pmi value: 9.33769
+skill_NN has a pmi value: 9.235196
+generosity_NN has a pmi value: 7.3871875
+disturbance_NN has a pmi value: 5.3586297
+Successful question <perseverance_NN>: Correct Answer=>endurance_NN, Computed Answer=>endurance_NN
+familiar_JJ has a pmi value: 8.154589
+imaginative_JJ has a pmi value: 10.605333
+apparent_JJ has a pmi value: 6.1882257
+logical_JJ has a pmi value: 8.189019
+Successful question <fanciful_JJ>: Correct Answer=>imaginative_JJ, Computed Answer=>imaginative_JJ
+demonstrate_VB has a pmi value: 9.289162
+publish_VB has a pmi value: 8.598133
+repeat_VB has a pmi value: 7.073804
+postpone_VB has a pmi value: 6.1306567
+Successful question <show_VB>: Correct Answer=>demonstrate_VB, Computed Answer=>demonstrate_VB
+instantly_RB has a pmi value: 3.986275
+continually_RB has a pmi value: 8.9414
+rapidly_RB has a pmi value: 7.7426314
+accidentally_RB has a pmi value: 6.420664
+Successful question <constantly_RB>: Correct Answer=>continually_RB, Computed Answer=>continually_RB
+training_NN has a pmi value: 6.8833933
+salary_NN has a pmi value: 6.117824
+subject_NN has a pmi value: 7.7216635
+benefit_NN has a pmi value: 7.3070817
+Successful question <issue_NN>: Correct Answer=>subject_NN, Computed Answer=>subject_NN
+supply_VB has a pmi value: 10.417644
+impress_VB has a pmi value: 7.6950164
+protect_VB has a pmi value: 8.459217
+advise_VB has a pmi value: 7.5844526
+Successful question <furnish_VB>: Correct Answer=>supply_VB, Computed Answer=>supply_VB
+expensive_JJ has a pmi value: 10.946517
+beautiful_JJ has a pmi value: 9.580161
+popular_JJ has a pmi value: 6.695237
+complicated_JJ has a pmi value: 8.335373
+Successful question <costly_JJ>: Correct Answer=>expensive_JJ, Computed Answer=>expensive_JJ
+successful_JJ has a pmi value: 8.235599
+depict_VB has a pmi value: 7.648011
+acknowledge_VB has a pmi value: 9.390794
+welcome_VB has a pmi value: 8.59567
+Successful question <recognize_VB>: Correct Answer=>acknowledge_VB, Computed Answer=>acknowledge_VB
+climate_NN has a pmi value: 7.6192346
+latitude_NN has a pmi value: 8.04087
+sea_NN has a pmi value: 7.9440145
+location_NN has a pmi value: 8.450068
+Successful question <spot_NN>: Correct Answer=>location_NN, Computed Answer=>location_NN
+earn_VB has a pmi value: 8.22313
+print_VB has a pmi value: 8.054879
+trade_VB has a pmi value: 8.13841
+borrow_VB has a pmi value: 8.040839
+Successful question <make_VB>: Correct Answer=>earn_VB, Computed Answer=>earn_VB
+definitely_RB has a pmi value: 6.814824
+frequently_RB has a pmi value: 9.511751
+chemically_RB has a pmi value: 5.4514875
+hardly_RB has a pmi value: 7.5377345
+Successful question <often_RB>: Correct Answer=>frequently_RB, Computed Answer=>frequently_RB
+easygoing_JJ has no or rare co-occurrence with frontier_JJ
+frontier_JJ has a pmi value: 0.0
+easygoing_JJ has no or rare co-occurrence with boring_JJ
+boring_JJ has a pmi value: 0.0
+easygoing_JJ has no or rare co-occurrence with farming_JJ
+farming_JJ has a pmi value: 0.0
+easygoing_JJ has no or rare co-occurrence with relaxed_JJ
+relaxed_JJ has a pmi value: 0.0
+Failed question <easygoing_JJ>: Correct Answer=>relaxed_JJ, Computed Answer=>
+war_NN has a pmi value: 8.077543
+argument_NN has a pmi value: 9.593827
+election_NN has a pmi value: 8.846915
+competition_NN has a pmi value: 7.178323
+Successful question <debate_NN>: Correct Answer=>argument_NN, Computed Answer=>argument_NN
+clear_JJ has a pmi value: 7.84596
+narrow_JJ has no or rare co-occurrence with freezing_JJ
+freezing_JJ has a pmi value: 0.0
+thin_JJ has a pmi value: 9.672428
+narrow_JJ and poisonous_JJ are unqualified 
+poisonous_JJ has a pmi value: 0.0
+Successful question <narrow_JJ>: Correct Answer=>thin_JJ, Computed Answer=>thin_JJ
+plan_VB has a pmi value: 9.431595
+explain_VB has a pmi value: 8.053027
+study_VB has a pmi value: 7.8735037
+discard_VB has a pmi value: 8.076845
+Successful question <arrange_VB>: Correct Answer=>plan_VB, Computed Answer=>plan_VB
+limitless_JJ has a pmi value: 10.017337
+relative_JJ has a pmi value: 8.013217
+infinite_JJ and unusual_JJ are unqualified 
+unusual_JJ has a pmi value: 0.0
+structural_JJ has a pmi value: 8.826213
+Successful question <infinite_JJ>: Correct Answer=>limitless_JJ, Computed Answer=>limitless_JJ
+striking_JJ has a pmi value: 9.150674
+prickly_JJ has a pmi value: 7.8620496
+entertaining_JJ has a pmi value: 7.7441015
+incidental_JJ has a pmi value: 6.8982077
+Successful question <showy_JJ>: Correct Answer=>striking_JJ, Computed Answer=>striking_JJ
+impose_VB has a pmi value: 10.754439
+levy_VB and believe_VB are unqualified 
+believe_VB has a pmi value: 0.0
+request_VB has a pmi value: 7.817704
+levy_VB has no or rare co-occurrence with correlate_VB
+correlate_VB has a pmi value: 0.0
+Successful question <levy_VB>: Correct Answer=>impose_VB, Computed Answer=>impose_VB
+skillfully_RB has a pmi value: 8.698416
+deftly_RB has no or rare co-occurrence with prudently_RB
+prudently_RB has a pmi value: 0.0
+occasionally_RB has a pmi value: 6.708805
+deftly_RB has no or rare co-occurrence with humorously_RB
+humorously_RB has a pmi value: 0.0
+Successful question <deftly_RB>: Correct Answer=>skillfully_RB, Computed Answer=>skillfully_RB
+commercialize_VB has a pmi value: 7.226864
+circulate_VB has a pmi value: 9.958586
+research_VB has a pmi value: 6.796616
+acknowledge_VB has a pmi value: 7.005921
+Successful question <distribute_VB>: Correct Answer=>circulate_VB, Computed Answer=>circulate_VB
+weight_NN has a pmi value: 7.360567
+deposit_NN has a pmi value: 6.998057
+discrepancy_NN has no or rare co-occurrence with wavelength_NN
+wavelength_NN has a pmi value: 0.0
+difference_NN has a pmi value: 8.694752
+Successful question <discrepancy_NN>: Correct Answer=>difference_NN, Computed Answer=>difference_NN
+productive_JJ has a pmi value: 9.577189
+serious_JJ has a pmi value: 7.5002146
+capable_JJ has a pmi value: 7.744173
+promising_JJ has a pmi value: 7.6300726
+Successful question <prolific_JJ>: Correct Answer=>productive_JJ, Computed Answer=>productive_JJ
+unmatched_JJ has no or rare co-occurrence with unrecognized_JJ
+unrecognized_JJ has a pmi value: 0.0
+unequaled_JJ has a pmi value: 8.224354
+unmatched_JJ has no or rare co-occurrence with alienated_JJ
+alienated_JJ has a pmi value: 0.0
+unmatched_JJ has no or rare co-occurrence with emulated_JJ
+emulated_JJ has a pmi value: 0.0
+Successful question <unmatched_JJ>: Correct Answer=>unequaled_JJ, Computed Answer=>unequaled_JJ
+partly_RB has a pmi value: 7.182218
+uniquely_RB has a pmi value: 7.365233
+patriotically_RB has a pmi value: 5.8757195
+suspiciously_RB has a pmi value: 4.133569
+Successful question <peculiarly_RB>: Correct Answer=>uniquely_RB, Computed Answer=>uniquely_RB
+glare_NN has a pmi value: 8.375202
+contrast_NN has a pmi value: 8.951358
+color_NN has a pmi value: 10.408222
+scent_NN has a pmi value: 8.561812
+Successful question <hue_NN>: Correct Answer=>color_NN, Computed Answer=>color_NN
+curved_JJ has a pmi value: 9.845619
+muscular_JJ has a pmi value: 9.28975
+hairy_JJ has a pmi value: 9.44753
+rear_JJ has a pmi value: 9.789965
+Failed question <hind_JJ>: Correct Answer=>rear_JJ, Computed Answer=>curved_JJ
+alter_VB has a pmi value: 4.430781
+imitate_VB has a pmi value: 4.82713
+highlight_VB has no or rare co-occurrence with accentuate_VB
+accentuate_VB has a pmi value: 0.0
+highlight_VB has no or rare co-occurrence with restore_VB
+restore_VB has a pmi value: 0.0
+Failed question <highlight_VB>: Correct Answer=>accentuate_VB, Computed Answer=>imitate_VB
+hurriedly_RB has a pmi value: 8.204805
+hastily_RB and shrewdly_RB are unqualified 
+shrewdly_RB has a pmi value: 0.0
+hastily_RB and habitually_RB are unqualified 
+habitually_RB has a pmi value: 0.0
+hastily_RB has no or rare co-occurrence with chronologically_RB
+chronologically_RB has a pmi value: 0.0
+Successful question <hastily_RB>: Correct Answer=>hurriedly_RB, Computed Answer=>hurriedly_RB
+cold_JJ has a pmi value: 9.5214615
+mild_JJ has a pmi value: 9.649674
+short_JJ has a pmi value: 6.785457
+windy_JJ has a pmi value: 7.1167474
+Successful question <temperate_JJ>: Correct Answer=>mild_JJ, Computed Answer=>mild_JJ
+grin_NN and exercise_NN are unqualified 
+exercise_NN has a pmi value: 0.0
+rest_NN has a pmi value: 4.6112833
+joke_NN has a pmi value: 8.465587
+smile_NN has a pmi value: 8.733276
+Successful question <grin_NN>: Correct Answer=>smile_NN, Computed Answer=>smile_NN
+orally_RB has a pmi value: 8.200938
+verbally_RB has no or rare co-occurrence with overtly_RB
+overtly_RB has a pmi value: 0.0
+verbally_RB has no or rare co-occurrence with fittingly_RB
+fittingly_RB has a pmi value: 0.0
+verbally_RB has no or rare co-occurrence with verbosely_RB
+verbosely_RB has a pmi value: 0.0
+Successful question <verbally_RB>: Correct Answer=>orally_RB, Computed Answer=>orally_RB
+chemist_NN has a pmi value: 9.2613125
+pharmacist_NN has a pmi value: 9.167626
+nurse_NN has a pmi value: 9.383414
+doctor_NN has a pmi value: 9.612964
+Successful question <physician_NN>: Correct Answer=>doctor_NN, Computed Answer=>doctor_NN
+possibly_RB has a pmi value: 6.9219623
+essentially_RB and eagerly_RB are unqualified 
+eagerly_RB has a pmi value: 0.0
+essentially_RB has no or rare co-occurrence with basically_RB
+basically_RB has a pmi value: 0.0
+ordinarily_RB has a pmi value: 7.2468667
+Failed question <essentially_RB>: Correct Answer=>basically_RB, Computed Answer=>ordinarily_RB
+keen_JJ and useful_JJ are unqualified 
+useful_JJ has a pmi value: 0.0
+simple_JJ has a pmi value: 7.344181
+famous_JJ has a pmi value: 7.039322
+sharp_JJ has a pmi value: 9.919563
+Successful question <keen_JJ>: Correct Answer=>sharp_JJ, Computed Answer=>sharp_JJ
+situated_JJ has no or rare co-occurrence with rotating_JJ
+rotating_JJ has a pmi value: 0.0
+isolated_JJ has a pmi value: 9.451313
+situated_JJ has no or rare co-occurrence with emptying_JJ
+emptying_JJ has a pmi value: 0.0
+situated_JJ has no or rare co-occurrence with positioned_JJ
+positioned_JJ has a pmi value: 0.0
+Failed question <situated_JJ>: Correct Answer=>positioned_JJ, Computed Answer=>isolated_JJ
+most_JJ has a pmi value: 8.583372
+numerous_JJ has a pmi value: 9.30949
+major_JJ has a pmi value: 7.202236
+principal_JJ and exceptional_JJ are unqualified 
+exceptional_JJ has a pmi value: 0.0
+Failed question <principal_JJ>: Correct Answer=>major_JJ, Computed Answer=>numerous_JJ
+rarely_RB has a pmi value: 5.304044
+gradually_RB has a pmi value: 9.085075
+slowly_RB and effectively_RB are unqualified 
+effectively_RB has a pmi value: 0.0
+continuously_RB has a pmi value: 7.434842
+Successful question <slowly_RB>: Correct Answer=>gradually_RB, Computed Answer=>gradually_RB
+construct_VB has a pmi value: 10.855793
+propose_VB has a pmi value: 8.020097
+finance_VB has a pmi value: 8.835241
+organize_VB has a pmi value: 8.844366
+Successful question <build_VB>: Correct Answer=>construct_VB, Computed Answer=>construct_VB
+customer_NN has a pmi value: 6.142508
+material_NN has a pmi value: 8.033354
+shop_NN has a pmi value: 5.972961
+job_NN has a pmi value: 8.057301
+Successful question <task_NN>: Correct Answer=>job_NN, Computed Answer=>job_NN
+improbable_JJ has a pmi value: 10.062387
+disagreeable_JJ has a pmi value: 5.063595
+different_JJ has a pmi value: 6.620463
+unpopular_JJ has a pmi value: 8.271256
+Successful question <unlikely_JJ>: Correct Answer=>improbable_JJ, Computed Answer=>improbable_JJ
+halfheartedly_RB has no or rare co-occurrence with customarily_RB
+customarily_RB has a pmi value: 0.0
+halfheartedly_RB has no or rare co-occurrence with bipartisanly_RB
+bipartisanly_RB has a pmi value: 0.0
+halfheartedly_RB has no or rare co-occurrence with apathetically_RB
+apathetically_RB has a pmi value: 0.0
+halfheartedly_RB has no or rare co-occurrence with unconventionally_RB
+unconventionally_RB has a pmi value: 0.0
+Failed question <halfheartedly_RB>: Correct Answer=>apathetically_RB, Computed Answer=>
+annals_NN and home_NN are unqualified 
+home_NN has a pmi value: 0.0
+annals_NN and trail_NN are unqualified 
+trail_NN has a pmi value: 0.0
+chronicle_NN has a pmi value: 9.489004
+song_NN has a pmi value: 6.5357604
+Successful question <annals_NN>: Correct Answer=>chronicle_NN, Computed Answer=>chronicle_NN
+wildly_RB has no or rare co-occurrence with distinctively_RB
+distinctively_RB has a pmi value: 0.0
+mysteriously_RB has a pmi value: 6.1593466
+abruptly_RB has a pmi value: 7.127802
+furiously_RB has a pmi value: 8.726667
+Successful question <wildly_RB>: Correct Answer=>furiously_RB, Computed Answer=>furiously_RB
+hail_VB and judge_VB are unqualified 
+judge_VB has a pmi value: 0.0
+acclaim_VB has a pmi value: 9.207852
+remember_VB has a pmi value: 4.213824
+address_VB has a pmi value: 7.758184
+Successful question <hail_VB>: Correct Answer=>acclaim_VB, Computed Answer=>acclaim_VB
+observation_NN has a pmi value: 6.3465366
+love_NN has a pmi value: 5.9437137
+command_NN and awareness_NN are unqualified 
+awareness_NN has a pmi value: 0.0
+mastery_NN has a pmi value: 7.3151245
+Successful question <command_NN>: Correct Answer=>mastery_NN, Computed Answer=>mastery_NN
+devise_VB has a pmi value: 9.211393
+clean_VB has a pmi value: 6.068507
+request_VB has a pmi value: 7.409576
+supervise_VB has a pmi value: 7.6761756
+Successful question <concoct_VB>: Correct Answer=>devise_VB, Computed Answer=>devise_VB
+particular_JJ has a pmi value: 7.0926104
+prudent_JJ has a pmi value: 6.405602
+potential_JJ has a pmi value: 8.150632
+prominent_JJ has a pmi value: 6.1988764
+Successful question <prospective_JJ>: Correct Answer=>potential_JJ, Computed Answer=>potential_JJ
+descriptively_RB has a pmi value: 6.801436
+broadly_RB has a pmi value: 6.988681
+controversially_RB has a pmi value: 6.555846
+accurately_RB has a pmi value: 7.7427325
+Failed question <generally_RB>: Correct Answer=>broadly_RB, Computed Answer=>accurately_RB
+prolong_VB has a pmi value: 9.110953
+refine_VB has a pmi value: 7.840349
+lower_VB has a pmi value: 6.8068204
+analyze_VB has a pmi value: 7.672999
+Successful question <sustain_VB>: Correct Answer=>prolong_VB, Computed Answer=>prolong_VB
+binding_JJ has a pmi value: 5.850193
+exciting_JJ has a pmi value: 9.218568
+offensive_JJ has a pmi value: 6.876465
+dangerous_JJ has a pmi value: 9.907337
+Successful question <perilous_JJ>: Correct Answer=>dangerous_JJ, Computed Answer=>dangerous_JJ
+peacefulness_NN has a pmi value: 8.910397
+harshness_NN has a pmi value: 5.810784
+weariness_NN has a pmi value: 6.5244246
+happiness_NN has a pmi value: 9.165492
+Failed question <tranquillity_NN>: Correct Answer=>peacefulness_NN, Computed Answer=>happiness_NN
+disperse_VB has a pmi value: 9.30963
+isolate_VB has a pmi value: 7.1488705
+disguise_VB has a pmi value: 6.8464704
+photograph_VB has a pmi value: 6.2071133
+Successful question <dissipate_VB>: Correct Answer=>disperse_VB, Computed Answer=>disperse_VB
+occasionally_RB has a pmi value: 6.5492816
+primarily_RB and cautiously_RB are unqualified 
+cautiously_RB has a pmi value: 0.0
+consistently_RB has a pmi value: 7.448078
+chiefly_RB has a pmi value: 8.482612
+Successful question <primarily_RB>: Correct Answer=>chiefly_RB, Computed Answer=>chiefly_RB
+recorded_JJ has a pmi value: 6.711938
+colloquial_JJ has no or rare co-occurrence with misunderstood_JJ
+misunderstood_JJ has a pmi value: 0.0
+incorrect_JJ has a pmi value: 8.1981
+conversational_JJ has a pmi value: 10.241896
+Successful question <colloquial_JJ>: Correct Answer=>conversational_JJ, Computed Answer=>conversational_JJ
+resolve_VB has no or rare co-occurrence with publicize_VB
+publicize_VB has a pmi value: 0.0
+forget_VB has a pmi value: 7.001421
+settle_VB has a pmi value: 8.615362
+examine_VB has a pmi value: 8.232822
+Successful question <resolve_VB>: Correct Answer=>settle_VB, Computed Answer=>settle_VB
+permit_VB has a pmi value: 7.260426
+possible_JJ has a pmi value: 9.151808
+feasible_JJ has no or rare co-occurrence with equitable_JJ
+equitable_JJ has a pmi value: 0.0
+evident_JJ has a pmi value: 7.5637136
+Successful question <feasible_JJ>: Correct Answer=>possible_JJ, Computed Answer=>possible_JJ
+frequently_RB has a pmi value: 6.5449185
+expeditiously_RB has no or rare co-occurrence with actually_RB
+actually_RB has a pmi value: 0.0
+rapidly_RB has a pmi value: 6.152449
+expeditiously_RB has no or rare co-occurrence with repeatedly_RB
+repeatedly_RB has a pmi value: 0.0
+Failed question <expeditiously_RB>: Correct Answer=>rapidly_RB, Computed Answer=>frequently_RB
+volume_NN has a pmi value: 8.063361
+sample_NN has a pmi value: 10.022246
+proportion_NN has a pmi value: 9.485605
+profit_NN has a pmi value: 9.592339
+Failed question <percentage_NN>: Correct Answer=>proportion_NN, Computed Answer=>sample_NN
+end_VB has a pmi value: 9.129121
+terminate_VB and pose_VB are unqualified 
+pose_VB has a pmi value: 0.0
+postpone_VB has a pmi value: 7.938523
+terminate_VB has no or rare co-occurrence with evaluate_VB
+evaluate_VB has a pmi value: 0.0
+Successful question <terminate_VB>: Correct Answer=>end_VB, Computed Answer=>end_VB
+uniform_JJ and hard_JJ are unqualified 
+hard_JJ has a pmi value: 0.0
+complex_JJ has a pmi value: 8.7146435
+alike_JJ has a pmi value: 9.0511875
+sharp_JJ has a pmi value: 5.434742
+Successful question <uniform_JJ>: Correct Answer=>alike_JJ, Computed Answer=>alike_JJ
+list_VB has a pmi value: 6.811274
+solve_VB has a pmi value: 8.351473
+divide_VB has a pmi value: 7.975263
+express_VB has a pmi value: 4.8368707
+Successful question <figure_VB>: Correct Answer=>solve_VB, Computed Answer=>solve_VB
+recent_JJ has a pmi value: 7.7783647
+physiological_JJ has a pmi value: 8.001137
+enough_JJ has a pmi value: 8.771141
+valuable_JJ has a pmi value: 8.124144
+Successful question <sufficient_JJ>: Correct Answer=>enough_JJ, Computed Answer=>enough_JJ
+ration_NN has a pmi value: 4.0838914
+fashion_NN and fathom_NN are unqualified 
+fathom_NN has a pmi value: 0.0
+craze_NN has a pmi value: 8.593605
+manner_NN has a pmi value: 7.9014616
+Failed question <fashion_NN>: Correct Answer=>manner_NN, Computed Answer=>craze_NN
+market_VB and freeze_VB are unqualified 
+freeze_VB has a pmi value: 0.0
+sell_VB has a pmi value: 9.918956
+sweeten_VB has a pmi value: 7.675732
+dilute_VB has a pmi value: 7.057584
+Successful question <market_VB>: Correct Answer=>sell_VB, Computed Answer=>sell_VB
+bigger_JJ has no or rare co-occurrence with steadier_JJ
+steadier_JJ has a pmi value: 0.0
+bigger_JJ has no or rare co-occurrence with closer_JJ
+closer_JJ has a pmi value: 0.0
+larger_JJ has a pmi value: 9.682654
+better_JJ has a pmi value: 8.695043
+Successful question <bigger_JJ>: Correct Answer=>larger_JJ, Computed Answer=>larger_JJ
+origin_NN has a pmi value: 8.21863
+ritual_NN has a pmi value: 7.024242
+cure_NN has a pmi value: 8.077642
+function_NN has a pmi value: 7.4518785
+Successful question <root_NN>: Correct Answer=>origin_NN, Computed Answer=>origin_NN
+normally_RB has no or rare co-occurrence with haltingly_RB
+haltingly_RB has a pmi value: 0.0
+ordinarily_RB has a pmi value: 8.813703
+permanently_RB has a pmi value: 7.906392
+periodically_RB has a pmi value: 6.045818
+Successful question <normally_RB>: Correct Answer=>ordinarily_RB, Computed Answer=>ordinarily_RB
+total correct answers: 62
