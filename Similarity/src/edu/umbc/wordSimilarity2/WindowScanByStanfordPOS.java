@@ -74,22 +74,6 @@ public class WindowScanByStanfordPOS {
 
 			scanDocs(directory);
 			
-			/*
-		    FilenameFilter filter = new FilenameFilter() {
-		        public boolean accept(File dir, String name) {
-		            return name.endsWith(".txt");
-		        }
-		    };
-
-
-			File[] files = directory.listFiles(filter);
-
-			for (File textfile: files){
-				startScanAndCount(textfile);
-				totalArticles ++;
-			}
-			
-			*/
 			long endTime = System.currentTimeMillis();
 			long elipsedTime = endTime - startTime;
 			
@@ -102,16 +86,7 @@ public class WindowScanByStanfordPOS {
 			//close debug file
 			if (DEBUG_ON)
 				outOfDebug.close();
-			
-			/*
-			FileOutputStream fileOut;
-			ObjectOutputStream objOut;
-			fileOut = new FileOutputStream(model.modelName + ".mdl2");
-			objOut = new ObjectOutputStream(fileOut);
-			objOut.writeObject(model);
-			objOut.close();
-			*/
-			
+					
 			model.saveModel();
 			
 			System.out.println("Congratulation! Work Completed!");
@@ -127,129 +102,48 @@ public class WindowScanByStanfordPOS {
 	
 	public void scanDocs(File file) {
 	    // do not try to scan files that cannot be read
-	    if (file.canRead()) {
-	      if (file.isDirectory()) {
-	        String[] files = file.list();
-	        // an IO error could occur
-	        if (files != null) {
-	          for (int i = 0; i < files.length; i++) {
-	        	  scanDocs(new File(file, files[i]));
-	          }
-	        }
-	      } else {
-	    	  if (file.getName().endsWith(".possf2") && !file.getName().contains("readme")){
-	    	  //if (file.getName().endsWith(".txt")){
-
-	    		  System.out.println("scanning " + file);
-				  try {
-						startScanAndCount(file);
-						//totalArticles ++;
-						
-						/*
-						if (Runtime.getRuntime().maxMemory() - Runtime.getRuntime().totalMemory() < 50000000){
-							System.out.println("gc starts to run ...");
-							System.gc();
-							System.out.println("gc complete running.");
-						}
-						*/
-						
-						//System.out.println("maxMemory: " + Runtime.getRuntime().maxMemory());
-						//System.out.println("freeMemory: " + Runtime.getRuntime().freeMemory());
-						//System.out.println("totalMemory: " + Runtime.getRuntime().totalMemory());
-			          
-			        // at least on windows, some temporary files raise this exception with an "access denied" message
-			        // checking if the file can be read doesn't help
-			      } catch (IOException e) {
-			    	  System.out.println("File " + file.toString() + " failed!");
-			    	  e.printStackTrace();
-			      }
-	    	  }else if (file.getName().endsWith(".possf") && !file.getName().contains("readme")){
-	    		  
-	    		  String path = file.getPath();
-	    		  
-	    		  String counterFileName = path + "2";
-	    		  
-	    		  File counterFile = new File(counterFileName);
-	    		  
-	    		  if (!counterFile.exists()){
-	    			  
-		    		  System.out.println("scanning on " + file);
-					  try {
-							startScanAndCount(file);
-				          
-				        // at least on windows, some temporary files raise this exception with an "access denied" message
-				        // checking if the file can be read doesn't help
-				      } catch (IOException e) {
-				    	  System.out.println("File " + file.toString() + " failed!");
-				    	  e.printStackTrace();
-				      }
-	    		  }
-	    	  }
-	    	  
-	    	  
-	      }
-	    }
+		if (file.canRead()) {
+			if (file.isDirectory()) {
+				String[] files = file.list();
+				// an IO error could occur
+				if (files != null) {
+					for (int i = 0; i < files.length; i++) {
+						scanDocs(new File(file, files[i]));
+					}
+				}
+			} else {
+				if (file.getName().endsWith(".possf2") && !file.getName().contains("readme")){
+					System.out.println("scanning " + file);
+					try {
+							startScanAndCount(file);							
+					} catch (IOException e) {
+						System.out.println("File " + file.toString() + " failed!");
+						e.printStackTrace();
+					}
+				}
+			}
+		}
 	}
-
 	
 	
 	public int startScanAndCount(File textfile) throws IOException{
 		
-		//int numberOfElements = 0;
 		LinkedList<int[]> windowElements;
 		PosParagraphGenerator paragraphs = new PosParagraphGenerator(textfile, model.modelName);
 		String paragraph;
-		//int parNo = 0;
-		
-		
 
 		while ((paragraph = paragraphs.getNextParagraph()) != null){
-			
-			/*
-			if (Runtime.getRuntime().maxMemory() - Runtime.getRuntime().totalMemory() < 50000000){
-				System.out.println("gc starts to run ...");
-				System.gc();
-				System.out.println("gc complete running.");
-			}
-			*/
 			
 			if (paragraph.length() == 0)
 				continue;
 			
-			//StanfordWordTokenizer wt = new StanfordWordTokenizer(paragraph, stopWords, morpha);
 			StanfordTermTokenizer wt = new StanfordTermTokenizer(paragraph, stopWords, morpha, model.vocabulary);
 			
 			String[] word;
 			
-			//windowElements = new LinkedList<Integer>();
 			windowElements = new LinkedList<int[]>();
 			
 			while ((word = wt.getNextValidWord()) != null){
-
-				/* previous version updated on 04/09/2010
-				int found = model.addFrequency(word[0]);
-				
-				if (found < 0 && word[1] != null) {
-					found = model.addFrequency(word[1]);
-				}
-				
-				if (found >=0){
-				
-					for (Integer element: windowElements){
-						
-						model.addCoOccurrence(found, element);
-						//model.addCoOccurrence(word, element);
-						
-						if (DEBUG_ON){
-							if ((found == debugWord1 && element == debugWord2) || (found == debugWord2 && element == debugWord1)){
-								outOfDebug.println(textfile + ": " + paragraph);
-								outOfDebug.println();
-							}
-						}
-	
-					}
-				}
-				*/
 				
 				int[] found = new int[2];
 
@@ -268,7 +162,6 @@ public class WindowScanByStanfordPOS {
 						model.addCoOccurrence(found[0], element[1]);
 						model.addCoOccurrence(found[1], element[0]);
 						model.addCoOccurrence(found[1], element[1]);
-						//model.addCoOccurrence(word, element);
 						
 						if (DEBUG_ON){
 							if ((found[0] == debugWord1 && element[0] == debugWord2) || (found[0] == debugWord2 && element[0] == debugWord1)){
@@ -292,10 +185,6 @@ public class WindowScanByStanfordPOS {
 							}
 						}
 	
-						/*
-						if ((word.equals("use") && element.equals("type")) || (word.equals("type") && element.equals("use")))
-							System.out.println(element + " " + word + " ParNo. " + parNo + ": " + windowElements.toString());
-						*/
 					}
 				}
 					
@@ -327,28 +216,11 @@ public class WindowScanByStanfordPOS {
 		try {
 			WindowScanByStanfordPOS test;
 			
-			/*
-			test = new WindowScanByStanfordPOS(20, "/home/lushan1/nlp/model/Gutenberg2010sfd/stopwords", "/home/lushan1/nlp/test/corpus/9", 
-					"/home/lushan1/nlp/test/model/test", "temperate_JJ", "mild_JJ");
-
-			test.run();
-			*/
-			
 			if (args.length == 3){
 				int size = Integer.parseInt(args[0]);
-				test = new WindowScanByStanfordPOS(size, "/home/lushan1/nlp/model/Gutenberg2010sfd/stopwords", "/home/lushan1/nlp/Gutenberg2010Books", 
-						"/home/lushan1/nlp/model/Gutenberg2010sfd/Gutenberg2010AllW" + (size + 1), args[1], args[2]);
+				test = new WindowScanByStanfordPOS(size, "/home/manish/lushan/nlp/model/stopwords", "/home/manish/lushan/nlp/raw-data/CVE", 
+						"/home/manish/lushan/nlp/model/CVE", args[1], args[2]);
 
-				//test = new WindowScanByStanfordPOS(size, "/home/lushan1/nlp/model/Wikipedia2006sfd/stopwords", "/home/lushan1/nlp/Wikipedia2006", 
-				//		"/home/lushan1/nlp/model/Wikipedia2006sfd/Wikipedia2006AllW" + (size + 1), args[1], args[2]);
-
-				//test = new WindowScanByStanfordPOS(size, "/home/lushan1/nlp/model/ukwac2012sfd/stopwords", "/home/lushan1/nlp/ukwac", 
-				//		"/home/lushan1/nlp/model/ukwac2012sfd/ukwac2012AllW" + (size + 1), args[1], args[2]);
-
-				//test = new WindowScanByStanfordPOS(size, "/home/lushan1/nlp/model/webbase2012sfd/stopwords", "/home/lushan1/nlp/webbase", 
-				//		"/home/lushan1/nlp/model/webbase2012sfd/webbase2012AllW" + (size + 1), args[1], args[2]);
-
-				
 				test.run();
 			}else {
 				System.out.println("Argument is not correct!");
@@ -360,8 +232,6 @@ public class WindowScanByStanfordPOS {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-		
-		
 		
 	}
 
