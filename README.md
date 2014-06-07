@@ -1,4 +1,6 @@
 Security_Word_Similarity_Model
 ==============================
 
-This project create a model to identify similar security words
+This project creates a model to identify similar security words
+
+Thanks to Lushan Han, for his contribution on which this is extended.
